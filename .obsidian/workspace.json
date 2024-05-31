@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "1694fcfb087acaa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e77dbc6906df0eb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6eef61c263e6d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据平台工程师面试汇总/HDFS.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9755f0e93edcea91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d04c7dca493c3567",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8296ae919af5a195",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e3545dacb4d9a9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "887475e7de336b95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2b9adc560c659e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90c6d970f540e9fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f0ca8bc7ee868ca",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b4044efa7af0982",
+    "type": "split",
+    "children": [
+      {
+        "id": "b54f69180a550e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c4221ccd969383c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据平台工程师面试汇总/HDFS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f26895bc9698697",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据平台工程师面试汇总/HDFS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa27e3614b8f25b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "140ebb0227b05852",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据平台工程师面试汇总/HDFS.md"
+              }
+            }
+          },
+          {
+            "id": "0faa49b53cf1873b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "21d6779bb06edb07",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 443.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:创建新看板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "a6eef61c263e6d60",
+  "lastOpenFiles": [
+    "数据平台工程师面试汇总/Yarn.md",
+    "数据平台工程师面试汇总/HDFS.md",
+    "Excalidraw/Drawing 2024-05-28 00.55.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-28 00.54.53.excalidraw.md",
+    "数据平台工程师面试汇总/Java.md",
+    "数据平台工程师面试汇总/未命名.canvas",
+    "Welcome.md",
+    "数据平台工程师面试汇总",
+    "create a link.md",
+    "Excalidraw"
+  ]
+}
