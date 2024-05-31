@@ -7,7 +7,20 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-git:pull",
+      "icon": "arrow-down-circle",
+      "name": "Git: Pull",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "arrow-up-circle",
+      "name": "Git: Push",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [],
   "macros": [],
   "explorer": [],

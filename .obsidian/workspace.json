@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1629e9e4b2cd38dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/集合/Java集合常见面试题总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9755f0e93edcea91",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据平台工程师面试汇总/HDFS.md",
+                "file": "JavaGuide/Java/集合/Java集合常见面试题总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据平台工程师面试汇总/HDFS.md",
+                "file": "JavaGuide/Java/集合/Java集合常见面试题总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据平台工程师面试汇总/HDFS.md"
+                "file": "JavaGuide/Java/集合/Java集合常见面试题总结.md"
               }
             }
           },
@@ -171,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,10 +205,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6eef61c263e6d60",
+  "active": "1629e9e4b2cd38dc",
   "lastOpenFiles": [
-    "数据平台工程师面试汇总/Yarn.md",
+    "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
+    "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
+    "Hello Algo/No4. 数组与链表/4.1 数组.md",
+    "Hello Algo/No5. 栈与队列",
     "数据平台工程师面试汇总/HDFS.md",
+    "数据平台工程师面试汇总/Yarn.md",
     "Excalidraw/Drawing 2024-05-28 00.55.26.excalidraw.md",
     "Excalidraw/Drawing 2024-05-28 00.54.53.excalidraw.md",
     "数据平台工程师面试汇总/Java.md",
