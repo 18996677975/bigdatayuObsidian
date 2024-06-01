@@ -8,43 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6eef61c263e6d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据平台工程师面试汇总/HDFS.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "1629e9e4b2cd38dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/集合/Java集合常见面试题总结.md",
+                "file": "Hello Algo/No5. 栈与队列/5.1 栈.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9755f0e93edcea91",
+            "id": "3f7cdd830d00d040",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d04c7dca493c3567",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -122,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/集合/Java集合常见面试题总结.md",
+                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/集合/Java集合常见面试题总结.md",
+                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/集合/Java集合常见面试题总结.md"
+                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md"
               }
             }
           },
@@ -187,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 443.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +190,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1629e9e4b2cd38dc",
+  "active": "3f7cdd830d00d040",
   "lastOpenFiles": [
+    "Hello Algo/No5. 栈与队列/5.1 栈.md",
+    "Hello Algo/No5. 栈与队列/5.2 队列.md",
+    "Hello Algo/No4. 数组与链表/4.3 列表.md",
+    "Hello Algo/Images/Pasted image 20240601105452.png",
+    "Hello Algo/Images",
+    "未命名",
+    "JavaGuide/Java/集合/Java集合常见面试题总结.md",
     "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
     "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
     "Hello Algo/No4. 数组与链表/4.1 数组.md",
