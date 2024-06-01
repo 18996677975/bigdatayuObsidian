@@ -23,12 +23,8 @@
             "id": "3f7cdd830d00d040",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,22 +170,22 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "omnisearch:Omnisearch": false,
+      "command-palette:打开命令面板": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "3f7cdd830d00d040",
   "lastOpenFiles": [
-    "Hello Algo/No5. 栈与队列/5.1 栈.md",
     "Hello Algo/No5. 栈与队列/5.2 队列.md",
+    "Hello Algo/No5. 栈与队列/5.1 栈.md",
     "Hello Algo/Images/Pasted image 20240601113446.png",
     "Hello Algo/No4. 数组与链表/4.3 列表.md",
     "Hello Algo/Images/Pasted image 20240601105452.png",
