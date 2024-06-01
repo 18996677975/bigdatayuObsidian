@@ -2,5 +2,7 @@
   "accentColor": "",
   "baseFontSizeAction": true,
   "baseFontSize": 15,
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "cssTheme": "Minimal",
+  "theme": "system"
 }
