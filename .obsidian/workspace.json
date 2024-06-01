@@ -140,6 +140,16 @@
             }
           },
           {
+            "id": "df9fc3a73a113464",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Hello Algo/Images/Pasted image 20240601215822.png"
+              }
+            }
+          },
+          {
             "id": "d2406f41fc58630f",
             "type": "leaf",
             "state": {
@@ -164,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md",
+                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md",
+                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md"
+                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md"
               }
             }
           },
@@ -321,10 +331,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "46b6c83973c24234",
+  "active": "bc27f60784da121b",
   "lastOpenFiles": [
-    "Pasted image 20240601215950.png",
-    "Pasted image 20240601215822.png",
+    "Hello Algo/No5. 栈与队列/5.1 栈.md",
+    "Hello Algo/No4. 数组与链表/4.3 列表.md",
+    "Hello Algo/No4. 数组与链表/4.2 链表.md",
+    "Hello Algo/Images/Pasted image 20240601215822.png",
+    "Hello Algo/Images/Pasted image 20240601220438.png",
+    "Hello Algo/Images/Pasted image 20240601220032.png",
+    "Hello Algo/Images/Pasted image 20240601215950.png",
     "Hello Algo/No4. 数组与链表/4.1 数组.md",
     "Hello Algo/Images/Pasted image 20240601215533.png",
     "Hello Algo/Images/Pasted image 20240601215413.png",
@@ -335,15 +350,9 @@
     "Hello Algo/No6. 哈希表/6.3 哈希算法.md",
     "Hello Algo/Images/Pasted image 20240601214335.png",
     "Hello Algo/Images/Pasted image 20240601214303.png",
-    "Hello Algo/Images/Pasted image 20240601214020.png",
     "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
-    "Hello Algo/Images/Pasted image 20240601213721.png",
-    "Hello Algo/Images/Pasted image 20240601193112.png",
     "Hello Algo/No6. 哈希表/6.1 哈希表.md",
-    "Hello Algo/No5. 栈与队列/5.1 栈.md",
     "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
-    "Hello Algo/No4. 数组与链表/4.3 列表.md",
-    "Hello Algo/No4. 数组与链表/4.2 链表.md",
     "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
     "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
     "Hello Algo/No5. 栈与队列/5.3 双向队列.md",
