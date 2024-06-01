@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e77dbc6906df0eb1",
+        "id": "ed6691a4926cb7a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1629e9e4b2cd38dc",
+            "id": "c9a69985de3bde19",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,11 +20,27 @@
             }
           },
           {
-            "id": "2bf31464b7f41231",
+            "id": "2291031bd0b69535",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4a5af53c0caa293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.2 队列.md"
+              }
             }
           },
           {
@@ -182,27 +202,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2bf31464b7f41231",
+  "active": "887475e7de336b95",
   "lastOpenFiles": [
-    "Hello Algo/No5. 栈与队列/5.2 队列.md",
     "Hello Algo/No5. 栈与队列/5.1 栈.md",
+    "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
+    "Hello Algo/No5. 栈与队列/5.2 队列.md",
+    "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
+    "Hello Algo/No4. 数组与链表/4.1 数组.md",
     "Hello Algo/No4. 数组与链表/4.2 链表.md",
+    "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
+    "数据平台工程师面试汇总/HDFS.md",
+    "数据平台工程师面试汇总/未命名.canvas",
     "Hello Algo/Images/Pasted image 20240601113446.png",
     "Hello Algo/No4. 数组与链表/4.3 列表.md",
     "Hello Algo/Images/Pasted image 20240601105452.png",
     "Hello Algo/Images",
     "未命名",
     "JavaGuide/Java/集合/Java集合常见面试题总结.md",
-    "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
-    "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
-    "Hello Algo/No4. 数组与链表/4.1 数组.md",
     "Hello Algo/No5. 栈与队列",
-    "数据平台工程师面试汇总/HDFS.md",
     "数据平台工程师面试汇总/Yarn.md",
     "Excalidraw/Drawing 2024-05-28 00.55.26.excalidraw.md",
     "Excalidraw/Drawing 2024-05-28 00.54.53.excalidraw.md",
     "数据平台工程师面试汇总/Java.md",
-    "数据平台工程师面试汇总/未命名.canvas",
     "Welcome.md",
     "数据平台工程师面试汇总",
     "create a link.md",
