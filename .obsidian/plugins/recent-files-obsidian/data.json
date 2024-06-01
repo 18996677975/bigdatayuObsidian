@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "6.2 哈希冲突",
+      "path": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md"
+    },
+    {
       "basename": "6.1 哈希表",
       "path": "Hello Algo/No6. 哈希表/6.1 哈希表.md"
+    },
+    {
+      "basename": "5.1 栈",
+      "path": "Hello Algo/No5. 栈与队列/5.1 栈.md"
     },
     {
       "basename": "4.4 内存与缓存",
@@ -31,10 +39,6 @@
     {
       "basename": "5.3 双向队列",
       "path": "Hello Algo/No5. 栈与队列/5.3 双向队列.md"
-    },
-    {
-      "basename": "5.1 栈",
-      "path": "Hello Algo/No5. 栈与队列/5.1 栈.md"
     },
     {
       "basename": "小结",

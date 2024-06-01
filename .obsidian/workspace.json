@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "7f45b7bb688de36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "714693ce20657710",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md",
+                "file": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md",
+                "file": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md"
+                "file": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md"
               }
             }
           },
@@ -274,18 +286,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bc27f60784da121b",
+  "active": "887475e7de336b95",
   "lastOpenFiles": [
+    "Hello Algo/Images/Pasted image 20240601192700.png",
+    "Hello Algo/No6. 哈希表/6.1 哈希表.md",
+    "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
+    "Hello Algo/Images/Pasted image 20240601192346.png",
+    "Hello Algo/Images/Pasted image 20240601192305.png",
+    "Hello Algo/Images/Pasted image 20240601192022.png",
+    "Hello Algo/No5. 栈与队列/5.1 栈.md",
     "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
     "Hello Algo/No4. 数组与链表/4.3 列表.md",
     "Hello Algo/No4. 数组与链表/4.2 链表.md",
     "Hello Algo/No4. 数组与链表/4.1 数组.md",
     "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
     "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
-    "Hello Algo/No6. 哈希表/6.1 哈希表.md",
     "Hello Algo/No5. 栈与队列/5.3 双向队列.md",
     "Hello Algo/No6. 哈希表",
-    "Hello Algo/No5. 栈与队列/5.1 栈.md",
     "Hello Algo/No5. 栈与队列/小结.md",
     "Hello Algo/No5. 栈与队列/未命名看板.md",
     "Hello Algo/No5. 栈与队列/5.2 队列.md",
