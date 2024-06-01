@@ -56,6 +56,42 @@
             }
           },
           {
+            "id": "5b68808bb7c5614a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No6. 哈希表/6.3 哈希算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7db96f45747a5d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No6. 哈希表/6.4 哈希表小结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d427142639316a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.4 栈与队列小结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "714693ce20657710",
             "type": "leaf",
             "state": {
@@ -128,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -202,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
+                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
+                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md"
+                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md"
               }
             }
           },
@@ -267,8 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
-    "collapsed": true
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,32 +321,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7f45b7bb688de36d",
+  "active": "46b6c83973c24234",
   "lastOpenFiles": [
-    "Hello Algo/Images/Pasted image 20240601193112.png",
-    "Hello Algo/Images/Pasted image 20240601192700.png",
-    "Hello Algo/No6. 哈希表/6.1 哈希表.md",
+    "Pasted image 20240601215950.png",
+    "Pasted image 20240601215822.png",
+    "Hello Algo/No4. 数组与链表/4.1 数组.md",
+    "Hello Algo/Images/Pasted image 20240601215533.png",
+    "Hello Algo/Images/Pasted image 20240601215413.png",
+    "Hello Algo/Images/Pasted image 20240601215238.png",
+    "Hello Algo/Images/Pasted image 20240601215051.png",
+    "Hello Algo/No5. 栈与队列/5.4 栈与队列小结.md",
+    "Hello Algo/No6. 哈希表/6.4 哈希表小结.md",
+    "Hello Algo/No6. 哈希表/6.3 哈希算法.md",
+    "Hello Algo/Images/Pasted image 20240601214335.png",
+    "Hello Algo/Images/Pasted image 20240601214303.png",
+    "Hello Algo/Images/Pasted image 20240601214020.png",
     "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
-    "Hello Algo/Images/Pasted image 20240601192346.png",
-    "Hello Algo/Images/Pasted image 20240601192305.png",
-    "Hello Algo/Images/Pasted image 20240601192022.png",
+    "Hello Algo/Images/Pasted image 20240601213721.png",
+    "Hello Algo/Images/Pasted image 20240601193112.png",
+    "Hello Algo/No6. 哈希表/6.1 哈希表.md",
     "Hello Algo/No5. 栈与队列/5.1 栈.md",
     "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
     "Hello Algo/No4. 数组与链表/4.3 列表.md",
     "Hello Algo/No4. 数组与链表/4.2 链表.md",
-    "Hello Algo/No4. 数组与链表/4.1 数组.md",
     "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
     "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
     "Hello Algo/No5. 栈与队列/5.3 双向队列.md",
     "Hello Algo/No6. 哈希表",
-    "Hello Algo/No5. 栈与队列/小结.md",
     "Hello Algo/No5. 栈与队列/未命名看板.md",
     "Hello Algo/No5. 栈与队列/5.2 队列.md",
-    "Hello Algo/Images/Pasted image 20240601163359.png",
     "数据平台工程师面试汇总/HDFS.md",
     "数据平台工程师面试汇总/未命名.canvas",
-    "Hello Algo/Images/Pasted image 20240601113446.png",
-    "Hello Algo/Images/Pasted image 20240601105452.png",
     "Hello Algo/Images",
     "未命名",
     "JavaGuide/Java/集合/Java集合常见面试题总结.md",
