@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md",
+                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md",
+                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md"
+                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md"
               }
             }
           },
@@ -331,8 +331,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bc27f60784da121b",
+  "active": "46b6c83973c24234",
   "lastOpenFiles": [
+    "Hello Algo/No6. 哈希表/6.1 哈希表.md",
     "Hello Algo/No5. 栈与队列/5.1 栈.md",
     "Hello Algo/No4. 数组与链表/4.3 列表.md",
     "Hello Algo/No4. 数组与链表/4.2 链表.md",
@@ -351,7 +352,6 @@
     "Hello Algo/Images/Pasted image 20240601214335.png",
     "Hello Algo/Images/Pasted image 20240601214303.png",
     "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
-    "Hello Algo/No6. 哈希表/6.1 哈希表.md",
     "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
     "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
     "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
