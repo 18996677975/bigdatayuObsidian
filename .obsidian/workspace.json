@@ -15,20 +15,11 @@
               "state": {
                 "file": "Hello Algo/No5. 栈与队列/5.1 栈.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
-          },
-          {
-            "id": "3f7cdd830d00d040",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.1 栈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.1 栈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hello Algo/No5. 栈与队列/5.1 栈.md"
+              }
             }
           },
           {
@@ -182,10 +177,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3f7cdd830d00d040",
+  "active": "1629e9e4b2cd38dc",
   "lastOpenFiles": [
-    "Hello Algo/No5. 栈与队列/5.2 队列.md",
     "Hello Algo/No5. 栈与队列/5.1 栈.md",
+    "Hello Algo/No5. 栈与队列/5.2 队列.md",
     "Hello Algo/Images/Pasted image 20240601113446.png",
     "Hello Algo/No4. 数组与链表/4.3 列表.md",
     "Hello Algo/Images/Pasted image 20240601105452.png",

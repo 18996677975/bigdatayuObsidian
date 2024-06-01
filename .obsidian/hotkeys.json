@@ -137,5 +137,26 @@
       ],
       "key": "E"
     }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    },
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": " "
+    }
   ]
 }
