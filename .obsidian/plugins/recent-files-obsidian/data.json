@@ -1,36 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "5.1 栈",
-      "path": "Hello Algo/No5. 栈与队列/5.1 栈.md"
-    },
-    {
-      "basename": "Java并发场景面试题总结",
-      "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
-    },
-    {
-      "basename": "5.2 队列",
-      "path": "Hello Algo/No5. 栈与队列/5.2 队列.md"
+      "basename": "6.1 哈希表",
+      "path": "Hello Algo/No6. 哈希表/6.1 哈希表.md"
     },
     {
       "basename": "4.4 内存与缓存",
       "path": "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md"
     },
     {
-      "basename": "3.1 数据结构分类",
-      "path": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md"
-    },
-    {
-      "basename": "4.1 数组",
-      "path": "Hello Algo/No4. 数组与链表/4.1 数组.md"
+      "basename": "4.3 列表",
+      "path": "Hello Algo/No4. 数组与链表/4.3 列表.md"
     },
     {
       "basename": "4.2 链表",
       "path": "Hello Algo/No4. 数组与链表/4.2 链表.md"
     },
     {
+      "basename": "4.1 数组",
+      "path": "Hello Algo/No4. 数组与链表/4.1 数组.md"
+    },
+    {
       "basename": "3.2 基本数据类型",
       "path": "Hello Algo/No3. 数据结构/3.2 基本数据类型.md"
+    },
+    {
+      "basename": "3.1 数据结构分类",
+      "path": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md"
+    },
+    {
+      "basename": "5.3 双向队列",
+      "path": "Hello Algo/No5. 栈与队列/5.3 双向队列.md"
+    },
+    {
+      "basename": "5.1 栈",
+      "path": "Hello Algo/No5. 栈与队列/5.1 栈.md"
+    },
+    {
+      "basename": "小结",
+      "path": "Hello Algo/No5. 栈与队列/小结.md"
+    },
+    {
+      "basename": "5.2 队列",
+      "path": "Hello Algo/No5. 栈与队列/5.2 队列.md"
+    },
+    {
+      "basename": "Java并发场景面试题总结",
+      "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
     },
     {
       "basename": "HDFS",
@@ -39,10 +55,6 @@
     {
       "basename": "未命名",
       "path": "数据平台工程师面试汇总/未命名.canvas"
-    },
-    {
-      "basename": "4.3 列表",
-      "path": "Hello Algo/No4. 数组与链表/4.3 列表.md"
     },
     {
       "basename": "Pasted image 20240601105452",
