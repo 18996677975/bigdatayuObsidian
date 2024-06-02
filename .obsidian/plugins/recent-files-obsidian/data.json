@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Java并发场景面试题总结",
+      "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
+    },
+    {
       "basename": "8.1 堆",
-      "path": "8.1 堆.md"
+      "path": "Hello Algo/No8. 堆/8.1 堆.md"
     },
     {
       "basename": "7.5 AVL 树",
@@ -115,10 +119,6 @@
     {
       "basename": "5.2 队列",
       "path": "Hello Algo/No5. 栈与队列/5.2 队列.md"
-    },
-    {
-      "basename": "Java并发场景面试题总结",
-      "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
     },
     {
       "basename": "HDFS",
