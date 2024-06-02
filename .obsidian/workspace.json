@@ -37,7 +37,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md",
+                "file": "Hello Algo/No2. 复杂度分析/2.1 算法效率评估.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f784f5531f12ca0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No2. 复杂度分析/2.2 迭代与递归.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90552ac9f1e96070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No2. 复杂度分析/2.3 时间复杂度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f604ba87bd6914e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.4 空间复杂度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1913f3a0a01fb9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.5 复杂度分析小结.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md",
+                "file": "2.5 复杂度分析小结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md",
+                "file": "2.5 复杂度分析小结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md"
+                "file": "2.5 复杂度分析小结.md"
               }
             }
           },
@@ -213,29 +261,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "887475e7de336b95",
+  "active": "c1913f3a0a01fb9c",
   "lastOpenFiles": [
-    "Hello Algo/未命名",
-    "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
+    "2.4 空间复杂度.md",
+    "2.5 复杂度分析小结.md",
+    "Pasted image 20240602115147.png",
+    "Pasted image 20240602115142.png",
+    "Pasted image 20240602115033.png",
+    "Hello Algo/No2. 复杂度分析/2.3 时间复杂度.md",
+    "Hello Algo/Images/Pasted image 20240602114712.png",
+    "Hello Algo/Images/Pasted image 20240602114649.png",
+    "Hello Algo/Images/Pasted image 20240602114039.png",
+    "Hello Algo/No2. 复杂度分析/2.2 迭代与递归.md",
+    "Hello Algo/Images/Pasted image 20240602113626.png",
+    "Hello Algo/Images/Pasted image 20240602113344.png",
+    "Hello Algo/Images/Pasted image 20240602113219.png",
+    "Hello Algo/Images/Pasted image 20240602113134.png",
+    "Hello Algo/No2. 复杂度分析/2.1 算法效率评估.md",
     "Hello Algo/No3. 数据结构/3.3 数据结构小结.md",
+    "Hello Algo/No2. 复杂度分析",
+    "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
     "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
-    "Hello Algo/Images/Pasted image 20240602111728.png",
     "Hello Algo/No4. 数组与链表/4.1 数组.md",
-    "Hello Algo/Images/Pasted image 20240602105354.png",
     "Hello Algo/No4. 数组与链表/4.5 数组与链表小结.md",
     "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
     "Hello Algo/No4. 数组与链表/4.3 列表.md",
     "Hello Algo/No4. 数组与链表/4.2 链表.md",
     "Hello Algo/No6. 哈希表/6.1 哈希表.md",
     "Hello Algo/No5. 栈与队列/5.1 栈.md",
-    "Hello Algo/Images/Pasted image 20240601215822.png",
-    "Hello Algo/Images/Pasted image 20240601220438.png",
-    "Hello Algo/Images/Pasted image 20240601220032.png",
-    "Hello Algo/Images/Pasted image 20240601215950.png",
-    "Hello Algo/Images/Pasted image 20240601215533.png",
-    "Hello Algo/Images/Pasted image 20240601215413.png",
-    "Hello Algo/Images/Pasted image 20240601215238.png",
-    "Hello Algo/Images/Pasted image 20240601215051.png",
     "Hello Algo/No5. 栈与队列/5.4 栈与队列小结.md",
     "Hello Algo/No6. 哈希表/6.4 哈希表小结.md",
     "Hello Algo/No6. 哈希表/6.3 哈希算法.md",
@@ -252,11 +305,7 @@
     "Hello Algo/No5. 栈与队列",
     "数据平台工程师面试汇总/Yarn.md",
     "Excalidraw/Drawing 2024-05-28 00.55.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-28 00.54.53.excalidraw.md",
-    "数据平台工程师面试汇总/Java.md",
-    "Welcome.md",
     "数据平台工程师面试汇总",
-    "create a link.md",
     "Excalidraw"
   ]
 }
