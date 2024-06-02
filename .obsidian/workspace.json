@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.2 二叉树遍历.md",
+                "file": "Hello Algo/No7. 树/7.2 二叉树遍历.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e904f7fef25e2585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No7. 树/7.3 二叉树数组表示.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fecd56fd1641ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.4 二叉搜索树.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.2 二叉树遍历.md",
+                "file": "7.4 二叉搜索树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.2 二叉树遍历.md",
+                "file": "7.4 二叉搜索树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.2 二叉树遍历.md"
+                "file": "7.4 二叉搜索树.md"
               }
             }
           },
@@ -189,25 +213,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e83ff0a003c9c465",
+  "active": "2fecd56fd1641ba3",
   "lastOpenFiles": [
-    "Pasted image 20240602162523.png",
-    "Pasted image 20240602162006.png",
+    "Pasted image 20240602165539.png",
+    "Pasted image 20240602165533.png",
+    "Pasted image 20240602165137.png",
+    "Pasted image 20240602165126.png",
+    "Pasted image 20240602164701.png",
+    "Pasted image 20240602164146.png",
+    "Hello Algo/No7. 树/7.3 二叉树数组表示.md",
+    "7.4 二叉搜索树.md",
+    "Hello Algo/Images/Pasted image 20240602163559.png",
+    "Hello Algo/Images/Pasted image 20240602163527.png",
+    "Hello Algo/Images/Pasted image 20240602163341.png",
+    "Hello Algo/No7. 树/7.2 二叉树遍历.md",
+    "Hello Algo/Images/Pasted image 20240602162523.png",
+    "Hello Algo/Images/Pasted image 20240602162006.png",
     "Hello Algo/No7. 树/7.1 二叉树.md",
-    "7.2 二叉树遍历.md",
-    "Hello Algo/Images/Pasted image 20240602161651.png",
-    "Hello Algo/Images/Pasted image 20240602161616.png",
-    "Hello Algo/Images/Pasted image 20240602161600.png",
-    "Hello Algo/Images/Pasted image 20240602161543.png",
-    "Hello Algo/Images/Pasted image 20240602161523.png",
-    "Hello Algo/Images/Pasted image 20240602161443.png",
     "Hello Algo/No6. 哈希表/6.3 哈希算法.md",
     "Hello Algo/No7. 树",
     "Hello Algo/No2. 复杂度分析/2.5 复杂度分析小结.md",
     "Hello Algo/No2. 复杂度分析/2.4 空间复杂度.md",
-    "Hello Algo/Images/Pasted image 20240602115147.png",
-    "Hello Algo/Images/Pasted image 20240602115142.png",
-    "Hello Algo/Images/Pasted image 20240602115033.png",
     "Hello Algo/No2. 复杂度分析/2.3 时间复杂度.md",
     "Hello Algo/No2. 复杂度分析/2.2 迭代与递归.md",
     "Hello Algo/No2. 复杂度分析/2.1 算法效率评估.md",
@@ -228,8 +254,6 @@
     "Hello Algo/No5. 栈与队列/5.3 双向队列.md",
     "Hello Algo/No6. 哈希表",
     "Hello Algo/No5. 栈与队列/未命名看板.md",
-    "Hello Algo/No5. 栈与队列/5.2 队列.md",
-    "数据平台工程师面试汇总/HDFS.md",
     "数据平台工程师面试汇总/未命名.canvas",
     "Hello Algo/Images",
     "未命名",
