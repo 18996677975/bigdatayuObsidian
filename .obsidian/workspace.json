@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9a69985de3bde19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No5. 栈与队列/5.1 栈.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dfe68117b96bafc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No5. 栈与队列/5.3 双向队列.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc27f60784da121b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No6. 哈希表/6.1 哈希表.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f45b7bb688de36d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b68808bb7c5614a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No6. 哈希表/6.3 哈希算法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db96f45747a5d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No6. 哈希表/6.4 哈希表小结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d427142639316a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No5. 栈与队列/5.4 栈与队列小结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "714693ce20657710",
             "type": "leaf",
             "state": {
@@ -104,7 +20,7 @@
             }
           },
           {
-            "id": "aa8484a9e98e0a38",
+            "id": "da9060745733d0da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,7 +32,19 @@
             }
           },
           {
-            "id": "6b1a2d1120debb05",
+            "id": "6658ba4563b9b929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "505dbc798e2088eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,67 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "46b6c83973c24234",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No4. 数组与链表/4.2 链表.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df9fc3a73a113464",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Hello Algo/Images/Pasted image 20240601215822.png"
-              }
-            }
-          },
-          {
-            "id": "d2406f41fc58630f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No4. 数组与链表/4.3 列表.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ed7f134e66dbfb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "355244d572208731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No4. 数组与链表/4.5 数组与链表小结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
+                "file": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
+                "file": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md"
+                "file": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md"
               }
             }
           },
@@ -343,9 +213,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "714693ce20657710",
+  "active": "887475e7de336b95",
   "lastOpenFiles": [
+    "Hello Algo/未命名",
     "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
+    "Hello Algo/No3. 数据结构/3.3 数据结构小结.md",
+    "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
+    "Hello Algo/Images/Pasted image 20240602111728.png",
+    "Hello Algo/No4. 数组与链表/4.1 数组.md",
+    "Hello Algo/Images/Pasted image 20240602105354.png",
     "Hello Algo/No4. 数组与链表/4.5 数组与链表小结.md",
     "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md",
     "Hello Algo/No4. 数组与链表/4.3 列表.md",
@@ -356,7 +232,6 @@
     "Hello Algo/Images/Pasted image 20240601220438.png",
     "Hello Algo/Images/Pasted image 20240601220032.png",
     "Hello Algo/Images/Pasted image 20240601215950.png",
-    "Hello Algo/No4. 数组与链表/4.1 数组.md",
     "Hello Algo/Images/Pasted image 20240601215533.png",
     "Hello Algo/Images/Pasted image 20240601215413.png",
     "Hello Algo/Images/Pasted image 20240601215238.png",
@@ -364,10 +239,7 @@
     "Hello Algo/No5. 栈与队列/5.4 栈与队列小结.md",
     "Hello Algo/No6. 哈希表/6.4 哈希表小结.md",
     "Hello Algo/No6. 哈希表/6.3 哈希算法.md",
-    "Hello Algo/Images/Pasted image 20240601214335.png",
-    "Hello Algo/Images/Pasted image 20240601214303.png",
     "Hello Algo/No6. 哈希表/6.2 哈希冲突.md",
-    "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
     "Hello Algo/No5. 栈与队列/5.3 双向队列.md",
     "Hello Algo/No6. 哈希表",
     "Hello Algo/No5. 栈与队列/未命名看板.md",

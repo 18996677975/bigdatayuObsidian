@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "3.1 数据结构分类",
-      "path": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md"
+      "basename": "3.3 数据结构小结",
+      "path": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md"
     },
     {
       "basename": "3.2 基本数据类型",
       "path": "Hello Algo/No3. 数据结构/3.2 基本数据类型.md"
+    },
+    {
+      "basename": "3.1 数据结构分类",
+      "path": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md"
+    },
+    {
+      "basename": "4.1 数组",
+      "path": "Hello Algo/No4. 数组与链表/4.1 数组.md"
     },
     {
       "basename": "4.5 数组与链表小结",
@@ -35,10 +43,6 @@
     {
       "basename": "Pasted image 20240601215822",
       "path": "Hello Algo/Images/Pasted image 20240601215822.png"
-    },
-    {
-      "basename": "4.1 数组",
-      "path": "Hello Algo/No4. 数组与链表/4.1 数组.md"
     },
     {
       "basename": "5.4 栈与队列小结",
