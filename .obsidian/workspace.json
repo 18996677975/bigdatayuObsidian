@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+                "file": "Hello Algo/No8. 堆/8.2 建堆操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+                "file": "Hello Algo/No8. 堆/8.1 堆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+                "file": "Hello Algo/No8. 堆/8.1 堆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
+                "file": "Hello Algo/No8. 堆/8.1 堆.md"
               }
             }
           },
@@ -262,8 +262,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "439af43a58dd4da6",
+  "active": "887475e7de336b95",
   "lastOpenFiles": [
+    "labuladong 的算法笔记/未命名",
+    "labuladong 的算法笔记",
+    "Hello Algo/No8. 堆/8.2 建堆操作.md",
+    "JavaGuide/Java/并发/Java并发场景面试题总结.md",
     "Hello Algo/No8. 堆/8.1 堆.md",
     "Hello Algo/Images/Pasted image 20240602172311.png",
     "Hello Algo/No7. 树/7.5 AVL 树.md",
@@ -300,12 +304,9 @@
     "Hello Algo/No4. 数组与链表/4.2 链表.md",
     "Hello Algo/No6. 哈希表/6.1 哈希表.md",
     "Hello Algo/No5. 栈与队列/5.1 栈.md",
-    "Hello Algo/No5. 栈与队列/5.4 栈与队列小结.md",
-    "Hello Algo/No6. 哈希表/6.4 哈希表小结.md",
     "Hello Algo/No6. 哈希表",
     "数据平台工程师面试汇总/未命名.canvas",
     "Hello Algo/Images",
-    "未命名",
     "Hello Algo/No5. 栈与队列",
     "数据平台工程师面试汇总",
     "Excalidraw"
