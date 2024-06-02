@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1 数据结构分类",
+      "path": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md"
+    },
+    {
+      "basename": "3.2 基本数据类型",
+      "path": "Hello Algo/No3. 数据结构/3.2 基本数据类型.md"
+    },
+    {
+      "basename": "4.5 数组与链表小结",
+      "path": "Hello Algo/No4. 数组与链表/4.5 数组与链表小结.md"
+    },
+    {
+      "basename": "4.4 内存与缓存",
+      "path": "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md"
+    },
+    {
+      "basename": "4.3 列表",
+      "path": "Hello Algo/No4. 数组与链表/4.3 列表.md"
+    },
+    {
       "basename": "4.2 链表",
       "path": "Hello Algo/No4. 数组与链表/4.2 链表.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "5.1 栈",
       "path": "Hello Algo/No5. 栈与队列/5.1 栈.md"
-    },
-    {
-      "basename": "4.3 列表",
-      "path": "Hello Algo/No4. 数组与链表/4.3 列表.md"
     },
     {
       "basename": "Pasted image 20240601215822",
@@ -39,18 +55,6 @@
     {
       "basename": "6.2 哈希冲突",
       "path": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md"
-    },
-    {
-      "basename": "4.4 内存与缓存",
-      "path": "Hello Algo/No4. 数组与链表/4.4 内存与缓存.md"
-    },
-    {
-      "basename": "3.2 基本数据类型",
-      "path": "Hello Algo/No3. 数据结构/3.2 基本数据类型.md"
-    },
-    {
-      "basename": "3.1 数据结构分类",
-      "path": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md"
     },
     {
       "basename": "5.3 双向队列",
