@@ -5,6 +5,10 @@
       "path": "Hello Algo/No7. 树/7.1 二叉树.md"
     },
     {
+      "basename": "6.3 哈希算法",
+      "path": "Hello Algo/No6. 哈希表/6.3 哈希算法.md"
+    },
+    {
       "basename": "2.5 复杂度分析小结",
       "path": "Hello Algo/No2. 复杂度分析/2.5 复杂度分析小结.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "6.4 哈希表小结",
       "path": "Hello Algo/No6. 哈希表/6.4 哈希表小结.md"
-    },
-    {
-      "basename": "6.3 哈希算法",
-      "path": "Hello Algo/No6. 哈希表/6.3 哈希算法.md"
     },
     {
       "basename": "6.2 哈希冲突",
