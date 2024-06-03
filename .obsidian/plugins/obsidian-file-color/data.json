@@ -1,6 +1,32 @@
 {
   "cascadeColors": true,
   "colorBackground": false,
-  "palette": [],
+  "palette": [
+    {
+      "id": "_1WQqfFveRlXiehJ_anok",
+      "name": "红",
+      "value": "#fa0000"
+    },
+    {
+      "id": "fpH3bnWocfQlxWuwOGlVQ",
+      "name": "绿",
+      "value": "#37ff00"
+    },
+    {
+      "id": "CWj-reRFgUKkozM1We6o3",
+      "name": "黄",
+      "value": "#c7e105"
+    },
+    {
+      "id": "56SQFo5rl9e9_Tu1kCdU9",
+      "name": "蓝",
+      "value": "#00aaff"
+    },
+    {
+      "id": "spzamdyZ_cVnkvkyk5QNU",
+      "name": "紫",
+      "value": "#de18ec"
+    }
+  ],
   "fileColors": []
 }
