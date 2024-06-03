@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7.1 二叉树",
+      "path": "Hello Algo/No7. 树/7.1 二叉树.md"
+    },
+    {
       "basename": "8.1 堆",
       "path": "Hello Algo/No8. 堆/8.1 堆.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "7.5 AVL 树",
       "path": "Hello Algo/No7. 树/7.5 AVL 树.md"
-    },
-    {
-      "basename": "7.1 二叉树",
-      "path": "Hello Algo/No7. 树/7.1 二叉树.md"
     },
     {
       "basename": "7.2 二叉树遍历",
