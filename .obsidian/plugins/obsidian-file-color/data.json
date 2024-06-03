@@ -1,6 +1,6 @@
 {
   "cascadeColors": true,
-  "colorBackground": false,
+  "colorBackground": true,
   "palette": [
     {
       "id": "_1WQqfFveRlXiehJ_anok",
@@ -26,7 +26,42 @@
       "id": "spzamdyZ_cVnkvkyk5QNU",
       "name": "紫",
       "value": "#de18ec"
+    },
+    {
+      "id": "7_5ls9yhyMD21Fqw79Ui8",
+      "name": "粉",
+      "value": "#ec98c0"
+    },
+    {
+      "id": "khKC8eKxwTXd4n84W2BCj",
+      "name": "青",
+      "value": "#70e7ff"
+    },
+    {
+      "id": "Jz4Tqd1tV8t5TgDA45Xq0",
+      "name": "翠",
+      "value": "#23fba8"
+    },
+    {
+      "id": "nwCMuIx7GBeuENmYLCs9X",
+      "name": "橙",
+      "value": "#f7ca26"
+    },
+    {
+      "id": "L1pJAfZ0nyyxxYsCYiU7s",
+      "name": "棕",
+      "value": "#ff8800"
+    },
+    {
+      "id": "NGnf2kp58yZg97Lbwyi0I",
+      "name": "黑",
+      "value": "#000000"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "ObsidianImages",
+      "color": "L1pJAfZ0nyyxxYsCYiU7s"
+    }
+  ]
 }
