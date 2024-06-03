@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "7.5 AVL 树",
+      "path": "Hello Algo/No7. 树/7.5 AVL 树.md"
+    },
+    {
+      "basename": "8.4 堆小结",
+      "path": "Hello Algo/No8. 堆/8.4 堆小结.md"
+    },
+    {
+      "basename": "8.3 Top-K 问题",
+      "path": "Hello Algo/No8. 堆/8.3 Top-K 问题.md"
+    },
+    {
       "basename": "8.2 建堆操作",
       "path": "Hello Algo/No8. 堆/8.2 建堆操作.md"
     },
@@ -25,24 +37,12 @@
       "path": "Hello Algo/No9. 图/9.2 图的基础操作.md"
     },
     {
-      "basename": "8.3 Top-K 问题",
-      "path": "Hello Algo/No8. 堆/8.3 Top-K 问题.md"
-    },
-    {
-      "basename": "8.4 堆小结",
-      "path": "Hello Algo/No8. 堆/8.4 堆小结.md"
-    },
-    {
       "basename": "7.1 二叉树",
       "path": "Hello Algo/No7. 树/7.1 二叉树.md"
     },
     {
       "basename": "Java并发场景面试题总结",
       "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
-    },
-    {
-      "basename": "7.5 AVL 树",
-      "path": "Hello Algo/No7. 树/7.5 AVL 树.md"
     },
     {
       "basename": "7.2 二叉树遍历",
