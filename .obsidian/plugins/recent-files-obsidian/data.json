@@ -9,8 +9,28 @@
       "path": "Hello Algo/No8. 堆/8.1 堆.md"
     },
     {
+      "basename": "9.4 图小结",
+      "path": "Hello Algo/No9. 图/9.4 图小结.md"
+    },
+    {
+      "basename": "9.3 图的遍历",
+      "path": "Hello Algo/No9. 图/9.3 图的遍历.md"
+    },
+    {
       "basename": "9.1 图",
       "path": "Hello Algo/No9. 图/9.1 图.md"
+    },
+    {
+      "basename": "9.2 图的基础操作",
+      "path": "Hello Algo/No9. 图/9.2 图的基础操作.md"
+    },
+    {
+      "basename": "8.3 Top-K 问题",
+      "path": "Hello Algo/No8. 堆/8.3 Top-K 问题.md"
+    },
+    {
+      "basename": "8.4 堆小结",
+      "path": "Hello Algo/No8. 堆/8.4 堆小结.md"
     },
     {
       "basename": "7.1 二叉树",
