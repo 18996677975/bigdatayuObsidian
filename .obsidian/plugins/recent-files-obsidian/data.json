@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "7.1 二叉树",
-      "path": "Hello Algo/No7. 树/7.1 二叉树.md"
-    },
-    {
       "basename": "8.1 堆",
       "path": "Hello Algo/No8. 堆/8.1 堆.md"
     },
     {
       "basename": "8.2 建堆操作",
       "path": "Hello Algo/No8. 堆/8.2 建堆操作.md"
+    },
+    {
+      "basename": "7.1 二叉树",
+      "path": "Hello Algo/No7. 树/7.1 二叉树.md"
     },
     {
       "basename": "Java并发场景面试题总结",
@@ -102,7 +102,7 @@
     },
     {
       "basename": "Pasted image 20240601215822",
-      "path": "Hello Algo/Images/Pasted image 20240601215822.png"
+      "path": "Images/Pasted image 20240601215822.png"
     },
     {
       "basename": "5.4 栈与队列小结",
@@ -134,7 +134,7 @@
     },
     {
       "basename": "Pasted image 20240601105452",
-      "path": "Hello Algo/Images/Pasted image 20240601105452.png"
+      "path": "Images/Pasted image 20240601105452.png"
     },
     {
       "basename": "Java集合常见面试题总结",
