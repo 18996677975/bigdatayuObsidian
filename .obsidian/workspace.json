@@ -4,179 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ececaec1ab40774",
+        "id": "21c05a82cc0fffb1",
         "type": "tabs",
         "children": [
           {
-            "id": "d339d93945b730c6",
+            "id": "3dad11fe528accab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Algo/No7. 树/7.1 二叉树.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e83ff0a003c9c465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No7. 树/7.2 二叉树遍历.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e904f7fef25e2585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No7. 树/7.3 二叉树数组表示.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fecd56fd1641ba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No7. 树/7.4 二叉搜索树.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfb3227837c794c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2e61cf1e8c79531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No8. 堆/8.1 堆.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02311e4a5f44dc17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No8. 堆/8.3 Top-K 问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edc6d4eb03440453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No9. 图/9.2 图的基础操作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cfa1ae3673febd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No8. 堆/8.4 堆小结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4835aef2d0ffc296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No9. 图/9.1 图.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8b92bdb5731e237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No9. 图/9.3 图的遍历.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "601038b1bbf0bdb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No9. 图/9.4 图小结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "439af43a58dd4da6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No8. 堆/8.2 建堆操作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff49f7e3e254c702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No7. 树/7.6 树小结.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
               }
             }
           },
@@ -334,11 +177,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cfb3227837c794c6",
+  "active": "3dad11fe528accab",
   "lastOpenFiles": [
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
+    "Hello Algo/No8. 堆/8.4 堆小结.md",
     "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法",
     "Hello Algo/No7. 树/7.5 AVL 树.md",
     "ObsidianImages/Pasted image 20240603215347.png",
@@ -351,7 +195,6 @@
     "ObsidianImages/Pasted image 20240603215058.png",
     "ObsidianImages/Pasted image 20240603215050.png",
     "ObsidianImages/Pasted image 20240603215042.png",
-    "Hello Algo/No8. 堆/8.4 堆小结.md",
     "Hello Algo/No8. 堆/8.3 Top-K 问题.md",
     "Hello Algo/No8. 堆/8.2 建堆操作.md",
     "Hello Algo/No8. 堆/8.1 堆.md",
