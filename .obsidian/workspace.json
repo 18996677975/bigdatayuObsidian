@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Algo/No7. 树/7.5 AVL 树.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No7. 树/7.5 AVL 树.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No7. 树/7.5 AVL 树.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No7. 树/7.5 AVL 树.md"
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
               }
             }
           },
@@ -334,8 +334,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cfb3227837c794c6",
+  "active": "887475e7de336b95",
   "lastOpenFiles": [
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法",
+    "Hello Algo/No7. 树/7.5 AVL 树.md",
+    "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
     "ObsidianImages/Pasted image 20240603215347.png",
     "ObsidianImages/Pasted image 20240603215317.png",
     "ObsidianImages/Pasted image 20240603215253.png",
@@ -354,14 +357,12 @@
     "Hello Algo/No9. 图/9.3 图的遍历.md",
     "Hello Algo/No9. 图/9.1 图.md",
     "Hello Algo/No9. 图/9.2 图的基础操作.md",
-    "ObsidianImages/Pasted image 20240603202956.png",
     "Hello Algo/No9. 图",
     "Hello Algo/No7. 树/7.1 二叉树.md",
-    "labuladong 的算法笔记/刷数据结构",
+    "labuladong 的算法笔记/数据结构刷题",
     "labuladong 的算法笔记/核心架构汇总",
     "labuladong 的算法笔记",
     "JavaGuide/Java/并发/Java并发场景面试题总结.md",
-    "Hello Algo/No7. 树/7.5 AVL 树.md",
     "Hello Algo/No8. 堆",
     "Hello Algo/No7. 树/7.2 二叉树遍历.md",
     "Hello Algo/No7. 树/7.6 树小结.md",
@@ -378,7 +379,6 @@
     "Hello Algo/No2. 复杂度分析",
     "Hello Algo/No3. 数据结构/3.2 基本数据类型.md",
     "Hello Algo/No3. 数据结构/3.1 数据结构分类.md",
-    "Hello Algo/No4. 数组与链表/4.1 数组.md",
     "Hello Algo/No6. 哈希表",
     "数据平台工程师面试汇总/未命名.canvas",
     "ObsidianImages",
