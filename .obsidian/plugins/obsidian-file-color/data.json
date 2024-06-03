@@ -1,6 +1,6 @@
 {
-  "cascadeColors": true,
-  "colorBackground": true,
+  "cascadeColors": false,
+  "colorBackground": false,
   "palette": [
     {
       "id": "_1WQqfFveRlXiehJ_anok",
@@ -61,7 +61,7 @@
   "fileColors": [
     {
       "path": "ObsidianImages",
-      "color": "L1pJAfZ0nyyxxYsCYiU7s"
+      "color": "nwCMuIx7GBeuENmYLCs9X"
     }
   ]
 }
