@@ -5,6 +5,10 @@
       "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
     },
     {
+      "basename": "9.4 图小结",
+      "path": "Hello Algo/No9. 图/9.4 图小结.md"
+    },
+    {
       "basename": "8.4 堆小结",
       "path": "Hello Algo/No8. 堆/8.4 堆小结.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "8.1 堆",
       "path": "Hello Algo/No8. 堆/8.1 堆.md"
-    },
-    {
-      "basename": "9.4 图小结",
-      "path": "Hello Algo/No9. 图/9.4 图小结.md"
     },
     {
       "basename": "9.3 图的遍历",
