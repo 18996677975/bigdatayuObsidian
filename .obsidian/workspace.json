@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道数组题目.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道数组题目.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道数组题目.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道数组题目.md"
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
               }
             }
           },
@@ -229,7 +229,7 @@
   "active": "e04b048698a7666d",
   "lastOpenFiles": [
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道数组题目.md",
+    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
     "Hello Algo/No11. 排序/11.5 快速排序.md",
     "Hello Algo/No11. 排序/11.6 归并排序.md",
