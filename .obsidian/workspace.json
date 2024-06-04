@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +189,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "887475e7de336b95",
+  "active": "3d459331d72b41ac",
   "lastOpenFiles": [
+    "Hello Algo/No11. 排序/11.6 归并排序.md",
+    "Hello Algo/No11. 排序/11.5 快速排序.md",
     "ObsidianImages/Pasted image 20240604175452.png",
     "ObsidianImages/Pasted image 20240604175447.png",
     "ObsidianImages/Pasted image 20240604175443.png",
@@ -202,9 +203,6 @@
     "ObsidianImages/Pasted image 20240604175419.png",
     "ObsidianImages/Pasted image 20240604175410.png",
     "ObsidianImages/Pasted image 20240604175352.png",
-    "Hello Algo/No11. 排序/11.5 快速排序.md",
-    "Hello Algo/No11. 排序/11.6 归并排序.md",
-    "ObsidianImages/Pasted image 20240604175046.png",
     "Hello Algo/No10. 搜索/10.1 二分查找.md",
     "Hello Algo/No11. 排序/11.4 插入排序.md",
     "Hello Algo/No11. 排序/11.3 冒泡排序.md",
