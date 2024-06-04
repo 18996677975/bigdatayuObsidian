@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "11.5 快速排序",
+      "path": "Hello Algo/No11. 排序/11.5 快速排序.md"
+    },
+    {
+      "basename": "11.6 归并排序",
+      "path": "Hello Algo/No11. 排序/11.6 归并排序.md"
+    },
+    {
+      "basename": "10.1 二分查找",
+      "path": "Hello Algo/No10. 搜索/10.1 二分查找.md"
+    },
+    {
+      "basename": "11.4 插入排序",
+      "path": "Hello Algo/No11. 排序/11.4 插入排序.md"
+    },
+    {
+      "basename": "11.3 冒泡排序",
+      "path": "Hello Algo/No11. 排序/11.3 冒泡排序.md"
+    },
+    {
+      "basename": "11.2 选择排序",
+      "path": "Hello Algo/No11. 排序/11.2 选择排序.md"
+    },
+    {
+      "basename": "11.1 排序算法",
+      "path": "Hello Algo/No11. 排序/11.1 排序算法.md"
+    },
+    {
+      "basename": "10.6 搜索小结",
+      "path": "Hello Algo/No10. 搜索/10.6 搜索小结.md"
+    },
+    {
+      "basename": "10.5 重识搜索算法",
+      "path": "Hello Algo/No10. 搜索/10.5 重识搜索算法.md"
+    },
+    {
+      "basename": "10.4 哈希优化策略",
+      "path": "Hello Algo/No10. 搜索/10.4 哈希优化策略.md"
+    },
+    {
+      "basename": "10.3 二分查找边界",
+      "path": "Hello Algo/No10. 搜索/10.3 二分查找边界.md"
+    },
+    {
+      "basename": "10.2 二分查找插入点",
+      "path": "Hello Algo/No10. 搜索/10.2 二分查找插入点.md"
+    },
+    {
       "basename": "学习算法和刷题的框架思维",
       "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
     },
@@ -151,34 +199,6 @@
     {
       "basename": "6.2 哈希冲突",
       "path": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md"
-    },
-    {
-      "basename": "5.3 双向队列",
-      "path": "Hello Algo/No5. 栈与队列/5.3 双向队列.md"
-    },
-    {
-      "basename": "5.2 队列",
-      "path": "Hello Algo/No5. 栈与队列/5.2 队列.md"
-    },
-    {
-      "basename": "HDFS",
-      "path": "数据平台工程师面试汇总/HDFS.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "数据平台工程师面试汇总/未命名.canvas"
-    },
-    {
-      "basename": "Pasted image 20240601105452",
-      "path": "ObsidianImages/Pasted image 20240601105452.png"
-    },
-    {
-      "basename": "Java集合常见面试题总结",
-      "path": "JavaGuide/Java/集合/Java集合常见面试题总结.md"
-    },
-    {
-      "basename": "Yarn",
-      "path": "数据平台工程师面试汇总/Yarn.md"
     }
   ],
   "omittedPaths": []
