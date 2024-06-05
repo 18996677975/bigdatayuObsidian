@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12.2 分治搜索策略",
+      "path": "Hello Algo/No12. 分治/12.2 分治搜索策略.md"
+    },
+    {
       "basename": "12.3 构建二叉树问题",
       "path": "Hello Algo/No12. 分治/12.3 构建二叉树问题.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "11.6 归并排序",
       "path": "Hello Algo/No11. 排序/11.6 归并排序.md"
-    },
-    {
-      "basename": "12.2 分治搜索策略",
-      "path": "Hello Algo/No12. 分治/12.2 分治搜索策略.md"
     },
     {
       "basename": "12.5 分治小结",
