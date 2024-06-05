@@ -56,12 +56,21 @@
       "id": "NGnf2kp58yZg97Lbwyi0I",
       "name": "黑",
       "value": "#000000"
+    },
+    {
+      "id": "s3bYbpqRf1X_7hNxAGnvD",
+      "name": "灰",
+      "value": "#beb7b7"
     }
   ],
   "fileColors": [
     {
       "path": "ObsidianImages",
-      "color": "nwCMuIx7GBeuENmYLCs9X"
+      "color": "s3bYbpqRf1X_7hNxAGnvD"
+    },
+    {
+      "path": "Hello Algo",
+      "color": "56SQFo5rl9e9_Tu1kCdU9"
     }
   ]
 }
