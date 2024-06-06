@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "12.2 分治搜索策略",
-      "path": "Hello Algo/No12. 分治/12.2 分治搜索策略.md"
+      "basename": "13.1 回溯算法",
+      "path": "Hello Algo/No13. 回溯/13.1 回溯算法.md"
     },
     {
       "basename": "12.3 构建二叉树问题",
       "path": "Hello Algo/No12. 分治/12.3 构建二叉树问题.md"
+    },
+    {
+      "basename": "12.2 分治搜索策略",
+      "path": "Hello Algo/No12. 分治/12.2 分治搜索策略.md"
     },
     {
       "basename": "12.1 分治算法",
@@ -195,10 +199,6 @@
     {
       "basename": "3.2 基本数据类型",
       "path": "Hello Algo/No3. 数据结构/3.2 基本数据类型.md"
-    },
-    {
-      "basename": "3.1 数据结构分类",
-      "path": "Hello Algo/No3. 数据结构/3.1 数据结构分类.md"
     }
   ],
   "omittedPaths": []
