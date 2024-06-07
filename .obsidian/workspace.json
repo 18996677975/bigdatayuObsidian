@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Algo/No13. 回溯/13.1 回溯算法.md",
+                "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No13. 回溯/13.1 回溯算法.md",
+                "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No13. 回溯/13.1 回溯算法.md",
+                "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No13. 回溯/13.1 回溯算法.md"
+                "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md"
               }
             }
           },
@@ -179,8 +179,24 @@
   },
   "active": "39a9385c03f2c117",
   "lastOpenFiles": [
-    "Hello Algo/No12. 分治/12.3 构建二叉树问题.md",
+    "Hello Algo/No13. 回溯/13.5 回溯小结.md",
+    "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
+    "Hello Algo/No14. 动态规划",
+    "Hello Algo/No13. 回溯/13.4 N 皇后问题.md",
+    "ObsidianImages/Pasted image 20240607163700.png",
+    "ObsidianImages/Pasted image 20240607163631.png",
+    "ObsidianImages/Pasted image 20240607163556.png",
+    "ObsidianImages/Pasted image 20240607163537.png",
+    "Hello Algo/No13. 回溯/13.3 子集和问题.md",
+    "ObsidianImages/Pasted image 20240607163442.png",
+    "ObsidianImages/Pasted image 20240607163359.png",
+    "ObsidianImages/Pasted image 20240607162142.png",
+    "ObsidianImages/Pasted image 20240607161819.png",
+    "ObsidianImages/Pasted image 20240607161720.png",
+    "Hello Algo/No13. 回溯/13.2 全排序问题.md",
+    "ObsidianImages/Pasted image 20240607154925.png",
     "Hello Algo/No13. 回溯/13.1 回溯算法.md",
+    "Hello Algo/No12. 分治/12.3 构建二叉树问题.md",
     "Hello Algo/No12. 分治/12.2 分治搜索策略.md",
     "Hello Algo/No13. 回溯/未命名",
     "Hello Algo/No13. 回溯",
@@ -189,16 +205,6 @@
     "Hello Algo/No11. 排序/11.6 归并排序.md",
     "Hello Algo/No12. 分治/12.5 分治小结.md",
     "Hello Algo/No12. 分治/12.4 汉诺塔问题.md",
-    "ObsidianImages/Pasted image 20240605171124.png",
-    "ObsidianImages/Pasted image 20240605171041.png",
-    "ObsidianImages/Pasted image 20240605170940.png",
-    "ObsidianImages/Pasted image 20240605170936.png",
-    "ObsidianImages/Pasted image 20240605170921.png",
-    "ObsidianImages/Pasted image 20240605170915.png",
-    "ObsidianImages/Pasted image 20240605170820.png",
-    "ObsidianImages/Pasted image 20240605170811.png",
-    "ObsidianImages/Pasted image 20240605170749.png",
-    "ObsidianImages/Pasted image 20240605170741.png",
     "Hello Algo/No11. 排序/11.11 排序小结.md",
     "Hello Algo/No12. 分治",
     "Hello Algo/No11. 排序/11.10 基数排序.md",
@@ -213,18 +219,12 @@
     "Hello Algo/No10. 搜索/10.1 二分查找.md",
     "Hello Algo/No11. 排序/11.3 冒泡排序.md",
     "Hello Algo/No11. 排序/11.2 选择排序.md",
-    "Hello Algo/No11. 排序/11.1 排序算法.md",
-    "Hello Algo/No10. 搜索/10.6 搜索小结.md",
-    "Hello Algo/No10. 搜索/10.5 重识搜索算法.md",
-    "Hello Algo/No10. 搜索/10.4 哈希优化策略.md",
-    "Hello Algo/No10. 搜索/10.3 二分查找边界.md",
     "Hello Algo/No11. 排序",
     "Hello Algo/No10. 搜索",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法",
     "Hello Algo/No9. 图",
     "labuladong 的算法笔记/数据结构刷题",
     "labuladong 的算法笔记/核心架构汇总",
-    "labuladong 的算法笔记",
     "数据平台工程师面试汇总/未命名.canvas"
   ]
 }

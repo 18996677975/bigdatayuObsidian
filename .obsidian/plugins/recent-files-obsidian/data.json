@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "14.1 初探动态规划",
+      "path": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md"
+    },
+    {
+      "basename": "13.5 回溯小结",
+      "path": "Hello Algo/No13. 回溯/13.5 回溯小结.md"
+    },
+    {
+      "basename": "13.4 N 皇后问题",
+      "path": "Hello Algo/No13. 回溯/13.4 N 皇后问题.md"
+    },
+    {
+      "basename": "13.3 子集和问题",
+      "path": "Hello Algo/No13. 回溯/13.3 子集和问题.md"
+    },
+    {
+      "basename": "13.2 全排序问题",
+      "path": "Hello Algo/No13. 回溯/13.2 全排序问题.md"
+    },
+    {
       "basename": "13.1 回溯算法",
       "path": "Hello Algo/No13. 回溯/13.1 回溯算法.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "2.4 空间复杂度",
       "path": "Hello Algo/No2. 复杂度分析/2.4 空间复杂度.md"
-    },
-    {
-      "basename": "2.3 时间复杂度",
-      "path": "Hello Algo/No2. 复杂度分析/2.3 时间复杂度.md"
-    },
-    {
-      "basename": "2.2 迭代与递归",
-      "path": "Hello Algo/No2. 复杂度分析/2.2 迭代与递归.md"
-    },
-    {
-      "basename": "2.1 算法效率评估",
-      "path": "Hello Algo/No2. 复杂度分析/2.1 算法效率评估.md"
-    },
-    {
-      "basename": "3.3 数据结构小结",
-      "path": "Hello Algo/No3. 数据结构/3.3 数据结构小结.md"
-    },
-    {
-      "basename": "3.2 基本数据类型",
-      "path": "Hello Algo/No3. 数据结构/3.2 基本数据类型.md"
     }
   ],
   "omittedPaths": []
