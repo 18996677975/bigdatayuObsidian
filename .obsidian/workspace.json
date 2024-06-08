@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
+                "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
+                "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md"
+                "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md"
               }
             }
           },
@@ -190,10 +189,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "887475e7de336b95",
+  "active": "39a9385c03f2c117",
   "lastOpenFiles": [
-    "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
     "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
+    "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
     "ObsidianImages/Pasted image 20240608173056.png",
     "ObsidianImages/Pasted image 20240608173017.png",
     "ObsidianImages/Pasted image 20240608172830.png",
