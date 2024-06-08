@@ -1,4 +1,5 @@
 {
   "readableLineLength": true,
-  "attachmentFolderPath": "ObsidianImages"
+  "attachmentFolderPath": "ObsidianImages",
+  "showLineNumber": false
 }
