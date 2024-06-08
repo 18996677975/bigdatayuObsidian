@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd0682ab8e6d1b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
+                "file": "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
+                "file": "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md"
+                "file": "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md"
               }
             }
           },
@@ -190,24 +202,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ab5182d30b75118e",
+  "active": "dd0682ab8e6d1b0b",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240608222147.png",
-    "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
     "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
+    "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
+    "ObsidianImages/Pasted image 20240608223710.png",
+    "ObsidianImages/Pasted image 20240608223705.png",
+    "ObsidianImages/Pasted image 20240608223650.png",
+    "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
+    "ObsidianImages/Pasted image 20240608222550.png",
+    "ObsidianImages/Pasted image 20240608222147.png",
     "ObsidianImages/Pasted image 20240608221415.png",
     "ObsidianImages/Pasted image 20240608173056.png",
     "ObsidianImages/Pasted image 20240608173017.png",
     "ObsidianImages/Pasted image 20240608172830.png",
     "ObsidianImages/Pasted image 20240608172742.png",
-    "ObsidianImages/Pasted image 20240608172733.png",
-    "ObsidianImages/Pasted image 20240608172704.png",
-    "ObsidianImages/Pasted image 20240608171729.png",
-    "ObsidianImages/Pasted image 20240608161838.png",
     "Hello Algo/No13. 回溯/13.5 回溯小结.md",
     "Hello Algo/No14. 动态规划",
     "Hello Algo/No13. 回溯/13.4 N 皇后问题.md",
-    "ObsidianImages/Pasted image 20240607163700.png",
     "Hello Algo/No13. 回溯/13.3 子集和问题.md",
     "Hello Algo/No13. 回溯/13.2 全排序问题.md",
     "Hello Algo/No13. 回溯/13.1 回溯算法.md",
