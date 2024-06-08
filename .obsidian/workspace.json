@@ -14,23 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "094f3d7d668bdf2a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +177,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "887475e7de336b95",
+  "active": "39a9385c03f2c117",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240608171729.png",
     "ObsidianImages/Pasted image 20240608161838.png",
     "Hello Algo/No13. 回溯/13.5 回溯小结.md",
     "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
@@ -206,7 +196,6 @@
     "ObsidianImages/Pasted image 20240607161819.png",
     "ObsidianImages/Pasted image 20240607161720.png",
     "Hello Algo/No13. 回溯/13.2 全排序问题.md",
-    "ObsidianImages/Pasted image 20240607154925.png",
     "Hello Algo/No13. 回溯/13.1 回溯算法.md",
     "Hello Algo/No12. 分治/12.3 构建二叉树问题.md",
     "Hello Algo/No12. 分治/12.2 分治搜索策略.md",
