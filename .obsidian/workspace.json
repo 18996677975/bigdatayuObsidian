@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "094f3d7d668bdf2a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,12 +103,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5004348754883
+    "width": 248.5
   },
   "right": {
     "id": "5b4044efa7af0982",
@@ -178,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "39a9385c03f2c117",
+  "active": "887475e7de336b95",
   "lastOpenFiles": [
     "ObsidianImages/Pasted image 20240608161838.png",
     "Hello Algo/No13. 回溯/13.5 回溯小结.md",
