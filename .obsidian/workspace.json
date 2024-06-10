@@ -74,13 +74,49 @@
               "type": "markdown",
               "state": {
                 "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "680e95bc90e47d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15.2 分数背包问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a256c317e655bd16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15.3 最大容量问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cdba2c2b9c2c20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15.4 最大切分乘积问题.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -173,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md",
+                "file": "15.4 最大切分乘积问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md",
+                "file": "15.4 最大切分乘积问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
+                "file": "15.4 最大切分乘积问题.md"
               }
             }
           },
@@ -238,23 +274,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "017ff2392e04cef4",
+  "active": "2cdba2c2b9c2c20f",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240610210933.png",
-    "ObsidianImages/Pasted image 20240610210714.png",
-    "Hello Algo/No14. 动态规划/14.7 动态规划小结.md",
+    "ObsidianImages/Pasted image 20240610214949.png",
+    "ObsidianImages/Pasted image 20240610214839.png",
+    "ObsidianImages/Pasted image 20240610214815.png",
+    "ObsidianImages/Pasted image 20240610214725.png",
+    "15.3 最大容量问题.md",
+    "15.4 最大切分乘积问题.md",
+    "ObsidianImages/Pasted image 20240610214545.png",
+    "ObsidianImages/Pasted image 20240610214203.png",
+    "ObsidianImages/Pasted image 20240610214159.png",
+    "ObsidianImages/Pasted image 20240610214154.png",
+    "ObsidianImages/Pasted image 20240610214151.png",
+    "ObsidianImages/Pasted image 20240610214145.png",
+    "ObsidianImages/Pasted image 20240610214141.png",
+    "15.2 分数背包问题.md",
     "Hello Algo/No15. 贪心/15.1 贪心算法.md",
+    "Hello Algo/No14. 动态规划/14.7 动态规划小结.md",
     "Hello Algo/No15. 贪心",
     "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md",
-    "ObsidianImages/Pasted image 20240610122138.png",
-    "ObsidianImages/Pasted image 20240610122132.png",
-    "ObsidianImages/Pasted image 20240610122129.png",
-    "ObsidianImages/Pasted image 20240610122125.png",
-    "ObsidianImages/Pasted image 20240610122122.png",
-    "ObsidianImages/Pasted image 20240610122118.png",
-    "ObsidianImages/Pasted image 20240610122114.png",
-    "ObsidianImages/Pasted image 20240610122110.png",
-    "ObsidianImages/Pasted image 20240610122102.png",
     "Hello Algo/No14. 动态规划/14.5 完全背包问题.md",
     "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
     "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
@@ -278,9 +317,6 @@
     "Hello Algo/No12. 分治/12.4 汉诺塔问题.md",
     "Hello Algo/No11. 排序/11.11 排序小结.md",
     "Hello Algo/No12. 分治",
-    "Hello Algo/No11. 排序/11.10 基数排序.md",
-    "Hello Algo/No11. 排序/11.9 计数排序.md",
-    "Hello Algo/No11. 排序/11.8 桶排序.md",
     "Hello Algo/No11. 排序",
     "Hello Algo/No10. 搜索",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法",

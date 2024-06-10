@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 23,
+  "baseFontSize": 22,
   "monospaceFontFamily": "Source Code Pro",
   "cssTheme": "Things",
-  "theme": "system"
+  "theme": "moonstone"
 }

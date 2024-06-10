@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "15.4 最大切分乘积问题",
+      "path": "15.4 最大切分乘积问题.md"
+    },
+    {
+      "basename": "15.3 最大容量问题",
+      "path": "15.3 最大容量问题.md"
+    },
+    {
+      "basename": "15.2 分数背包问题",
+      "path": "15.2 分数背包问题.md"
+    },
+    {
       "basename": "15.1 贪心算法",
       "path": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "9.1 图",
       "path": "Hello Algo/No9. 图/9.1 图.md"
-    },
-    {
-      "basename": "9.2 图的基础操作",
-      "path": "Hello Algo/No9. 图/9.2 图的基础操作.md"
-    },
-    {
-      "basename": "7.1 二叉树",
-      "path": "Hello Algo/No7. 树/7.1 二叉树.md"
-    },
-    {
-      "basename": "Java并发场景面试题总结",
-      "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
     }
   ],
   "omittedPaths": []
