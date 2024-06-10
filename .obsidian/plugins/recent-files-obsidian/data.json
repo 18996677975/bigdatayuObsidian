@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "15.1 贪心算法",
+      "path": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
+    },
+    {
+      "basename": "15.5 贪心小结",
+      "path": "Hello Algo/No15. 贪心/15.5 贪心小结.md"
+    },
+    {
       "basename": "15.4 最大切分乘积问题",
-      "path": "15.4 最大切分乘积问题.md"
+      "path": "Hello Algo/No15. 贪心/15.4 最大切分乘积问题.md"
     },
     {
       "basename": "15.3 最大容量问题",
-      "path": "15.3 最大容量问题.md"
+      "path": "Hello Algo/No15. 贪心/15.3 最大容量问题.md"
     },
     {
       "basename": "15.2 分数背包问题",
-      "path": "15.2 分数背包问题.md"
-    },
-    {
-      "basename": "15.1 贪心算法",
-      "path": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
+      "path": "Hello Algo/No15. 贪心/15.2 分数背包问题.md"
     },
     {
       "basename": "14.7 动态规划小结",
@@ -195,10 +199,6 @@
     {
       "basename": "9.3 图的遍历",
       "path": "Hello Algo/No9. 图/9.3 图的遍历.md"
-    },
-    {
-      "basename": "9.1 图",
-      "path": "Hello Algo/No9. 图/9.1 图.md"
     }
   ],
   "omittedPaths": []
