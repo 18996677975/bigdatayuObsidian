@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -240,6 +240,8 @@
   },
   "active": "017ff2392e04cef4",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240610210933.png",
+    "ObsidianImages/Pasted image 20240610210714.png",
     "Hello Algo/No14. 动态规划/14.7 动态规划小结.md",
     "Hello Algo/No15. 贪心/15.1 贪心算法.md",
     "Hello Algo/No15. 贪心",
@@ -253,7 +255,6 @@
     "ObsidianImages/Pasted image 20240610122114.png",
     "ObsidianImages/Pasted image 20240610122110.png",
     "ObsidianImages/Pasted image 20240610122102.png",
-    "ObsidianImages/Pasted image 20240610122058.png",
     "Hello Algo/No14. 动态规划/14.5 完全背包问题.md",
     "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
     "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
@@ -280,7 +281,6 @@
     "Hello Algo/No11. 排序/11.10 基数排序.md",
     "Hello Algo/No11. 排序/11.9 计数排序.md",
     "Hello Algo/No11. 排序/11.8 桶排序.md",
-    "Hello Algo/No8. 堆/8.2 建堆操作.md",
     "Hello Algo/No11. 排序",
     "Hello Algo/No10. 搜索",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法",
