@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "15.1 贪心算法",
+      "path": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
+    },
+    {
+      "basename": "14.7 动态规划小结",
+      "path": "Hello Algo/No14. 动态规划/14.7 动态规划小结.md"
+    },
+    {
       "basename": "14.6 编辑距离问题",
       "path": "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Java并发场景面试题总结",
       "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
-    },
-    {
-      "basename": "7.2 二叉树遍历",
-      "path": "Hello Algo/No7. 树/7.2 二叉树遍历.md"
-    },
-    {
-      "basename": "7.6 树小结",
-      "path": "Hello Algo/No7. 树/7.6 树小结.md"
     }
   ],
   "omittedPaths": []
