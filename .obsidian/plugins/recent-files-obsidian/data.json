@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "14.5 完全背包问题",
+      "path": "Hello Algo/No14. 动态规划/14.5 完全背包问题.md"
+    },
+    {
       "basename": "14.4 0-1背包问题",
-      "path": "14.4 0-1背包问题.md"
+      "path": "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md"
     },
     {
       "basename": "14.3 动态规划解题思路",
@@ -195,10 +199,6 @@
     {
       "basename": "7.3 二叉树数组表示",
       "path": "Hello Algo/No7. 树/7.3 二叉树数组表示.md"
-    },
-    {
-      "basename": "7.4 二叉搜索树",
-      "path": "Hello Algo/No7. 树/7.4 二叉搜索树.md"
     }
   ],
   "omittedPaths": []

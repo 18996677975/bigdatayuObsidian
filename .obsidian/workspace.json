@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.4 0-1背包问题.md",
+                "file": "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae21a216f571fddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello Algo/No14. 动态规划/14.5 完全背包问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14.4 0-1背包问题.md",
+                "file": "Hello Algo/No14. 动态规划/14.5 完全背包问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14.4 0-1背包问题.md",
+                "file": "Hello Algo/No14. 动态规划/14.5 完全背包问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14.4 0-1背包问题.md"
+                "file": "Hello Algo/No14. 动态规划/14.5 完全背包问题.md"
               }
             }
           },
@@ -214,22 +226,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "86d97f5c2356d88c",
+  "active": "ae21a216f571fddd",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240610110545.png",
+    "ObsidianImages/Pasted image 20240610110120.png",
+    "ObsidianImages/Pasted image 20240610105834.png",
+    "ObsidianImages/Pasted image 20240610105806.png",
+    "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
+    "Hello Algo/No14. 动态规划/14.5 完全背包问题.md",
+    "ObsidianImages/Pasted image 20240610104757.png",
+    "ObsidianImages/Pasted image 20240610104459.png",
     "ObsidianImages/Pasted image 20240610103700.png",
     "ObsidianImages/Pasted image 20240610103226.png",
     "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
-    "14.4 0-1背包问题.md",
     "conflict-files-obsidian-git.md",
     "ObsidianImages/Pasted image 20240608230224.png",
     "ObsidianImages/Pasted image 20240608230220.png",
     "ObsidianImages/Pasted image 20240608230206.png",
-    "ObsidianImages/Pasted image 20240608230200.png",
-    "ObsidianImages/Pasted image 20240608230147.png",
-    "ObsidianImages/Pasted image 20240608230138.png",
-    "ObsidianImages/Pasted image 20240608230120.png",
-    "ObsidianImages/Pasted image 20240608230109.png",
-    "ObsidianImages/Pasted image 20240608230058.png",
     "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
     "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
     "Hello Algo/No13. 回溯/13.5 回溯小结.md",
@@ -255,7 +268,6 @@
     "Hello Algo/No8. 堆/8.2 建堆操作.md",
     "Hello Algo/No11. 排序/11.5 快速排序.md",
     "Hello Algo/No11. 排序/11.4 插入排序.md",
-    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
     "Hello Algo/No11. 排序",
     "Hello Algo/No10. 搜索",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法",
