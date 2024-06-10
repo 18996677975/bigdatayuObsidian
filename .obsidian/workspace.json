@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -76,16 +76,6 @@
                 "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "571ccb589c256a5b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
               }
             }
           },
@@ -138,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -296,8 +286,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "571ccb589c256a5b",
+  "active": "017ff2392e04cef4",
   "lastOpenFiles": [
+    "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md",
+    "Hello Algo/No15. 贪心/15.1 贪心算法.md",
+    "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
+    "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
+    "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
     "Hello Algo/No15. 贪心/15.5 贪心小结.md",
     "Hello Algo/No15. 贪心/15.4 最大切分乘积问题.md",
     "ObsidianImages/Pasted image 20240610215551.png",
@@ -311,14 +306,9 @@
     "ObsidianImages/Pasted image 20240610214545.png",
     "ObsidianImages/Pasted image 20240610214203.png",
     "ObsidianImages/Pasted image 20240610214159.png",
-    "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
-    "Hello Algo/No15. 贪心/15.1 贪心算法.md",
     "Hello Algo/No14. 动态规划/14.7 动态规划小结.md",
     "Hello Algo/No15. 贪心",
-    "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md",
     "Hello Algo/No14. 动态规划/14.5 完全背包问题.md",
-    "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
-    "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
     "conflict-files-obsidian-git.md",
     "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
     "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",

@@ -5,6 +5,22 @@
       "path": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
     },
     {
+      "basename": "14.6 编辑距离问题",
+      "path": "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md"
+    },
+    {
+      "basename": "14.4 0-1背包问题",
+      "path": "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md"
+    },
+    {
+      "basename": "14.3 动态规划解题思路",
+      "path": "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md"
+    },
+    {
+      "basename": "15.2 分数背包问题",
+      "path": "Hello Algo/No15. 贪心/15.2 分数背包问题.md"
+    },
+    {
       "basename": "15.5 贪心小结",
       "path": "Hello Algo/No15. 贪心/15.5 贪心小结.md"
     },
@@ -17,28 +33,12 @@
       "path": "Hello Algo/No15. 贪心/15.3 最大容量问题.md"
     },
     {
-      "basename": "15.2 分数背包问题",
-      "path": "Hello Algo/No15. 贪心/15.2 分数背包问题.md"
-    },
-    {
       "basename": "14.7 动态规划小结",
       "path": "Hello Algo/No14. 动态规划/14.7 动态规划小结.md"
     },
     {
-      "basename": "14.6 编辑距离问题",
-      "path": "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md"
-    },
-    {
       "basename": "14.5 完全背包问题",
       "path": "Hello Algo/No14. 动态规划/14.5 完全背包问题.md"
-    },
-    {
-      "basename": "14.4 0-1背包问题",
-      "path": "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md"
-    },
-    {
-      "basename": "14.3 动态规划解题思路",
-      "path": "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md"
     },
     {
       "basename": "14.2 动态规划问题特性",
