@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "14.6 编辑距离问题",
+      "path": "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md"
+    },
+    {
       "basename": "14.5 完全背包问题",
       "path": "Hello Algo/No14. 动态规划/14.5 完全背包问题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7.6 树小结",
       "path": "Hello Algo/No7. 树/7.6 树小结.md"
-    },
-    {
-      "basename": "7.3 二叉树数组表示",
-      "path": "Hello Algo/No7. 树/7.3 二叉树数组表示.md"
     }
   ],
   "omittedPaths": []
