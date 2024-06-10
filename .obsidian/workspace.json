@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md",
+                "file": "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md",
+                "file": "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
+                "file": "Hello Algo/No15. 贪心/15.2 分数背包问题.md"
               }
             }
           },
@@ -286,13 +286,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "017ff2392e04cef4",
+  "active": "680e95bc90e47d0a",
   "lastOpenFiles": [
-    "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md",
     "Hello Algo/No15. 贪心/15.1 贪心算法.md",
+    "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
+    "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md",
     "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
     "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
-    "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
     "Hello Algo/No15. 贪心/15.5 贪心小结.md",
     "Hello Algo/No15. 贪心/15.4 最大切分乘积问题.md",
     "ObsidianImages/Pasted image 20240610215551.png",

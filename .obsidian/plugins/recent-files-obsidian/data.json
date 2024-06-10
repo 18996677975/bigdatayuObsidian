@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "15.2 分数背包问题",
+      "path": "Hello Algo/No15. 贪心/15.2 分数背包问题.md"
+    },
+    {
       "basename": "15.1 贪心算法",
       "path": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "14.3 动态规划解题思路",
       "path": "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md"
-    },
-    {
-      "basename": "15.2 分数背包问题",
-      "path": "Hello Algo/No15. 贪心/15.2 分数背包问题.md"
     },
     {
       "basename": "15.5 贪心小结",
