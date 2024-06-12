@@ -1,148 +1,76 @@
 {
   "main": {
-    "id": "1694fcfb087acaa2",
+    "id": "2e320798fa4fb01a",
     "type": "split",
     "children": [
       {
-        "id": "82c12ff67d9ff154",
+        "id": "4982429abf810d28",
         "type": "tabs",
         "children": [
           {
-            "id": "39a9385c03f2c117",
+            "id": "10dec1508daf5860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
+                "file": "Hello Algo/No13. 回溯/13.1 回溯算法.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "ab5182d30b75118e",
+            "id": "616389011f3433c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd0682ab8e6d1b0b",
+            "id": "4fd5f2d7ec6e5ad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "86d97f5c2356d88c",
+            "id": "5485924df565beaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae21a216f571fddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "017ff2392e04cef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No15. 贪心/15.1 贪心算法.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "680e95bc90e47d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a256c317e655bd16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No15. 贪心/15.3 最大容量问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cdba2c2b9c2c20f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No15. 贪心/15.4 最大切分乘积问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5310a7ab3cdc06b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No15. 贪心/15.5 贪心小结.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8296ae919af5a195",
+    "id": "0ab763832abdff57",
     "type": "split",
     "children": [
       {
-        "id": "7e3545dacb4d9a9d",
+        "id": "fad0ec97ab5bcccb",
         "type": "tabs",
         "children": [
           {
-            "id": "887475e7de336b95",
+            "id": "0bd798abd27b0687",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -152,7 +80,7 @@
             }
           },
           {
-            "id": "e2b9adc560c659e3",
+            "id": "58269a1a602b7a07",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -167,7 +95,7 @@
             }
           },
           {
-            "id": "90c6d970f540e9fe",
+            "id": "faa323467db4253a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -175,29 +103,10 @@
             }
           },
           {
-            "id": "fa27e3614b8f25b9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4f0ca8bc7ee868ca",
+            "id": "03b34c89f1e12fc8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "0faa49b53cf1873b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -205,23 +114,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 300
   },
   "right": {
-    "id": "5b4044efa7af0982",
+    "id": "7de087ada161705e",
     "type": "split",
     "children": [
       {
-        "id": "b54f69180a550e99",
+        "id": "4ba44f054220012e",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4221ccd969383c",
+            "id": "119256d0b654107f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e770abdc011d9f5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,107 +150,67 @@
             }
           },
           {
-            "id": "3f26895bc9698697",
+            "id": "10114e547fe84bea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "140ebb0227b05852",
+            "id": "5ff57880546ffc3c",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "Hello Algo/No15. 贪心/15.2 分数背包问题.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "21d6779bb06edb07",
+            "id": "7e5144609df7dcdd",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "680e95bc90e47d0a",
+  "active": "616389011f3433c6",
   "lastOpenFiles": [
-    "Hello Algo/No15. 贪心/15.1 贪心算法.md",
-    "Hello Algo/No15. 贪心/15.2 分数背包问题.md",
-    "Hello Algo/No14. 动态规划/14.6 编辑距离问题.md",
-    "Hello Algo/No14. 动态规划/14.4 0-1背包问题.md",
-    "Hello Algo/No14. 动态规划/14.3 动态规划解题思路.md",
-    "Hello Algo/No15. 贪心/15.5 贪心小结.md",
-    "Hello Algo/No15. 贪心/15.4 最大切分乘积问题.md",
-    "ObsidianImages/Pasted image 20240610215551.png",
-    "ObsidianImages/Pasted image 20240610215233.png",
-    "ObsidianImages/Pasted image 20240610215001.png",
-    "ObsidianImages/Pasted image 20240610214949.png",
-    "ObsidianImages/Pasted image 20240610214839.png",
-    "ObsidianImages/Pasted image 20240610214815.png",
-    "ObsidianImages/Pasted image 20240610214725.png",
-    "Hello Algo/No15. 贪心/15.3 最大容量问题.md",
-    "ObsidianImages/Pasted image 20240610214545.png",
-    "ObsidianImages/Pasted image 20240610214203.png",
-    "ObsidianImages/Pasted image 20240610214159.png",
-    "Hello Algo/No14. 动态规划/14.7 动态规划小结.md",
-    "Hello Algo/No15. 贪心",
-    "Hello Algo/No14. 动态规划/14.5 完全背包问题.md",
-    "conflict-files-obsidian-git.md",
-    "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md",
-    "Hello Algo/No14. 动态规划/14.1 初探动态规划.md",
-    "Hello Algo/No13. 回溯/13.5 回溯小结.md",
-    "Hello Algo/No14. 动态规划",
-    "Hello Algo/No13. 回溯/13.4 N 皇后问题.md",
-    "Hello Algo/No13. 回溯/13.3 子集和问题.md",
-    "Hello Algo/No13. 回溯/13.2 全排序问题.md",
-    "Hello Algo/No13. 回溯/13.1 回溯算法.md",
-    "Hello Algo/No12. 分治/12.3 构建二叉树问题.md",
-    "Hello Algo/No12. 分治/12.2 分治搜索策略.md",
-    "Hello Algo/No13. 回溯/未命名",
-    "Hello Algo/No13. 回溯",
-    "Hello Algo/No12. 分治/12.1 分治算法.md",
-    "Hello Algo/No11. 排序/11.7 堆排序.md",
-    "Hello Algo/No11. 排序/11.6 归并排序.md",
-    "Hello Algo/No12. 分治/12.5 分治小结.md",
-    "Hello Algo/No12. 分治/12.4 汉诺塔问题.md",
-    "Hello Algo/No11. 排序/11.11 排序小结.md",
-    "Hello Algo/No12. 分治",
-    "Hello Algo/No11. 排序",
-    "Hello Algo/No10. 搜索",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法",
-    "Hello Algo/No9. 图",
-    "labuladong 的算法笔记/数据结构刷题",
-    "数据平台工程师面试汇总/未命名.canvas"
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
+    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
+    "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+    "Hello Algo/No13. 回溯/13.1 回溯算法.md"
   ]
 }
