@@ -4,52 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4982429abf810d28",
+        "id": "8af224949a3e816b",
         "type": "tabs",
         "children": [
           {
-            "id": "10dec1508daf5860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Algo/No13. 回溯/13.1 回溯算法.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "616389011f3433c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/并发/JMM（Java内存模型）详解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd5f2d7ec6e5ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5485924df565beaf",
+            "id": "c859f404a4542b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa217e27e80fdc79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/并发/JMM（Java内存模型）详解.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/并发/JMM（Java内存模型）详解.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/并发/JMM（Java内存模型）详解.md"
+                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md"
               }
             }
           }
@@ -206,12 +182,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "616389011f3433c6",
+  "active": "aa217e27e80fdc79",
   "lastOpenFiles": [
-    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
-    "JavaGuide/Java/并发/JMM（Java内存模型）详解.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
+    "ObsidianImages/1 1.gif",
+    "ObsidianImages/1.gif",
+    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
+    "ObsidianImages/Pasted image 20240614005547.png",
+    "ObsidianImages/Pasted image 20240614005453.png",
     "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+    "JavaGuide/Java/并发/JMM（Java内存模型）详解.md",
+    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
     "Hello Algo/No13. 回溯/13.1 回溯算法.md"
   ]
 }
