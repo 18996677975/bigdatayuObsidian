@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JMM（Java内存模型）详解",
+      "path": "JavaGuide/Java/并发/JMM（Java内存模型）详解.md"
+    },
+    {
       "basename": "双指针技巧秒杀七道数组题目",
       "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8.1 堆",
       "path": "Hello Algo/No8. 堆/8.1 堆.md"
-    },
-    {
-      "basename": "9.3 图的遍历",
-      "path": "Hello Algo/No9. 图/9.3 图的遍历.md"
     }
   ],
   "omittedPaths": []
