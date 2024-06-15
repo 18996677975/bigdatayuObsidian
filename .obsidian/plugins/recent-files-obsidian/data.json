@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "小而美的算法技巧：前缀和数组",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md"
+    },
+    {
       "basename": "双指针技巧秒杀七道数组题目",
-      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道链表题目",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md"
     },
     {
       "basename": "双指针技巧秒杀七道链表题目",
       "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道数组题目",
+      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
+    },
+    {
+      "basename": "递归魔法：反转单链表",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
     },
     {
       "basename": "学习算法和刷题的框架思维",
@@ -19,10 +35,6 @@
     {
       "basename": "JMM（Java内存模型）详解",
       "path": "JavaGuide/Java/并发/JMM（Java内存模型）详解.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道链表题目",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md"
     },
     {
       "basename": "13.1 回溯算法",
@@ -149,10 +161,6 @@
       "path": "Hello Algo/No11. 排序/11.4 插入排序.md"
     },
     {
-      "basename": "递归魔法：反转单链表",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
-    },
-    {
       "basename": "10.1 二分查找",
       "path": "Hello Algo/No10. 搜索/10.1 二分查找.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "9.4 图小结",
       "path": "Hello Algo/No9. 图/9.4 图小结.md"
-    },
-    {
-      "basename": "8.4 堆小结",
-      "path": "Hello Algo/No8. 堆/8.4 堆小结.md"
-    },
-    {
-      "basename": "7.5 AVL 树",
-      "path": "Hello Algo/No7. 树/7.5 AVL 树.md"
     }
   ],
   "omittedPaths": []
