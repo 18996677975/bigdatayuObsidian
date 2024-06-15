@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "3abe3baf3d41b137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "735b47a4ab3f27ca",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md"
+                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md"
               }
             }
           }
@@ -218,10 +230,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67de40787ea7a8d2",
+  "active": "3abe3baf3d41b137",
   "lastOpenFiles": [
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md",
+    "ObsidianImages/Pasted image 20240615173600.png",
+    "ObsidianImages/Pasted image 20240615173525.png",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
+    "ObsidianImages/Pasted image 20240615173119.png",
+    "ObsidianImages/Pasted image 20240615173009.png",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",

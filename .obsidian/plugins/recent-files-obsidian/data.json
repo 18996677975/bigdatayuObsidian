@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "小而美的算法技巧：差分数组",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md"
+    },
+    {
       "basename": "小而美的算法技巧：前缀和数组",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.2 二分查找插入点",
       "path": "Hello Algo/No10. 搜索/10.2 二分查找插入点.md"
-    },
-    {
-      "basename": "9.4 图小结",
-      "path": "Hello Algo/No9. 图/9.4 图小结.md"
     }
   ],
   "omittedPaths": []
