@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "滑动窗口算法核心代码模块",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模块.md"
+    },
+    {
       "basename": "小而美的算法技巧：差分数组",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.3 二分查找边界",
       "path": "Hello Algo/No10. 搜索/10.3 二分查找边界.md"
-    },
-    {
-      "basename": "10.2 二分查找插入点",
-      "path": "Hello Algo/No10. 搜索/10.2 二分查找插入点.md"
     }
   ],
   "omittedPaths": []
