@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习算法和刷题的框架思维",
+      "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
+    },
+    {
       "basename": "二分搜索算法核心代码模板",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "递归魔法：反转单链表",
       "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
-    },
-    {
-      "basename": "学习算法和刷题的框架思维",
-      "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
     },
     {
       "basename": "1",
