@@ -4,95 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8af224949a3e816b",
+        "id": "64f9b17e5ee85a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "c859f404a4542b44",
+            "id": "1d30f531fbc3650a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cb27e18232f917a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+                "file": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa217e27e80fdc79",
+            "id": "4129f7b9772e7afd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "404e1b8bb947c8f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67de40787ea7a8d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3abe3baf3d41b137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c21b25e5da2cd1e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "735b47a4ab3f27ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7de087ada161705e",
@@ -175,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
               }
             }
           }
@@ -243,10 +190,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0bd798abd27b0687",
+  "active": "4129f7b9772e7afd",
   "lastOpenFiles": [
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
+    "ObsidianImages/Pasted image 20240617164658.png",
+    "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
+    "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+    "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
+    "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
+    "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
+    "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
+    "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
+    "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
+    "JavaGuide/Java/基础/重要知识点/BigDecimal.md",
+    "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
+    "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
+    "JavaGuide/重点总结.md",
+    "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+    "JavaGuide/Java/JVM",
+    "JavaGuide/Java/IO",
+    "JavaGuide/Java/集合/重要知识点/ArrayList 源码分析.md",
+    "JavaGuide/Java/集合/重要知识点",
+    "JavaGuide/Java/并发/重要知识点",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md",
+    "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
     "ObsidianImages/Pasted image 20240616145215.png",
     "ObsidianImages/Pasted image 20240616145207.png",
     "ObsidianImages/Pasted image 20240616145159.png",
@@ -264,9 +231,7 @@
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法",
     "ObsidianImages/Pasted image 20240615011009.png",
-    "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
     "ObsidianImages/1 1.gif",
-    "JavaGuide/Java/并发/JMM（Java内存模型）详解.md",
     "Hello Algo/No13. 回溯/13.1 回溯算法.md"
   ]
 }

@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "学习算法和刷题的框架思维",
-      "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
+      "basename": "Java 基础常见面试题总结",
+      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+    },
+    {
+      "basename": "JMM（Java内存模型）详解",
+      "path": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md"
+    },
+    {
+      "basename": "Java 值传递",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 值传递.md"
+    },
+    {
+      "basename": "Java 序列化",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 序列化.md"
+    },
+    {
+      "basename": "Java 魔法类 Unsafe",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md"
+    },
+    {
+      "basename": "Java 反射机制",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 反射机制.md"
+    },
+    {
+      "basename": "Java 代理模式",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 代理模式.md"
+    },
+    {
+      "basename": "泛型 & 通配符",
+      "path": "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md"
+    },
+    {
+      "basename": "BigDecimal",
+      "path": "JavaGuide/Java/基础/重要知识点/BigDecimal.md"
+    },
+    {
+      "basename": "Java 语法糖",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 语法糖.md"
+    },
+    {
+      "basename": "Java SPI 机制",
+      "path": "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md"
+    },
+    {
+      "basename": "重点总结",
+      "path": "JavaGuide/重点总结.md"
+    },
+    {
+      "basename": "Java并发场景面试题总结",
+      "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
+    },
+    {
+      "basename": "ArrayList 源码分析",
+      "path": "JavaGuide/Java/集合/重要知识点/ArrayList 源码分析.md"
     },
     {
       "basename": "二分搜索算法核心代码模板",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md"
+    },
+    {
+      "basename": "学习算法和刷题的框架思维",
+      "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
     },
     {
       "basename": "滑动窗口算法核心代码模板",
@@ -43,10 +99,6 @@
     {
       "basename": "1",
       "path": "ObsidianImages/1.gif"
-    },
-    {
-      "basename": "JMM（Java内存模型）详解",
-      "path": "JavaGuide/Java/并发/JMM（Java内存模型）详解.md"
     },
     {
       "basename": "13.1 回溯算法",
@@ -147,58 +199,6 @@
     {
       "basename": "11.11 排序小结",
       "path": "Hello Algo/No11. 排序/11.11 排序小结.md"
-    },
-    {
-      "basename": "11.10 基数排序",
-      "path": "Hello Algo/No11. 排序/11.10 基数排序.md"
-    },
-    {
-      "basename": "11.9 计数排序",
-      "path": "Hello Algo/No11. 排序/11.9 计数排序.md"
-    },
-    {
-      "basename": "11.8 桶排序",
-      "path": "Hello Algo/No11. 排序/11.8 桶排序.md"
-    },
-    {
-      "basename": "8.2 建堆操作",
-      "path": "Hello Algo/No8. 堆/8.2 建堆操作.md"
-    },
-    {
-      "basename": "11.5 快速排序",
-      "path": "Hello Algo/No11. 排序/11.5 快速排序.md"
-    },
-    {
-      "basename": "11.4 插入排序",
-      "path": "Hello Algo/No11. 排序/11.4 插入排序.md"
-    },
-    {
-      "basename": "10.1 二分查找",
-      "path": "Hello Algo/No10. 搜索/10.1 二分查找.md"
-    },
-    {
-      "basename": "11.3 冒泡排序",
-      "path": "Hello Algo/No11. 排序/11.3 冒泡排序.md"
-    },
-    {
-      "basename": "11.2 选择排序",
-      "path": "Hello Algo/No11. 排序/11.2 选择排序.md"
-    },
-    {
-      "basename": "11.1 排序算法",
-      "path": "Hello Algo/No11. 排序/11.1 排序算法.md"
-    },
-    {
-      "basename": "10.6 搜索小结",
-      "path": "Hello Algo/No10. 搜索/10.6 搜索小结.md"
-    },
-    {
-      "basename": "10.5 重识搜索算法",
-      "path": "Hello Algo/No10. 搜索/10.5 重识搜索算法.md"
-    },
-    {
-      "basename": "10.4 哈希优化策略",
-      "path": "Hello Algo/No10. 搜索/10.4 哈希优化策略.md"
     }
   ],
   "omittedPaths": []
