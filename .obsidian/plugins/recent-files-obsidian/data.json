@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "刷二叉树（思路篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md"
+    },
+    {
       "basename": "东哥带你刷二叉树（纲领篇）",
       "path": "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md"
     },
     {
-      "basename": "[",
-      "path": "[.md"
+      "basename": "刷二叉树（纲领篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道链表题目",
+      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道数组题目",
+      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
+    },
+    {
+      "basename": "学习算法和刷题的框架思维",
+      "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
+    },
+    {
+      "basename": "递归魔法：反转单链表",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道链表题目",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md"
+    },
+    {
+      "basename": "二分搜索算法核心代码模板",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md"
+    },
+    {
+      "basename": "小而美的算法技巧：前缀和数组",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md"
+    },
+    {
+      "basename": "小而美的算法技巧：差分数组",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道数组题目",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md"
+    },
+    {
+      "basename": "滑动窗口算法核心代码模板",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
     },
     {
       "basename": "Java并发场景面试题总结",
       "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
-    },
-    {
-      "basename": "刷二叉树（纲领篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md"
     },
     {
       "basename": "重点总结",
@@ -67,46 +107,6 @@
     {
       "basename": "ArrayList 源码分析",
       "path": "JavaGuide/Java/集合/重要知识点/ArrayList 源码分析.md"
-    },
-    {
-      "basename": "二分搜索算法核心代码模板",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md"
-    },
-    {
-      "basename": "学习算法和刷题的框架思维",
-      "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
-    },
-    {
-      "basename": "滑动窗口算法核心代码模板",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
-    },
-    {
-      "basename": "小而美的算法技巧：差分数组",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md"
-    },
-    {
-      "basename": "小而美的算法技巧：前缀和数组",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道数组题目",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道链表题目",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道链表题目",
-      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道数组题目",
-      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
-    },
-    {
-      "basename": "递归魔法：反转单链表",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
     },
     {
       "basename": "1",

@@ -8,51 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d30f531fbc3650a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9cb27e18232f917a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4129f7b9772e7afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "372cfa273589a580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4092648e78dc7c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b11f0c9fa1772820",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md"
+                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md"
               }
             }
           }
@@ -195,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,9 +183,21 @@
   },
   "active": "4092648e78dc7c84",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240618014709.png",
-    "[.md",
     "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md",
+    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md",
+    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
+    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
+    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
+    "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
+    "[.md",
+    "ObsidianImages/Pasted image 20240618014709.png",
     "ObsidianImages/Pasted image 20240618013341.png",
     "ObsidianImages/Pasted image 20240618013243.png",
     "ObsidianImages/Pasted image 20240618013145.png",
@@ -228,11 +208,9 @@
     "ObsidianImages/Pasted image 20240618003526.png",
     "ObsidianImages/Pasted image 20240618003447.png",
     "JavaGuide/Java/并发/Java并发场景面试题总结.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md",
     "JavaGuide/重点总结.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
-    "ObsidianImages/Pasted image 20240617164658.png",
     "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
     "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
     "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
@@ -242,20 +220,10 @@
     "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
     "JavaGuide/Java/基础/重要知识点/BigDecimal.md",
     "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
-    "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
-    "JavaGuide/Java/集合/重要知识点/ArrayList 源码分析.md",
     "JavaGuide/Java/集合/重要知识点",
     "JavaGuide/Java/并发/重要知识点",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md",
-    "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
-    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法"
   ]
 }
