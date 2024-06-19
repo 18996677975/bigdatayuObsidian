@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "【强化练习】链表双指针经典习题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md"
+    },
+    {
+      "basename": "滑动窗口算法核心代码模板",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
+    },
+    {
       "basename": "刷二叉树（思路篇）",
       "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "双指针技巧秒杀七道数组题目",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md"
-    },
-    {
-      "basename": "滑动窗口算法核心代码模板",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
     },
     {
       "basename": "Java并发场景面试题总结",
@@ -195,10 +199,6 @@
     {
       "basename": "11.7 堆排序",
       "path": "Hello Algo/No11. 排序/11.7 堆排序.md"
-    },
-    {
-      "basename": "11.6 归并排序",
-      "path": "Hello Algo/No11. 排序/11.6 归并排序.md"
     }
   ],
   "omittedPaths": []
