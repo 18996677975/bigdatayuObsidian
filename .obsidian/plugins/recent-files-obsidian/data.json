@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "如何判断回文链表",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md"
+    },
+    {
+      "basename": "如何 K 个一组反转链表",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何 K 个一组反转链表.md"
+    },
+    {
+      "basename": "递归魔法：反转单链表",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
+    },
+    {
       "basename": "【强化练习】链表双指针经典习题",
       "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "学习算法和刷题的框架思维",
       "path": "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md"
-    },
-    {
-      "basename": "递归魔法：反转单链表",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
     },
     {
       "basename": "双指针技巧秒杀七道链表题目",
@@ -191,14 +199,6 @@
     {
       "basename": "12.2 分治搜索策略",
       "path": "Hello Algo/No12. 分治/12.2 分治搜索策略.md"
-    },
-    {
-      "basename": "12.1 分治算法",
-      "path": "Hello Algo/No12. 分治/12.1 分治算法.md"
-    },
-    {
-      "basename": "11.7 堆排序",
-      "path": "Hello Algo/No11. 排序/11.7 堆排序.md"
     }
   ],
   "omittedPaths": []
