@@ -8,55 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4092648e78dc7c84",
+            "id": "a5844f0c8807abdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b5d0d7dec8a70f8",
+            "id": "3d1df57827e42f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22d186cb4a816255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b11f0c9fa1772820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md"
+                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md"
               }
             }
           }
@@ -206,45 +181,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "22d186cb4a816255",
+  "active": "a5844f0c8807abdb",
   "lastOpenFiles": [
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何 K 个一组反转链表.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
-    "ObsidianImages/Pasted image 20240620195354.png",
-    "ObsidianImages/Pasted image 20240620195311.png",
-    "ObsidianImages/Pasted image 20240620195217.png",
-    "ObsidianImages/Pasted image 20240620194952.png",
-    "ObsidianImages/Pasted image 20240620194928.png",
-    "ObsidianImages/Pasted image 20240620194900.png",
-    "ObsidianImages/Pasted image 20240620194847.png",
-    "ObsidianImages/Pasted image 20240620194811.png",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
+    "ObsidianImages/Pasted image 20240621181625.png",
+    "ObsidianImages/Pasted image 20240621181441.png",
+    "ObsidianImages/Pasted image 20240621174912.png",
+    "ObsidianImages/Pasted image 20240621174851.png",
+    "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+    "ObsidianImages/Pasted image 20240621174232.png",
+    "ObsidianImages/Pasted image 20240621174226.png",
+    "ObsidianImages/Pasted image 20240621174215.png",
+    "ObsidianImages/Pasted image 20240621174134.png",
+    "ObsidianImages/Pasted image 20240621174122.png",
+    "ObsidianImages/Pasted image 20240621174016.png",
+    "ObsidianImages/Pasted image 20240621173948.png",
+    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何 K 个一组反转链表.md",
+    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
+    "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
-    "ObsidianImages/Pasted image 20240619003849.png",
-    "ObsidianImages/Pasted image 20240619002147.png",
     "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md",
     "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
-    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
     "labuladong 的算法笔记/核心架构汇总/学习算法和刷题的框架思维.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md",
     "[.md",
     "JavaGuide/Java/并发/Java并发场景面试题总结.md",
     "JavaGuide/重点总结.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
-    "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
     "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
     "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
     "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
     "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
-    "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
-    "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
     "JavaGuide/Java/集合/重要知识点",
