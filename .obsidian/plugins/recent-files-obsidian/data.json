@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "【强化练习】前缀和技巧经典习题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】前缀和技巧经典习题.md"
+    },
+    {
+      "basename": "一个方法团灭 nSum 问题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/一个方法团灭 nSum 问题.md"
+    },
+    {
+      "basename": "【强化练习】数组双指针经典习题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】数组双指针经典习题.md"
+    },
+    {
       "basename": "刷二叉树（构造篇）",
       "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "13.4 N 皇后问题",
       "path": "Hello Algo/No13. 回溯/13.4 N 皇后问题.md"
-    },
-    {
-      "basename": "13.3 子集和问题",
-      "path": "Hello Algo/No13. 回溯/13.3 子集和问题.md"
-    },
-    {
-      "basename": "13.2 全排序问题",
-      "path": "Hello Algo/No13. 回溯/13.2 全排序问题.md"
-    },
-    {
-      "basename": "12.3 构建二叉树问题",
-      "path": "Hello Algo/No12. 分治/12.3 构建二叉树问题.md"
     }
   ],
   "omittedPaths": []
