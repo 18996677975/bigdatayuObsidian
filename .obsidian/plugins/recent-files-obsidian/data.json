@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 基础常见面试题总结",
+      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+    },
+    {
+      "basename": "重点总结",
+      "path": "JavaGuide/重点总结.md"
+    },
+    {
+      "basename": "滑动窗口算法延伸：Rabin Karp 字符匹配算法",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法延伸：Rabin Karp 字符匹配算法.md"
+    },
+    {
+      "basename": "【强化练习】滑动窗口算法经典习题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】滑动窗口算法经典习题.md"
+    },
+    {
+      "basename": "二维数组的花式遍历技巧",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二维数组的花式遍历技巧.md"
+    },
+    {
       "basename": "【强化练习】前缀和技巧经典习题",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】前缀和技巧经典习题.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "刷二叉树（构造篇）",
       "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md"
-    },
-    {
-      "basename": "Java 基础常见面试题总结",
-      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
     },
     {
       "basename": "滑动窗口算法核心代码模板",
@@ -87,10 +103,6 @@
     {
       "basename": "Java并发场景面试题总结",
       "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
-    },
-    {
-      "basename": "重点总结",
-      "path": "JavaGuide/重点总结.md"
     },
     {
       "basename": "JMM（Java内存模型）详解",
@@ -187,18 +199,6 @@
     {
       "basename": "14.2 动态规划问题特性",
       "path": "Hello Algo/No14. 动态规划/14.2 动态规划问题特性.md"
-    },
-    {
-      "basename": "14.1 初探动态规划",
-      "path": "Hello Algo/No14. 动态规划/14.1 初探动态规划.md"
-    },
-    {
-      "basename": "13.5 回溯小结",
-      "path": "Hello Algo/No13. 回溯/13.5 回溯小结.md"
-    },
-    {
-      "basename": "13.4 N 皇后问题",
-      "path": "Hello Algo/No13. 回溯/13.4 N 皇后问题.md"
     }
   ],
   "omittedPaths": []
