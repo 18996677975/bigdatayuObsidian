@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 基础常见面试题总结",
+      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+    },
+    {
       "basename": "Java 线程池详解",
       "path": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "重点总结",
       "path": "JavaGuide/重点总结.md"
-    },
-    {
-      "basename": "Java 基础常见面试题总结",
-      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
     },
     {
       "basename": "滑动窗口算法延伸：Rabin Karp 字符匹配算法",

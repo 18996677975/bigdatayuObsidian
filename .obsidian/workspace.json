@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md"
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
               }
             }
           }
@@ -193,10 +192,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6bcdbdcc70d0a877",
+  "active": "3d1df57827e42f89",
   "lastOpenFiles": [
-    "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
+    "ObsidianImages/Pasted image 20240624180422.png",
+    "ObsidianImages/Pasted image 20240624175652.png",
+    "ObsidianImages/Pasted image 20240624173729.png",
     "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
+    "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
     "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
     "JavaGuide/重点总结.md",
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
@@ -211,8 +213,6 @@
     "ObsidianImages/Pasted image 20240623152206.png",
     "ObsidianImages/Pasted image 20240623114223.png",
     "ObsidianImages/Pasted image 20240623114216.png",
-    "ObsidianImages/Pasted image 20240623114208.png",
-    "ObsidianImages/Pasted image 20240623113650.png",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】前缀和技巧经典习题.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/一个方法团灭 nSum 问题.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】数组双指针经典习题.md",
@@ -230,7 +230,6 @@
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
     "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md",
-    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
