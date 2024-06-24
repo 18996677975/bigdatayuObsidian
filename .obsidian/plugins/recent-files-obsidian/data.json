@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 序列化",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 序列化.md"
+    },
+    {
+      "basename": "Java 值传递",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 值传递.md"
+    },
+    {
       "basename": "Java 基础常见面试题总结",
       "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
     },
@@ -115,14 +123,6 @@
     {
       "basename": "Java并发场景面试题总结",
       "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
-    },
-    {
-      "basename": "Java 值传递",
-      "path": "JavaGuide/Java/基础/重要知识点/Java 值传递.md"
-    },
-    {
-      "basename": "Java 序列化",
-      "path": "JavaGuide/Java/基础/重要知识点/Java 序列化.md"
     },
     {
       "basename": "Java 魔法类 Unsafe",
