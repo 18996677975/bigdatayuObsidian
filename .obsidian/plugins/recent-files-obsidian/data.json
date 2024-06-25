@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Java SPI 机制",
+      "path": "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md"
+    },
+    {
+      "basename": "Java 反射机制",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 反射机制.md"
+    },
+    {
+      "basename": "Java 代理模式",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 代理模式.md"
+    },
+    {
+      "basename": "Java 魔法类 Unsafe",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md"
+    },
+    {
+      "basename": "Java 语法糖",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 语法糖.md"
+    },
+    {
       "basename": "Java 基础常见面试题总结",
       "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+    },
+    {
+      "basename": "BigDecimal",
+      "path": "JavaGuide/Java/基础/重要知识点/BigDecimal.md"
+    },
+    {
+      "basename": "Java IO 模型详解",
+      "path": "JavaGuide/Java/IO/Java IO 模型详解.md"
+    },
+    {
+      "basename": "Java IO 设计模式总结",
+      "path": "JavaGuide/Java/IO/Java IO 设计模式总结.md"
+    },
+    {
+      "basename": "Java IO 基础知识总结",
+      "path": "JavaGuide/Java/IO/Java IO 基础知识总结.md"
     },
     {
       "basename": "Java 序列化",
@@ -125,32 +161,8 @@
       "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
     },
     {
-      "basename": "Java 魔法类 Unsafe",
-      "path": "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md"
-    },
-    {
-      "basename": "Java 反射机制",
-      "path": "JavaGuide/Java/基础/重要知识点/Java 反射机制.md"
-    },
-    {
-      "basename": "Java 代理模式",
-      "path": "JavaGuide/Java/基础/重要知识点/Java 代理模式.md"
-    },
-    {
       "basename": "泛型 & 通配符",
       "path": "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md"
-    },
-    {
-      "basename": "BigDecimal",
-      "path": "JavaGuide/Java/基础/重要知识点/BigDecimal.md"
-    },
-    {
-      "basename": "Java 语法糖",
-      "path": "JavaGuide/Java/基础/重要知识点/Java 语法糖.md"
-    },
-    {
-      "basename": "Java SPI 机制",
-      "path": "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md"
     },
     {
       "basename": "ArrayList 源码分析",
@@ -187,18 +199,6 @@
     {
       "basename": "15.5 贪心小结",
       "path": "Hello Algo/No15. 贪心/15.5 贪心小结.md"
-    },
-    {
-      "basename": "15.4 最大切分乘积问题",
-      "path": "Hello Algo/No15. 贪心/15.4 最大切分乘积问题.md"
-    },
-    {
-      "basename": "15.3 最大容量问题",
-      "path": "Hello Algo/No15. 贪心/15.3 最大容量问题.md"
-    },
-    {
-      "basename": "14.7 动态规划小结",
-      "path": "Hello Algo/No14. 动态规划/14.7 动态规划小结.md"
     }
   ],
   "omittedPaths": []

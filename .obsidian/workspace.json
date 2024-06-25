@@ -8,60 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d1df57827e42f89",
+            "id": "1d4ef7f51b4fb1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c76818d733aa7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c57d358e1196d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d6d48f4a7e0eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb6b4e0faa2ae355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "429f6377db4f6e59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b622298b67c3a780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b1e7b3d76641054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d9179b793ccce44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/重点总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bcdbdcc70d0a877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+                "file": "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+                "file": "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+                "file": "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md"
               }
             }
           }
@@ -216,22 +228,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3d1df57827e42f89",
+  "active": "1d4ef7f51b4fb1c7",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240625113623.png",
-    "ObsidianImages/Pasted image 20240625113108.png",
-    "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
-    "ObsidianImages/Pasted image 20240625010421.png",
-    "ObsidianImages/Pasted image 20240625010338.png",
-    "ObsidianImages/Pasted image 20240625005651.png",
-    "ObsidianImages/Pasted image 20240625005626.png",
-    "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
-    "ObsidianImages/Pasted image 20240625005019.png",
-    "ObsidianImages/Pasted image 20240625004719.png",
-    "ObsidianImages/Pasted image 20240625004618.png",
+    "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
+    "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
+    "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
+    "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
+    "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
+    "ObsidianImages/Pasted image 20240625193600.png",
+    "ObsidianImages/Pasted image 20240625193527.png",
+    "ObsidianImages/Pasted image 20240625193517.png",
+    "ObsidianImages/Pasted image 20240625193259.png",
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
-    "ObsidianImages/Pasted image 20240625003336.png",
-    "ObsidianImages/Pasted image 20240625003242.png",
+    "JavaGuide/Java/基础/重要知识点/BigDecimal.md",
+    "ObsidianImages/Pasted image 20240625180408.png",
+    "ObsidianImages/Pasted image 20240625180329.png",
+    "ObsidianImages/Pasted image 20240625180106.png",
+    "ObsidianImages/Pasted image 20240625175953.png",
+    "JavaGuide/Java/IO/Java IO 模型详解.md",
+    "JavaGuide/Java/IO/Java IO 设计模式总结.md",
+    "JavaGuide/Java/IO/Java IO 基础知识总结.md",
+    "ObsidianImages/Pasted image 20240625124411.png",
+    "ObsidianImages/Pasted image 20240625124351.png",
+    "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
+    "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
     "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
     "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
     "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
@@ -246,14 +266,6 @@
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何 K 个一组反转链表.md",
-    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
