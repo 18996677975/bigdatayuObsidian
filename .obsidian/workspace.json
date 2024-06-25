@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 序列化.md"
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
               }
             }
           }
@@ -217,8 +216,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b1e7b3d76641054",
+  "active": "3d1df57827e42f89",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240625113623.png",
+    "ObsidianImages/Pasted image 20240625113108.png",
+    "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
     "ObsidianImages/Pasted image 20240625010421.png",
     "ObsidianImages/Pasted image 20240625010338.png",
     "ObsidianImages/Pasted image 20240625005651.png",
@@ -230,8 +232,6 @@
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
     "ObsidianImages/Pasted image 20240625003336.png",
     "ObsidianImages/Pasted image 20240625003242.png",
-    "ObsidianImages/Pasted image 20240625002944.png",
-    "ObsidianImages/Pasted image 20240625002921.png",
     "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
     "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
     "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
@@ -254,7 +254,6 @@
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
-    "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
