@@ -81,9 +81,9 @@ after method send()
 
 就 Java 来说，动态代理的实现方式有很多种，比如 **JDK 动态代理**、**CGLIB 动态代理**等等。
 
-[guide-rpc-frameworkopen in new window](https://github.com/Snailclimb/guide-rpc-framework) 使用的是 JDK 动态代理，我们先来看看 JDK 动态代理的使用。
+[guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) 使用的是 JDK 动态代理，我们先来看看 JDK 动态代理的使用。
 
-另外，虽然 [guide-rpc-frameworkopen in new window](https://github.com/Snailclimb/guide-rpc-framework) 没有用到 **CGLIB 动态代理** ，我们这里还是简单介绍一下其使用以及和**JDK 动态代理**的对比。
+另外，虽然 [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) 没有用到 **CGLIB 动态代理** ，我们这里还是简单介绍一下其使用以及和**JDK 动态代理**的对比。
 
 ## 3.1 JDK 动态代理机制
 ### 3.1.1 介绍
@@ -181,7 +181,7 @@ public class JdkProxyFactory {
     public static Object getProxy(Object target) {
         return Proxy.newProxyInstance(
                 target.getClass().getClassLoader(), // 目标类的类加载器
-                target.getClass().getInterfaces(),  // 代理需要实现的接口，可指定多个
+                   // 代理需要实现的接口，可指定多个
                 new DebugInvocationHandler(target)   // 代理对象对应的自定义 InvocationHandler
         );
     }
@@ -206,7 +206,7 @@ after method send
 
 **为了解决这个问题，我们可以用 CGLIB 动态代理机制来避免。**
 
-[CGLIBopen in new window](https://github.com/cglib/cglib)(_Code Generation Library_)是一个基于[ASMopen in new window](http://www.baeldung.com/java-asm)的字节码生成库，它允许我们在运行时对字节码进行修改和动态生成。CGLIB 通过继承方式实现代理。很多知名的开源框架都使用到了[CGLIBopen in new window](https://github.com/cglib/cglib)， 例如 Spring 中的 AOP 模块中：如果目标对象实现了接口，则默认采用 JDK 动态代理，否则采用 CGLIB 动态代理。
+[CGLIB](https://github.com/cglib/cglib)(_Code Generation Library_)是一个基于[ASM](http://www.baeldung.com/java-asm)的字节码生成库，它允许我们在运行时对字节码进行修改和动态生成。CGLIB 通过继承方式实现代理。很多知名的开源框架都使用到了[CGLIB](https://github.com/cglib/cglib)， 例如 Spring 中的 AOP 模块中：如果目标对象实现了接口，则默认采用 JDK 动态代理，否则采用 CGLIB 动态代理。
 
 **在 CGLIB 动态代理机制中 `MethodInterceptor` 接口和 `Enhancer` 类是核心。**
 
@@ -231,7 +231,7 @@ extends Callback{
 3. 通过 `Enhancer` 类的 `create()`创建代理类；
 
 ### 3.2.3 代理示例
-不同于 JDK 动态代理不需要额外的依赖。[CGLIBopen in new window](https://github.com/cglib/cglib)(_Code Generation Library_) 实际是属于一个开源项目，如果你要使用它的话，需要手动添加相关依赖。
+不同于 JDK 动态代理不需要额外的依赖。[CGLIB](https://github.com/cglib/cglib)(_Code Generation Library_) 实际是属于一个开源项目，如果你要使用它的话，需要手动添加相关依赖。
 ```xml
 <dependency>
   <groupId>cglib</groupId>
