@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
+                "file": "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
+                "file": "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 代理模式.md"
+                "file": "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md"
               }
             }
           }
@@ -325,18 +325,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c57d358e1196d31",
+  "active": "cb6b4e0faa2ae355",
   "lastOpenFiles": [
+    "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
+    "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
     "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
     "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
-    "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
-    "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
     "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
+    "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
+    "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
     "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
-    "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
     "JavaGuide/Java/基础/重要知识点/BigDecimal.md",
-    "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
     "JavaGuide/Java/IO/Java IO 设计模式总结.md",
     "JavaGuide/Java/IO/Java IO 模型详解.md",
     "JavaGuide/Java/IO/Java IO 基础知识总结.md",

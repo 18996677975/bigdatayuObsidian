@@ -1,3 +1,5 @@
+比较好的视频讲解：[03、动态代理：实际应用、好处_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ue411N7GX/?p=3&spm_id_from=333.880.my_history.page.click&vd_source=d48f4dc9d6d078002e7de6c900378be5)
+
 # 1. 代理模式
 代理模式是一种比较好理解的设计模式。简单来说就是 **我们使用代理对象来代替对真实对象(real object)的访问，这样就可以在不修改原目标对象的前提下，提供额外的功能操作，扩展目标对象的功能。**
 

@@ -1,3 +1,5 @@
+比较好的视频讲解：[Java两个例子理解反射_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1uV4y1r78m/?spm_id_from=333.880.my_history.page.click&vd_source=d48f4dc9d6d078002e7de6c900378be5)
+
 # 反射定义与优缺点
 反射之所以被称为框架的灵魂，主要是因为它赋予了我们在运行时分析类以及执行类中方法的能力。通过反射你可以获取任意一个类的所有属性和方法，你还可以调用这些方法和属性。
 
