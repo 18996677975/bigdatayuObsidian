@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "588e0e5b5135da50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d820828bd999fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b22fe3335c4c5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/AQS详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a760cffca4ba8c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20499524ffbd1442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab78bdae1b1664a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,45 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3e8f093df3b37399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "366ca4059ff191b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd30793d9c3883ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,27 +205,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7b22fe3335c4c5b5",
+  "active": "ab78bdae1b1664a3",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240627200105.png",
+    "ObsidianImages/Pasted image 20240627195903.png",
+    "ObsidianImages/Pasted image 20240627195327.png",
+    "ObsidianImages/Pasted image 20240627194759.png",
+    "ObsidianImages/Pasted image 20240627194745.png",
+    "ObsidianImages/Pasted image 20240627193910.png",
+    "ObsidianImages/Pasted image 20240627193900.png",
+    "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
+    "JavaGuide/Java/并发/重要知识点/AQS详解.md",
+    "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
+    "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+    "ObsidianImages/Pasted image 20240627180324.png",
+    "ObsidianImages/Pasted image 20240627175419.png",
+    "ObsidianImages/Pasted image 20240627174830.png",
+    "ObsidianImages/Pasted image 20240627174745.png",
     "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
+    "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md",
+    "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
     "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
     "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
     "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
-    "ObsidianImages/Pasted image 20240627103336.png",
-    "ObsidianImages/Pasted image 20240627102620.png",
-    "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md",
-    "ObsidianImages/Pasted image 20240627013758.png",
-    "ObsidianImages/Pasted image 20240627011425.png",
-    "ObsidianImages/Pasted image 20240627011304.png",
-    "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
-    "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
-    "JavaGuide/Java/并发/Java并发场景面试题总结.md",
-    "ObsidianImages/Pasted image 20240627005457.png",
-    "ObsidianImages/Pasted image 20240627005452.png",
-    "ObsidianImages/Pasted image 20240627004336.png",
-    "ObsidianImages/Pasted image 20240627004243.png",
-    "ObsidianImages/Pasted image 20240627002304.png",
     "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
     "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
     "JavaGuide/Java/基础/重要知识点/BigDecimal.md",
@@ -265,8 +243,6 @@
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法延伸：Rabin Karp 字符匹配算法.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】滑动窗口算法经典习题.md",
     "labuladong 的算法笔记/数据结构刷题/刷数组算法/二维数组的花式遍历技巧.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】前缀和技巧经典习题.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/一个方法团灭 nSum 问题.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
