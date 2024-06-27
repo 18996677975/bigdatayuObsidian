@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "a64b491f4255ad84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20499524ffbd1442",
             "type": "leaf",
             "state": {
@@ -49,14 +61,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40454d5120100c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bda08eb79eefa4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68301c13c7fa6220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b98e769e38060247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
               }
             }
           }
@@ -205,29 +265,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ab78bdae1b1664a3",
+  "active": "68301c13c7fa6220",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240627200105.png",
-    "ObsidianImages/Pasted image 20240627195903.png",
-    "ObsidianImages/Pasted image 20240627195327.png",
-    "ObsidianImages/Pasted image 20240627194759.png",
-    "ObsidianImages/Pasted image 20240627194745.png",
-    "ObsidianImages/Pasted image 20240627193910.png",
-    "ObsidianImages/Pasted image 20240627193900.png",
-    "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
-    "JavaGuide/Java/并发/重要知识点/AQS详解.md",
-    "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
     "JavaGuide/Java/并发/Java并发场景面试题总结.md",
-    "ObsidianImages/Pasted image 20240627180324.png",
-    "ObsidianImages/Pasted image 20240627175419.png",
-    "ObsidianImages/Pasted image 20240627174830.png",
-    "ObsidianImages/Pasted image 20240627174745.png",
     "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
+    "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
+    "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+    "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
+    "ObsidianImages/Pasted image 20240627235304.png",
+    "ObsidianImages/Pasted image 20240627235252.png",
+    "ObsidianImages/Pasted image 20240627235125.png",
+    "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+    "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
+    "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
+    "JavaGuide/Java/并发/重要知识点/AQS详解.md",
+    "ObsidianImages/Pasted image 20240627234900.png",
+    "ObsidianImages/Pasted image 20240627234841.png",
+    "ObsidianImages/Pasted image 20240627234705.png",
+    "ObsidianImages/Pasted image 20240627232526.png",
+    "ObsidianImages/Pasted image 20240627232314.png",
+    "ObsidianImages/Pasted image 20240627232246.png",
+    "ObsidianImages/050A01B3.png",
     "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md",
     "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
     "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
     "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
-    "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
     "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
     "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
     "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
@@ -240,9 +302,6 @@
     "JavaGuide/Java/IO/Java IO 基础知识总结.md",
     "JavaGuide/Java/集合/Java集合常见面试题总结.md",
     "JavaGuide/重点总结.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法延伸：Rabin Karp 字符匹配算法.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】滑动窗口算法经典习题.md",
-    "labuladong 的算法笔记/数据结构刷题/刷数组算法/二维数组的花式遍历技巧.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",

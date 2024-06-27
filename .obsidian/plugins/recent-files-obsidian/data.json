@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 基础常见面试题总结",
+      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+    },
+    {
       "basename": "Java并发场景面试题总结",
       "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
+    },
+    {
+      "basename": "JMM（Java内存模型）详解",
+      "path": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md"
     },
     {
       "basename": "乐观锁和悲观锁详解",
       "path": "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md"
     },
     {
-      "basename": "AQS详解",
-      "path": "JavaGuide/Java/并发/重要知识点/AQS详解.md"
+      "basename": "ThreadLocal 详解",
+      "path": "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md"
+    },
+    {
+      "basename": "CompletableFuture 详解",
+      "path": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md"
+    },
+    {
+      "basename": "虚拟线程极简入门",
+      "path": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md"
     },
     {
       "basename": "Atomic 原子类",
       "path": "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md"
     },
     {
-      "basename": "JMM（Java内存模型）详解",
-      "path": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md"
+      "basename": "AQS详解",
+      "path": "JavaGuide/Java/并发/重要知识点/AQS详解.md"
     },
     {
       "basename": "Java线程池最佳实践",
@@ -35,10 +51,6 @@
     {
       "basename": "Java 反射机制",
       "path": "JavaGuide/Java/基础/重要知识点/Java 反射机制.md"
-    },
-    {
-      "basename": "Java 基础常见面试题总结",
-      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
     },
     {
       "basename": "Java 语法糖",
@@ -187,18 +199,6 @@
     {
       "basename": "1",
       "path": "ObsidianImages/1.gif"
-    },
-    {
-      "basename": "13.1 回溯算法",
-      "path": "Hello Algo/No13. 回溯/13.1 回溯算法.md"
-    },
-    {
-      "basename": "15.2 分数背包问题",
-      "path": "Hello Algo/No15. 贪心/15.2 分数背包问题.md"
-    },
-    {
-      "basename": "15.1 贪心算法",
-      "path": "Hello Algo/No15. 贪心/15.1 贪心算法.md"
     }
   ],
   "omittedPaths": []
