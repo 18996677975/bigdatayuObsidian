@@ -12,7 +12,8 @@
   "knownTags": {
     "excalidraw": 1,
     "intern": 2,
-    "是使用": 3
+    "是使用": 3,
+    "isterminated-vs-isshutdown": 4
   },
   "_version": 3
 }

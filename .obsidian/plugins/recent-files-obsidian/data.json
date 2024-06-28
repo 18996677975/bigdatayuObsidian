@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Java 基础常见面试题总结",
-      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+      "basename": "Java线程池最佳实践",
+      "path": "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md"
+    },
+    {
+      "basename": "Java 线程池详解",
+      "path": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md"
     },
     {
       "basename": "Java并发场景面试题总结",
       "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
     },
     {
-      "basename": "JMM（Java内存模型）详解",
-      "path": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md"
-    },
-    {
       "basename": "乐观锁和悲观锁详解",
       "path": "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md"
+    },
+    {
+      "basename": "Java 基础常见面试题总结",
+      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+    },
+    {
+      "basename": "JMM（Java内存模型）详解",
+      "path": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md"
     },
     {
       "basename": "ThreadLocal 详解",
@@ -35,14 +43,6 @@
     {
       "basename": "AQS详解",
       "path": "JavaGuide/Java/并发/重要知识点/AQS详解.md"
-    },
-    {
-      "basename": "Java线程池最佳实践",
-      "path": "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md"
-    },
-    {
-      "basename": "Java 线程池详解",
-      "path": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md"
     },
     {
       "basename": "泛型 & 通配符",
