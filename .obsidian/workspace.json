@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
+                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
+                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md"
+                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md"
               }
             }
           }
@@ -229,8 +229,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3142939db96eff55",
+  "active": "8e7fe85ec3f521e1",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240701172218.png",
+    "ObsidianImages/Pasted image 20240701164637.png",
+    "ObsidianImages/Pasted image 20240701164553.png",
+    "ObsidianImages/Pasted image 20240701164514.png",
+    "ObsidianImages/Pasted image 20240701164026.png",
+    "ObsidianImages/Pasted image 20240701164018.png",
+    "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
     "ObsidianImages/Pasted image 20240701113403.png",
     "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
     "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
@@ -238,12 +245,6 @@
     "ObsidianImages/Pasted image 20240630152312.png",
     "ObsidianImages/Pasted image 20240630151220.png",
     "ObsidianImages/Pasted image 20240630150845.png",
-    "ObsidianImages/Pasted image 20240630150757.png",
-    "ObsidianImages/Pasted image 20240630150752.png",
-    "ObsidianImages/Pasted image 20240630150215.png",
-    "ObsidianImages/Pasted image 20240630150145.png",
-    "ObsidianImages/Pasted image 20240630145232.png",
-    "ObsidianImages/Pasted image 20240630145145.png",
     "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
     "tmp.md",
     "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
@@ -254,7 +255,6 @@
     "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
     "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
     "JavaGuide/Java/并发/重要知识点/AQS详解.md",
-    "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
     "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
     "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",

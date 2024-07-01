@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "虚拟线程极简入门",
-      "path": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md"
-    },
-    {
       "basename": "CompletableFuture 详解",
       "path": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md"
+    },
+    {
+      "basename": "虚拟线程极简入门",
+      "path": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md"
     },
     {
       "basename": "ThreadLocal 详解",
