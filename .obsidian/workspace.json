@@ -8,43 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e5033212df50d26",
+            "id": "ce2727e6cbccd33d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+                "file": "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc7141edd16660ad",
+            "id": "1b092910ca0ef69e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
+                "file": "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb851bf4a70a4f5e",
+            "id": "3c44cafa66b2dc8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md",
+                "file": "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e7fe85ec3f521e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3142939db96eff55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b7e426691b845da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/集合/重要知识点/CopyOnWriteArrayList 源码分析.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md",
+                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md",
+                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md"
+                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md"
               }
             }
           }
@@ -193,29 +229,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fb851bf4a70a4f5e",
+  "active": "3142939db96eff55",
   "lastOpenFiles": [
-    "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
-    "ObsidianImages/Pasted image 20240628193841.png",
-    "ObsidianImages/Pasted image 20240628193606.png",
-    "ObsidianImages/Pasted image 20240628191823.png",
-    "ObsidianImages/Pasted image 20240628181535.png",
-    "ObsidianImages/Pasted image 20240628174226.png",
-    "ObsidianImages/Pasted image 20240628174217.png",
-    "ObsidianImages/Pasted image 20240628173857.png",
-    "ObsidianImages/Pasted image 20240628172428.png",
-    "ObsidianImages/Pasted image 20240628172138.png",
+    "ObsidianImages/Pasted image 20240701113403.png",
+    "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+    "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
+    "ObsidianImages/Pasted image 20240630152325.png",
+    "ObsidianImages/Pasted image 20240630152312.png",
+    "ObsidianImages/Pasted image 20240630151220.png",
+    "ObsidianImages/Pasted image 20240630150845.png",
+    "ObsidianImages/Pasted image 20240630150757.png",
+    "ObsidianImages/Pasted image 20240630150752.png",
+    "ObsidianImages/Pasted image 20240630150215.png",
+    "ObsidianImages/Pasted image 20240630150145.png",
+    "ObsidianImages/Pasted image 20240630145232.png",
+    "ObsidianImages/Pasted image 20240630145145.png",
+    "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
+    "tmp.md",
+    "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
+    "JavaGuide/Java/集合/重要知识点/CopyOnWriteArrayList 源码分析.md",
+    "JavaGuide/Java/集合/重要知识点/ConcurrentHashMap 源码分析.md",
     "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+    "JavaGuide/Java/并发/重要知识点/Java 线程池最佳实践.md",
+    "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
+    "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
+    "JavaGuide/Java/并发/重要知识点/AQS详解.md",
+    "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
     "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
-    "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
-    "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
-    "ObsidianImages/Pasted image 20240627235304.png",
-    "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
-    "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
-    "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
-    "JavaGuide/Java/并发/重要知识点/AQS详解.md",
-    "JavaGuide/Java/并发/重要知识点/Java线程池最佳实践.md",
     "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
     "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
     "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
@@ -226,10 +267,6 @@
     "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
     "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
     "JavaGuide/Java/IO/Java IO 设计模式总结.md",
-    "JavaGuide/Java/IO/Java IO 模型详解.md",
-    "JavaGuide/Java/IO/Java IO 基础知识总结.md",
-    "JavaGuide/Java/集合/Java集合常见面试题总结.md",
-    "JavaGuide/重点总结.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
