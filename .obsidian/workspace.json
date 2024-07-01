@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+                "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+                "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+                "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md"
+                "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md"
               }
             }
           }
@@ -231,20 +231,23 @@
   },
   "active": "8e7fe85ec3f521e1",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240701172218.png",
-    "ObsidianImages/Pasted image 20240701164637.png",
-    "ObsidianImages/Pasted image 20240701164553.png",
-    "ObsidianImages/Pasted image 20240701164514.png",
-    "ObsidianImages/Pasted image 20240701164026.png",
-    "ObsidianImages/Pasted image 20240701164018.png",
-    "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
-    "ObsidianImages/Pasted image 20240701113403.png",
+    "ObsidianImages/Pasted image 20240702011151.png",
+    "ObsidianImages/Pasted image 20240702010624.png",
+    "ObsidianImages/Pasted image 20240702010026.png",
+    "ObsidianImages/Pasted image 20240702005926.png",
+    "ObsidianImages/Pasted image 20240702005914.png",
+    "ObsidianImages/Pasted image 20240702005906.png",
+    "ObsidianImages/Pasted image 20240702005903.png",
+    "ObsidianImages/Pasted image 20240702005744.png",
+    "JavaGuide/Java/JVM/Java 内存区域.md",
+    "JavaGuide/Java/JVM/JVM 垃圾回收.md",
+    "ObsidianImages/Pasted image 20240702005411.png",
+    "ObsidianImages/Pasted image 20240702005313.png",
+    "ObsidianImages/Pasted image 20240702003106.png",
     "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+    "JavaGuide/Java/JVM",
+    "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
     "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
-    "ObsidianImages/Pasted image 20240630152325.png",
-    "ObsidianImages/Pasted image 20240630152312.png",
-    "ObsidianImages/Pasted image 20240630151220.png",
-    "ObsidianImages/Pasted image 20240630150845.png",
     "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
     "tmp.md",
     "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
@@ -265,8 +268,6 @@
     "JavaGuide/Java/基础/重要知识点/BigDecimal.md",
     "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
     "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
-    "JavaGuide/Java/基础/重要知识点/Java 值传递.md",
-    "JavaGuide/Java/IO/Java IO 设计模式总结.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",

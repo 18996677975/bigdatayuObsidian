@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "JVM 垃圾回收",
+      "path": "JavaGuide/Java/JVM/JVM 垃圾回收.md"
+    },
+    {
+      "basename": "Java 内存区域",
+      "path": "JavaGuide/Java/JVM/Java 内存区域.md"
+    },
+    {
       "basename": "CompletableFuture 详解",
       "path": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "刷二叉树（纲领篇）",
       "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道链表题目",
-      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md"
     }
   ],
   "omittedPaths": []
