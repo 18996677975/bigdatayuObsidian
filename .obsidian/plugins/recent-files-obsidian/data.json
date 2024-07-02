@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "类加载过程",
+      "path": "JavaGuide/Java/JVM/类加载过程.md"
+    },
+    {
+      "basename": "类加载器",
+      "path": "JavaGuide/Java/JVM/类加载器.md"
+    },
+    {
       "basename": "JVM 垃圾回收",
       "path": "JavaGuide/Java/JVM/JVM 垃圾回收.md"
+    },
+    {
+      "basename": "类文件结构",
+      "path": "JavaGuide/Java/JVM/类文件结构.md"
     },
     {
       "basename": "Java 内存区域",
@@ -187,18 +199,6 @@
     {
       "basename": "【强化练习】链表双指针经典习题",
       "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md"
-    },
-    {
-      "basename": "刷二叉树（思路篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md"
-    },
-    {
-      "basename": "东哥带你刷二叉树（纲领篇）",
-      "path": "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md"
-    },
-    {
-      "basename": "刷二叉树（纲领篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md"
     }
   ],
   "omittedPaths": []

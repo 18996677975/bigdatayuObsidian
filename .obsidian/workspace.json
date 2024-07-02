@@ -49,6 +49,42 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "JavaGuide/Java/JVM/类加载器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f9863d7e912f980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/JVM/类加载过程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbd7d8e1eee516b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/JVM/类文件结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a23ea49420e34955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md",
                 "mode": "source",
                 "source": false
@@ -80,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md",
+                "file": "JavaGuide/Java/JVM/类加载过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md",
+                "file": "JavaGuide/Java/JVM/类加载过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md"
+                "file": "JavaGuide/Java/JVM/类加载过程.md"
               }
             }
           }
@@ -229,21 +265,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8e7fe85ec3f521e1",
+  "active": "9f9863d7e912f980",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240702200253.png",
-    "ObsidianImages/Pasted image 20240702195031.png",
-    "ObsidianImages/Pasted image 20240702194945.png",
-    "ObsidianImages/Pasted image 20240702194843.png",
-    "ObsidianImages/Pasted image 20240702194154.png",
-    "ObsidianImages/Pasted image 20240702193923.png",
-    "ObsidianImages/Pasted image 20240702193743.png",
-    "ObsidianImages/Pasted image 20240702011151.png",
-    "ObsidianImages/Pasted image 20240702010624.png",
-    "ObsidianImages/Pasted image 20240702010026.png",
-    "ObsidianImages/Pasted image 20240702005926.png",
-    "JavaGuide/Java/JVM/Java 内存区域.md",
+    "ObsidianImages/Pasted image 20240703011027.png",
+    "ObsidianImages/Pasted image 20240703011003.png",
+    "ObsidianImages/Pasted image 20240703005501.png",
+    "JavaGuide/Java/JVM/类加载器.md",
+    "JavaGuide/Java/JVM/类加载过程.md",
     "JavaGuide/Java/JVM/JVM 垃圾回收.md",
+    "JavaGuide/Java/JVM/类文件结构.md",
+    "ObsidianImages/Pasted image 20240703004856.png",
+    "ObsidianImages/Pasted image 20240703004821.png",
+    "ObsidianImages/Pasted image 20240703002554.png",
+    "ObsidianImages/Pasted image 20240703002547.png",
+    "ObsidianImages/Pasted image 20240703002513.png",
+    "ObsidianImages/Pasted image 20240703002335.png",
+    "ObsidianImages/Pasted image 20240703002119.png",
+    "ObsidianImages/Pasted image 20240703002049.png",
+    "JavaGuide/Java/JVM/Java 内存区域.md",
     "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
@@ -265,9 +304,6 @@
     "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
     "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
     "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
-    "JavaGuide/Java/基础/重要知识点/BigDecimal.md",
-    "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md",
-    "JavaGuide/Java/基础/重要知识点/Java 序列化.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
