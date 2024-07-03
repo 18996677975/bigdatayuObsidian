@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JVM 线上问题排查和性能调优案例",
+      "path": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md"
+    },
+    {
       "basename": "JDK 监控和故障处理工具总结",
       "path": "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "如何 K 个一组反转链表",
       "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何 K 个一组反转链表.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道数组题目",
-      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
     }
   ],
   "omittedPaths": []
