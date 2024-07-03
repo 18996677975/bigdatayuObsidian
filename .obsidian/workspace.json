@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/JVM/类加载器.md",
+                "file": "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/JVM/类加载过程.md",
+                "file": "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/JVM/类加载过程.md",
+                "file": "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/JVM/类加载过程.md"
+                "file": "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md"
               }
             }
           }
@@ -265,13 +265,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9f9863d7e912f980",
+  "active": "8e7fe85ec3f521e1",
   "lastOpenFiles": [
+    "JavaGuide/Java/JVM/重要 JVM 参数总结.md",
+    "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md",
+    "ObsidianImages/Pasted image 20240703175346.png",
+    "JavaGuide/Java/JVM/类加载器.md",
+    "JavaGuide/Java/JVM/类加载过程.md",
     "ObsidianImages/Pasted image 20240703011027.png",
     "ObsidianImages/Pasted image 20240703011003.png",
     "ObsidianImages/Pasted image 20240703005501.png",
-    "JavaGuide/Java/JVM/类加载器.md",
-    "JavaGuide/Java/JVM/类加载过程.md",
     "JavaGuide/Java/JVM/JVM 垃圾回收.md",
     "JavaGuide/Java/JVM/类文件结构.md",
     "ObsidianImages/Pasted image 20240703004856.png",
@@ -280,8 +283,6 @@
     "ObsidianImages/Pasted image 20240703002547.png",
     "ObsidianImages/Pasted image 20240703002513.png",
     "ObsidianImages/Pasted image 20240703002335.png",
-    "ObsidianImages/Pasted image 20240703002119.png",
-    "ObsidianImages/Pasted image 20240703002049.png",
     "JavaGuide/Java/JVM/Java 内存区域.md",
     "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
     "JavaGuide/Java/JVM",
@@ -303,7 +304,6 @@
     "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
     "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
     "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md",
-    "JavaGuide/Java/基础/重要知识点/Java 代理模式.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",

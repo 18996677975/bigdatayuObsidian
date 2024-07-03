@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "类加载过程",
-      "path": "JavaGuide/Java/JVM/类加载过程.md"
+      "basename": "JDK 监控和故障处理工具总结",
+      "path": "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md"
+    },
+    {
+      "basename": "重要 JVM 参数总结",
+      "path": "JavaGuide/Java/JVM/重要 JVM 参数总结.md"
     },
     {
       "basename": "类加载器",
       "path": "JavaGuide/Java/JVM/类加载器.md"
+    },
+    {
+      "basename": "类加载过程",
+      "path": "JavaGuide/Java/JVM/类加载过程.md"
     },
     {
       "basename": "JVM 垃圾回收",
@@ -191,14 +199,6 @@
     {
       "basename": "双指针技巧秒杀七道数组题目",
       "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道数组题目.md"
-    },
-    {
-      "basename": "递归魔法：反转单链表",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/递归魔法：反转单链表.md"
-    },
-    {
-      "basename": "【强化练习】链表双指针经典习题",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md"
     }
   ],
   "omittedPaths": []
