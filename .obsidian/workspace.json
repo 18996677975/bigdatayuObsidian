@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5fcee7831d6e859c",
+        "id": "3ea7f0125a33f84f",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2727e6cbccd33d",
+            "id": "3bb8df55fbf597f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b092910ca0ef69e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c44cafa66b2dc8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e7fe85ec3f521e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f9863d7e912f980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/JVM/类加载过程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbd7d8e1eee516b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/JVM/类文件结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a23ea49420e34955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/JVM/JVM 垃圾回收.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3142939db96eff55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b7e426691b845da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/集合/重要知识点/CopyOnWriteArrayList 源码分析.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md",
+                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md"
+                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md"
               }
             }
           }
@@ -247,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,31 +169,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8e7fe85ec3f521e1",
+  "active": "3bb8df55fbf597f2",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240705010918.png",
+    "ObsidianImages/Pasted image 20240705005924.png",
+    "ObsidianImages/Pasted image 20240705005755.png",
+    "ObsidianImages/Pasted image 20240705005102.png",
+    "ObsidianImages/Pasted image 20240705005031.png",
+    "ObsidianImages/Pasted image 20240705004951.png",
+    "ObsidianImages/Pasted image 20240705004942.png",
+    "ObsidianImages/Pasted image 20240705004741.png",
+    "ObsidianImages/Pasted image 20240705004737.png",
+    "labuladong 的算法笔记/核心架构汇总/回溯算法解题套路框架.md",
+    "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
+    "ObsidianImages/Pasted image 20240705003442.png",
+    "ObsidianImages/Pasted image 20240705003344.png",
+    "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
     "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md",
     "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md",
-    "ObsidianImages/Pasted image 20240704003259.png",
-    "ObsidianImages/Pasted image 20240704003210.png",
-    "ObsidianImages/Pasted image 20240704003041.png",
-    "ObsidianImages/Pasted image 20240704003010.png",
     "JavaGuide/Java/JVM/重要 JVM 参数总结.md",
-    "ObsidianImages/Pasted image 20240703175346.png",
     "JavaGuide/Java/JVM/类加载器.md",
     "JavaGuide/Java/JVM/类加载过程.md",
-    "ObsidianImages/Pasted image 20240703011027.png",
-    "ObsidianImages/Pasted image 20240703011003.png",
-    "ObsidianImages/Pasted image 20240703005501.png",
     "JavaGuide/Java/JVM/JVM 垃圾回收.md",
     "JavaGuide/Java/JVM/类文件结构.md",
-    "ObsidianImages/Pasted image 20240703004856.png",
-    "ObsidianImages/Pasted image 20240703004821.png",
     "JavaGuide/Java/JVM/Java 内存区域.md",
     "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
     "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
-    "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
     "tmp.md",
     "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
     "JavaGuide/Java/集合/重要知识点/CopyOnWriteArrayList 源码分析.md",
@@ -301,9 +208,6 @@
     "JavaGuide/Java/并发/重要知识点/AQS详解.md",
     "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md",
     "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
-    "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md",
-    "JavaGuide/Java/基础/重要知识点/Java 反射机制.md",
-    "JavaGuide/Java/基础/重要知识点/Java 语法糖.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
