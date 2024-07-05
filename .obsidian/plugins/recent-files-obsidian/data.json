@@ -1,0 +1,229 @@
+{
+  "recentFiles": [
+    {
+<<<<<<< HEAD
+      "basename": "刷二叉树（序列化篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md"
+    },
+    {
+      "basename": "刷二叉树（后序篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md"
+    },
+    {
+      "basename": "刷二叉树（构造篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md"
+    },
+    {
+      "basename": "刷二叉树（思路篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md"
+    },
+    {
+      "basename": "东哥带你刷二叉树（纲领篇）",
+      "path": "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md"
+    },
+    {
+      "basename": "刷二叉树（纲领篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md"
+=======
+      "basename": "回溯算法秒杀所有排列-组合-子集问题",
+      "path": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md"
+    },
+    {
+      "basename": "回溯算法解题套路框架",
+      "path": "labuladong 的算法笔记/核心架构汇总/回溯算法解题套路框架.md"
+    },
+    {
+      "basename": "Java 常见并发容器总结",
+      "path": "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md"
+>>>>>>> 105d8e962eb60d2db6c6adb705a32960823587a3
+    },
+    {
+      "basename": "JVM 线上问题排查和性能调优案例",
+      "path": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md"
+    },
+    {
+      "basename": "JDK 监控和故障处理工具总结",
+      "path": "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md"
+    },
+    {
+      "basename": "重要 JVM 参数总结",
+      "path": "JavaGuide/Java/JVM/重要 JVM 参数总结.md"
+    },
+    {
+      "basename": "类加载器",
+      "path": "JavaGuide/Java/JVM/类加载器.md"
+    },
+    {
+      "basename": "类加载过程",
+      "path": "JavaGuide/Java/JVM/类加载过程.md"
+    },
+    {
+      "basename": "JVM 垃圾回收",
+      "path": "JavaGuide/Java/JVM/JVM 垃圾回收.md"
+    },
+    {
+      "basename": "类文件结构",
+      "path": "JavaGuide/Java/JVM/类文件结构.md"
+    },
+    {
+      "basename": "Java 内存区域",
+      "path": "JavaGuide/Java/JVM/Java 内存区域.md"
+    },
+    {
+      "basename": "CompletableFuture 详解",
+      "path": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md"
+    },
+    {
+      "basename": "虚拟线程极简入门",
+      "path": "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md"
+    },
+    {
+      "basename": "ThreadLocal 详解",
+      "path": "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md"
+    },
+    {
+      "basename": "Atomic 原子类",
+      "path": "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md"
+    },
+    {
+      "basename": "CopyOnWriteArrayList 源码分析",
+      "path": "JavaGuide/Java/集合/重要知识点/CopyOnWriteArrayList 源码分析.md"
+    },
+    {
+      "basename": "ConcurrentHashMap 源码分析",
+      "path": "JavaGuide/Java/集合/重要知识点/ConcurrentHashMap 源码分析.md"
+    },
+    {
+      "basename": "Java并发场景面试题总结",
+      "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
+    },
+    {
+      "basename": "Java 线程池最佳实践",
+      "path": "JavaGuide/Java/并发/重要知识点/Java 线程池最佳实践.md"
+    },
+    {
+      "basename": "Java 线程池详解",
+      "path": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md"
+    },
+    {
+      "basename": "JMM（Java内存模型）详解",
+      "path": "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md"
+    },
+    {
+      "basename": "AQS详解",
+      "path": "JavaGuide/Java/并发/重要知识点/AQS详解.md"
+    },
+    {
+      "basename": "乐观锁和悲观锁详解",
+      "path": "JavaGuide/Java/并发/重要知识点/乐观锁和悲观锁详解.md"
+    },
+    {
+      "basename": "Java 基础常见面试题总结",
+      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+    },
+    {
+      "basename": "泛型 & 通配符",
+      "path": "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md"
+    },
+    {
+      "basename": "Java 反射机制",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 反射机制.md"
+    },
+    {
+      "basename": "Java 语法糖",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 语法糖.md"
+    },
+    {
+      "basename": "Java 魔法类 Unsafe",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 魔法类 Unsafe.md"
+    },
+    {
+      "basename": "Java 代理模式",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 代理模式.md"
+    },
+    {
+      "basename": "BigDecimal",
+      "path": "JavaGuide/Java/基础/重要知识点/BigDecimal.md"
+    },
+    {
+      "basename": "Java SPI 机制",
+      "path": "JavaGuide/Java/基础/重要知识点/Java SPI 机制.md"
+    },
+    {
+      "basename": "Java 序列化",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 序列化.md"
+    },
+    {
+      "basename": "Java 值传递",
+      "path": "JavaGuide/Java/基础/重要知识点/Java 值传递.md"
+    },
+    {
+      "basename": "Java IO 设计模式总结",
+      "path": "JavaGuide/Java/IO/Java IO 设计模式总结.md"
+    },
+    {
+      "basename": "Java IO 模型详解",
+      "path": "JavaGuide/Java/IO/Java IO 模型详解.md"
+    },
+    {
+      "basename": "Java IO 基础知识总结",
+      "path": "JavaGuide/Java/IO/Java IO 基础知识总结.md"
+    },
+    {
+      "basename": "Java集合常见面试题总结",
+      "path": "JavaGuide/Java/集合/Java集合常见面试题总结.md"
+    },
+    {
+      "basename": "重点总结",
+      "path": "JavaGuide/重点总结.md"
+    },
+    {
+      "basename": "滑动窗口算法延伸：Rabin Karp 字符匹配算法",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法延伸：Rabin Karp 字符匹配算法.md"
+    },
+    {
+      "basename": "【强化练习】滑动窗口算法经典习题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】滑动窗口算法经典习题.md"
+    },
+    {
+      "basename": "二维数组的花式遍历技巧",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二维数组的花式遍历技巧.md"
+    },
+    {
+      "basename": "【强化练习】前缀和技巧经典习题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】前缀和技巧经典习题.md"
+    },
+    {
+      "basename": "一个方法团灭 nSum 问题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/一个方法团灭 nSum 问题.md"
+    },
+    {
+      "basename": "【强化练习】数组双指针经典习题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】数组双指针经典习题.md"
+    },
+    {
+      "basename": "滑动窗口算法核心代码模板",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道数组题目",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "basename": "小而美的算法技巧：前缀和数组",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md"
+    },
+    {
+      "basename": "小而美的算法技巧：差分数组",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md"
+    },
+    {
+      "basename": "二分搜索算法核心代码模板",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md"
+>>>>>>> 105d8e962eb60d2db6c6adb705a32960823587a3
+    }
+  ],
+  "omittedPaths": []
+}
