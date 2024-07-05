@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "刷二叉树（序列化篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md"
+    },
+    {
+      "basename": "刷二叉树（后序篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md"
+    },
+    {
+      "basename": "刷二叉树（构造篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md"
+    },
+    {
+      "basename": "刷二叉树（思路篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md"
+    },
+    {
+      "basename": "东哥带你刷二叉树（纲领篇）",
+      "path": "labuladong 的算法笔记/核心架构汇总/东哥带你刷二叉树（纲领篇）.md"
+    },
+    {
+      "basename": "刷二叉树（纲领篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（纲领篇）.md"
+    },
+    {
       "basename": "JVM 线上问题排查和性能调优案例",
       "path": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md"
     },
@@ -169,36 +193,12 @@
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/【强化练习】数组双指针经典习题.md"
     },
     {
-      "basename": "刷二叉树（构造篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md"
-    },
-    {
       "basename": "滑动窗口算法核心代码模板",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
     },
     {
       "basename": "双指针技巧秒杀七道数组题目",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/双指针技巧秒杀七道数组题目.md"
-    },
-    {
-      "basename": "小而美的算法技巧：前缀和数组",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：前缀和数组.md"
-    },
-    {
-      "basename": "小而美的算法技巧：差分数组",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/小而美的算法技巧：差分数组.md"
-    },
-    {
-      "basename": "二分搜索算法核心代码模板",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/二分搜索算法核心代码模板.md"
-    },
-    {
-      "basename": "如何判断回文链表",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何判断回文链表.md"
-    },
-    {
-      "basename": "如何 K 个一组反转链表",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/如何 K 个一组反转链表.md"
     }
   ],
   "omittedPaths": []
