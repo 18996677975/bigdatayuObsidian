@@ -1,100 +1,39 @@
 {
   "main": {
-    "id": "e9cf88842af8ddb4",
+    "id": "2e320798fa4fb01a",
     "type": "split",
     "children": [
       {
-        "id": "759f8c423c974fab",
+        "id": "3ea7f0125a33f84f",
         "type": "tabs",
         "children": [
           {
-            "id": "b022d8c22e130428",
+            "id": "3bb8df55fbf597f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be485c7a6a52797a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法解题套路框架.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27a46658010e0577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d39bc72b369c1f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c25ba9928e373a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d36d7f01e5bb29be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md",
+                "file": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cc1c9c2dda01717a",
+    "id": "0ab763832abdff57",
     "type": "split",
     "children": [
       {
-        "id": "8975bdf96f65214d",
+        "id": "fad0ec97ab5bcccb",
         "type": "tabs",
         "children": [
           {
-            "id": "27f38c1ce822cf9b",
+            "id": "0bd798abd27b0687",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +43,7 @@
             }
           },
           {
-            "id": "f20ada70131d99d0",
+            "id": "58269a1a602b7a07",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -119,7 +58,7 @@
             }
           },
           {
-            "id": "00ad62c571478115",
+            "id": "faa323467db4253a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -127,7 +66,7 @@
             }
           },
           {
-            "id": "5210dcd9c1f0ce75",
+            "id": "03b34c89f1e12fc8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -138,18 +77,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "right": {
-    "id": "6208ca89a154be37",
+    "id": "7de087ada161705e",
     "type": "split",
     "children": [
       {
-        "id": "81a7846fbee4dc10",
+        "id": "4ba44f054220012e",
         "type": "tabs",
         "children": [
           {
-            "id": "9c109b9efe0bff32",
+            "id": "119256d0b654107f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -157,12 +96,12 @@
             }
           },
           {
-            "id": "93421da9a2df3a1e",
+            "id": "e770abdc011d9f5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
+                "file": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,19 +113,19 @@
             }
           },
           {
-            "id": "78e486909ded4a22",
+            "id": "10114e547fe84bea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
+                "file": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3993427b281e8cd2",
+            "id": "5ff57880546ffc3c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -197,12 +136,12 @@
             }
           },
           {
-            "id": "66ba0be41019715e",
+            "id": "7e5144609df7dcdd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md"
+                "file": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md"
               }
             }
           }
@@ -230,20 +169,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "27a46658010e0577",
+  "active": "3bb8df55fbf597f2",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240706184648.png",
+    "ObsidianImages/Pasted image 20240706184551.png",
+    "ObsidianImages/Pasted image 20240706184540.png",
+    "ObsidianImages/Pasted image 20240706180008.png",
+    "ObsidianImages/Pasted image 20240706175955.png",
+    "ObsidianImages/Pasted image 20240706175858.png",
+    "ObsidianImages/Pasted image 20240706175851.png",
+    "ObsidianImages/Pasted image 20240706175750.png",
+    "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
+    "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
+    "labuladong 的算法笔记/动态规划刷题/基本技巧",
+    "labuladong 的算法笔记/动态规划刷题",
+    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md",
+    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md",
     "ObsidianImages/Pasted image 20240705193125.png",
     "ObsidianImages/Pasted image 20240705193003.png",
     "ObsidianImages/Pasted image 20240705182714.png",
-    "ObsidianImages/Pasted image 20240705182651.png",
-    "ObsidianImages/Pasted image 20240705182629.png",
-    "ObsidianImages/Pasted image 20240705165500.png",
-    "ObsidianImages/Pasted image 20240705165424.png",
     "labuladong 的算法笔记/核心架构汇总/回溯算法解题套路框架.md",
-    "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md"
+    "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
+    "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md",
+    "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md",
+    "JavaGuide/Java/JVM/重要 JVM 参数总结.md",
+    "JavaGuide/Java/JVM/类加载器.md",
+    "JavaGuide/Java/JVM/类加载过程.md",
+    "JavaGuide/Java/JVM/JVM 垃圾回收.md",
+    "JavaGuide/Java/JVM/类文件结构.md",
+    "JavaGuide/Java/JVM/Java 内存区域.md",
+    "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+    "JavaGuide/Java/JVM",
+    "JavaGuide/Java/并发/重要知识点/虚拟线程极简入门.md",
+    "JavaGuide/Java/并发/重要知识点/ThreadLocal 详解.md",
+    "tmp.md",
+    "JavaGuide/Java/并发/重要知识点/Atomic 原子类.md",
+    "JavaGuide/Java/集合/重要知识点/CopyOnWriteArrayList 源码分析.md",
+    "JavaGuide/Java/集合/重要知识点/ConcurrentHashMap 源码分析.md",
+    "JavaGuide/Java/并发/Java并发场景面试题总结.md",
+    "JavaGuide/Java/并发/重要知识点/Java 线程池最佳实践.md",
+    "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
+    "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
+    "labuladong 的算法笔记/数据结构刷题/刷二叉树",
+    "JavaGuide/Java/JVM",
+    "JavaGuide/Java/IO",
+    "JavaGuide/Java/集合/重要知识点",
+    "JavaGuide/Java/并发/重要知识点",
+    "labuladong 的算法笔记/数据结构刷题/刷数组算法"
   ]
 }
