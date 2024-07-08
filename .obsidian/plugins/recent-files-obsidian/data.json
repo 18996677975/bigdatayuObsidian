@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 基础常见面试题总结",
+      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
+    },
+    {
+      "basename": "个人总结篇",
+      "path": "JavaGuide/个人总结篇.md"
+    },
+    {
+      "basename": "类加载过程",
+      "path": "JavaGuide/Java/JVM/类加载过程.md"
+    },
+    {
+      "basename": "重点总结",
+      "path": "JavaGuide/重点总结.md"
+    },
+    {
       "basename": "动态规划解题套路框架",
       "path": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md"
     },

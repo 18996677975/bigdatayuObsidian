@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea7f0125a33f84f",
+        "id": "7a34ec15f0fe90ea",
         "type": "tabs",
         "children": [
           {
-            "id": "3bb8df55fbf597f2",
+            "id": "035ac13e14afced1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
+                "file": "JavaGuide/个人总结篇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "313d3eaace146bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3287940e890109d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/JVM/类加载过程.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md"
+                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
               }
             }
           }
@@ -169,8 +193,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3bb8df55fbf597f2",
+  "active": "313d3eaace146bd3",
   "lastOpenFiles": [
+    "JavaGuide/个人总结篇.md",
+    "JavaGuide/Java/JVM/类加载过程.md",
+    "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+    "JavaGuide/重点总结.md",
+    "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
     "ObsidianImages/Pasted image 20240706184648.png",
     "ObsidianImages/Pasted image 20240706184551.png",
     "ObsidianImages/Pasted image 20240706184540.png",
@@ -180,21 +209,18 @@
     "ObsidianImages/Pasted image 20240706175851.png",
     "ObsidianImages/Pasted image 20240706175750.png",
     "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md",
-    "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md",
     "labuladong 的算法笔记/动态规划刷题/基本技巧",
     "labuladong 的算法笔记/动态规划刷题",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md",
     "ObsidianImages/Pasted image 20240705193125.png",
     "ObsidianImages/Pasted image 20240705193003.png",
-    "ObsidianImages/Pasted image 20240705182714.png",
     "labuladong 的算法笔记/核心架构汇总/回溯算法解题套路框架.md",
     "JavaGuide/Java/并发/重要知识点/Java 常见并发容器总结.md",
     "JavaGuide/Java/JVM/JDK 监控和故障处理工具总结.md",
     "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md",
     "JavaGuide/Java/JVM/重要 JVM 参数总结.md",
     "JavaGuide/Java/JVM/类加载器.md",
-    "JavaGuide/Java/JVM/类加载过程.md",
     "JavaGuide/Java/JVM/JVM 垃圾回收.md",
     "JavaGuide/Java/JVM/类文件结构.md",
     "JavaGuide/Java/JVM/Java 内存区域.md",
@@ -208,8 +234,6 @@
     "JavaGuide/Java/集合/重要知识点/ConcurrentHashMap 源码分析.md",
     "JavaGuide/Java/并发/Java并发场景面试题总结.md",
     "JavaGuide/Java/并发/重要知识点/Java 线程池最佳实践.md",
-    "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
-    "JavaGuide/Java/并发/重要知识点/JMM（Java内存模型）详解.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树",
     "JavaGuide/Java/JVM",
     "JavaGuide/Java/IO",
