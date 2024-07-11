@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "0f361f584c1537fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "个人面试总结/拼多多/拼多多 一面.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1c91ab27b4bd807",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人面试总结/拼多多/拼多多 一面.md",
+                "file": "Hello Algo/No8. 堆/8.4 堆小结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人面试总结/拼多多/拼多多 一面.md",
+                "file": "Hello Algo/No8. 堆/8.4 堆小结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人面试总结/拼多多/拼多多 一面.md"
+                "file": "Hello Algo/No8. 堆/8.4 堆小结.md"
               }
             }
           }
@@ -253,10 +241,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0f361f584c1537fc",
+  "active": "d9f1df8ce822839b",
   "lastOpenFiles": [
-    "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
     "个人面试总结/拼多多/拼多多 一面.md",
+    "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
     "个人面试总结/拼多多",
     "Hello Algo/No8. 堆/8.4 堆小结.md",
     "Hello Algo/No8. 堆/8.2 建堆操作.md",
