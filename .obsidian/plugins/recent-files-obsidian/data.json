@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "8.4 堆小结",
-      "path": "Hello Algo/No8. 堆/8.4 堆小结.md"
+      "basename": "重要项目逐字稿",
+      "path": "数据平台工程师面试汇总/重要项目逐字稿.md"
+    },
+    {
+      "basename": "得物 二面",
+      "path": "个人面试总结/得物/得物 二面.md"
+    },
+    {
+      "basename": "得物 一面",
+      "path": "个人面试总结/得物/得物 一面.md"
     },
     {
       "basename": "拼多多 一面",
       "path": "个人面试总结/拼多多/拼多多 一面.md"
     },
     {
+      "basename": "个人总结篇",
+      "path": "JavaGuide/个人总结篇.md"
+    },
+    {
+      "basename": "单例模式",
+      "path": "Java 设计模式/单例模式.md"
+    },
+    {
+      "basename": "柠檬微趣 二面",
+      "path": "个人面试总结/柠檬微趣/柠檬微趣 二面.md"
+    },
+    {
       "basename": "柠檬微趣 一面",
       "path": "个人面试总结/柠檬微趣/柠檬微趣 一面.md"
+    },
+    {
+      "basename": "8.4 堆小结",
+      "path": "Hello Algo/No8. 堆/8.4 堆小结.md"
     },
     {
       "basename": "8.2 建堆操作",
@@ -29,10 +53,6 @@
       "path": "Hello Algo/No6. 哈希表/6.1 哈希表.md"
     },
     {
-      "basename": "个人总结篇",
-      "path": "JavaGuide/个人总结篇.md"
-    },
-    {
       "basename": "动态规划解题套路框架",
       "path": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "Java 基础常见面试题总结",
       "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
-    },
-    {
-      "basename": "得物 一面",
-      "path": "个人面试总结/得物/得物 一面.md"
     },
     {
       "basename": "Yarn",
