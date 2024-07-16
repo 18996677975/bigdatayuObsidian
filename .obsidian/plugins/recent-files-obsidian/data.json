@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "刷二叉搜索树（基操篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（基操篇）.md"
+    },
+    {
+      "basename": "刷二叉搜索树（特性篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（特性篇）.md"
+    },
+    {
+      "basename": "刷二叉树（序列化篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md"
+    },
+    {
+      "basename": "刷二叉树（后序篇）",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md"
+    },
+    {
+      "basename": "动态规划解题套路框架",
+      "path": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md"
+    },
+    {
+      "basename": "得物 二面",
+      "path": "个人面试总结/得物/得物 二面.md"
+    },
+    {
+      "basename": "模板方法模式",
+      "path": "Java 设计模式/模板方法模式.md"
+    },
+    {
+      "basename": "单例模式",
+      "path": "Java 设计模式/单例模式.md"
+    },
+    {
       "basename": "重要项目逐字稿",
       "path": "数据平台工程师面试汇总/重要项目逐字稿.md"
     },
@@ -13,10 +45,6 @@
       "path": "个人面试总结/柠檬微趣/柠檬微趣 一面.md"
     },
     {
-      "basename": "得物 二面",
-      "path": "个人面试总结/得物/得物 二面.md"
-    },
-    {
       "basename": "得物 一面",
       "path": "个人面试总结/得物/得物 一面.md"
     },
@@ -27,10 +55,6 @@
     {
       "basename": "个人总结篇",
       "path": "JavaGuide/个人总结篇.md"
-    },
-    {
-      "basename": "单例模式",
-      "path": "Java 设计模式/单例模式.md"
     },
     {
       "basename": "8.4 堆小结",
@@ -51,10 +75,6 @@
     {
       "basename": "6.1 哈希表",
       "path": "Hello Algo/No6. 哈希表/6.1 哈希表.md"
-    },
-    {
-      "basename": "动态规划解题套路框架",
-      "path": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md"
     },
     {
       "basename": "泛型 & 通配符",
@@ -89,16 +109,8 @@
       "path": "labuladong 的算法笔记/核心架构汇总/回溯算法解题套路框架.md"
     },
     {
-      "basename": "刷二叉树（序列化篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md"
-    },
-    {
       "basename": "刷二叉树（构造篇）",
       "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md"
-    },
-    {
-      "basename": "刷二叉树（后序篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md"
     },
     {
       "basename": "刷二叉树（思路篇）",
