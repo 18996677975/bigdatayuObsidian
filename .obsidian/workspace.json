@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "450d1d32ea2b8c12",
+            "id": "7ee408bb4115b4d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/数据库/字符集.md",
+                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6061a0fcd44f3321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec13312276c4602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/数据库/Mysql/Mysql 索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/数据库/字符集.md",
+                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/数据库/字符集.md",
+                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/数据库/字符集.md"
+                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md"
               }
             }
           }
@@ -168,18 +192,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "450d1d32ea2b8c12",
+  "active": "7ee408bb4115b4d5",
   "lastOpenFiles": [
-    "JavaGuide/数据库/字符集.md",
+    "JavaGuide/数据库/Mysql/Mysql 常见面试题.md",
+    "JavaGuide/数据库/Redis/Redis 常见面试题.md",
+    "JavaGuide/数据库/Redis",
+    "ObsidianImages/Pasted image 20240722011000.png",
+    "ObsidianImages/Pasted image 20240722010942.png",
+    "JavaGuide/数据库/Mysql/MySQL 三大日志(binlog、redo log和undo log)详解.md",
+    "ObsidianImages/Pasted image 20240722002813.png",
+    "ObsidianImages/Pasted image 20240722001012.png",
+    "ObsidianImages/Pasted image 20240722000908.png",
+    "ObsidianImages/Pasted image 20240721235639.png",
+    "ObsidianImages/Pasted image 20240721234145.png",
+    "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md",
+    "JavaGuide/数据库/基础/数据库基础.md",
+    "JavaGuide/数据库/基础/字符集.md",
+    "JavaGuide/数据库/基础/NoSQL 基础知识.md",
+    "JavaGuide/数据库/Mysql/Mysql 索引.md",
+    "ObsidianImages/Pasted image 20240721212010.png",
+    "ObsidianImages/Pasted image 20240721211953.png",
+    "ObsidianImages/Pasted image 20240721211736.png",
+    "JavaGuide/数据库/Mysql",
+    "JavaGuide/数据库/基础",
     "个人面试总结/拼多多/拼多多 一面.md",
-    "JavaGuide/数据库/NoSQL 基础知识.md",
-    "ObsidianImages/Pasted image 20240720020349.png",
-    "ObsidianImages/Pasted image 20240720015912.png",
-    "JavaGuide/数据库/数据库基础.md",
-    "ObsidianImages/Pasted image 20240720015348.png",
-    "ObsidianImages/Pasted image 20240720014900.png",
-    "ObsidianImages/Pasted image 20240720014811.png",
-    "ObsidianImages/Pasted image 20240720014547.png",
     "JavaGuide/系统设计/设计模式.md",
     "数据平台工程师面试汇总/Java.md",
     "数据平台工程师面试汇总/Yarn.md",
@@ -190,9 +226,6 @@
     "个人面试总结/得物/得物 一面.md",
     "个人面试总结/得物/得物 二面.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（构造篇）.md",
-    "ObsidianImages/Pasted image 20240719012055.png",
-    "ObsidianImages/Pasted image 20240719011726.png",
-    "ObsidianImages/Pasted image 20240719011626.png",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（基操篇）.md",
     "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（特性篇）.md",
@@ -207,15 +240,6 @@
     "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
     "JavaGuide/Java/并发/Java并发场景面试题总结.md",
     "Java 设计模式/模板方法模式.md",
-    "Java 设计模式/单例模式.md",
-    "Java 设计模式/引入篇.md",
-    "ObsidianImages/Pasted image 20240717171045.png",
-    "JavaGuide/Java/个人总结篇.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md",
-    "数据平台工程师面试汇总/未命名",
-    "Java 设计模式",
-    "个人面试总结/拼多多",
     "数据平台工程师面试汇总/未命名.canvas"
   ]
 }

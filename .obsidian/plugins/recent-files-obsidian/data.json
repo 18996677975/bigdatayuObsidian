@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Redis 常见面试题",
+      "path": "JavaGuide/数据库/Redis/Redis 常见面试题.md"
+    },
+    {
+      "basename": "Mysql 常见面试题",
+      "path": "JavaGuide/数据库/Mysql/Mysql 常见面试题.md"
+    },
+    {
+      "basename": "MySQL高性能优化规范建议总结",
+      "path": "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md"
+    },
+    {
+      "basename": "数据库基础",
+      "path": "JavaGuide/数据库/基础/数据库基础.md"
+    },
+    {
       "basename": "字符集",
-      "path": "JavaGuide/数据库/字符集.md"
+      "path": "JavaGuide/数据库/基础/字符集.md"
+    },
+    {
+      "basename": "NoSQL 基础知识",
+      "path": "JavaGuide/数据库/基础/NoSQL 基础知识.md"
+    },
+    {
+      "basename": "Mysql 索引",
+      "path": "JavaGuide/数据库/Mysql/Mysql 索引.md"
     },
     {
       "basename": "拼多多 一面",
       "path": "个人面试总结/拼多多/拼多多 一面.md"
-    },
-    {
-      "basename": "NoSQL 基础知识",
-      "path": "JavaGuide/数据库/NoSQL 基础知识.md"
-    },
-    {
-      "basename": "数据库基础",
-      "path": "JavaGuide/数据库/数据库基础.md"
     },
     {
       "basename": "设计模式",
