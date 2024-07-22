@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "分布式面试总结",
+      "path": "JavaGuide/分布式/分布式面试总结.md"
+    },
+    {
+      "basename": "RPC",
+      "path": "JavaGuide/分布式/RPC/RPC.md"
+    },
+    {
+      "basename": "分布式配置中心常见问题",
+      "path": "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md"
+    },
+    {
+      "basename": "分布式事务常见解决方案",
+      "path": "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md"
+    },
+    {
+      "basename": "API网关基础知识总结",
+      "path": "JavaGuide/分布式/API网关/API网关基础知识总结.md"
+    },
+    {
+      "basename": "分布式锁常见实现方案总结",
+      "path": "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md"
+    },
+    {
+      "basename": "分布式锁介绍",
+      "path": "JavaGuide/分布式/分布式锁/分布式锁介绍.md"
+    },
+    {
+      "basename": "分布式ID介绍&实现方案总结",
+      "path": "JavaGuide/分布式/分布式ID/分布式ID介绍&实现方案总结.md"
+    },
+    {
+      "basename": "Gossip 协议",
+      "path": "JavaGuide/分布式/理论&算法&协议/Gossip 协议.md"
+    },
+    {
+      "basename": "Raft 算法",
+      "path": "JavaGuide/分布式/理论&算法&协议/Raft 算法.md"
+    },
+    {
+      "basename": "Paxos 算法",
+      "path": "JavaGuide/分布式/理论&算法&协议/Paxos 算法.md"
+    },
+    {
+      "basename": "CAP & BASE 理论",
+      "path": "JavaGuide/分布式/理论&算法&协议/CAP & BASE 理论.md"
+    },
+    {
       "basename": "Redis 常见面试题",
       "path": "JavaGuide/数据库/Redis/Redis 常见面试题.md"
     },
     {
-      "basename": "redis-common-blocking-problems-summary.html",
-      "path": "database/redis/redis-common-blocking-problems-summary.html.md"
-    },
-    {
-      "basename": "Mysql 常见面试题",
-      "path": "JavaGuide/数据库/Mysql/Mysql 常见面试题.md"
+      "basename": "Mysql 索引",
+      "path": "JavaGuide/数据库/Mysql/Mysql 索引.md"
     },
     {
       "basename": "MySQL高性能优化规范建议总结",
       "path": "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md"
+    },
+    {
+      "basename": "Mysql 常见面试题",
+      "path": "JavaGuide/数据库/Mysql/Mysql 常见面试题.md"
     },
     {
       "basename": "数据库基础",
@@ -27,10 +75,6 @@
     {
       "basename": "NoSQL 基础知识",
       "path": "JavaGuide/数据库/基础/NoSQL 基础知识.md"
-    },
-    {
-      "basename": "Mysql 索引",
-      "path": "JavaGuide/数据库/Mysql/Mysql 索引.md"
     },
     {
       "basename": "拼多多 一面",
@@ -155,22 +199,6 @@
     {
       "basename": "JVM 线上问题排查和性能调优案例",
       "path": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md"
-    },
-    {
-      "basename": "Java 基础常见面试题总结",
-      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
-    },
-    {
-      "basename": "回溯算法秒杀所有排列-组合-子集问题",
-      "path": "labuladong 的算法笔记/核心架构汇总/回溯算法秒杀所有排列-组合-子集问题.md"
-    },
-    {
-      "basename": "回溯算法解题套路框架",
-      "path": "labuladong 的算法笔记/核心架构汇总/回溯算法解题套路框架.md"
-    },
-    {
-      "basename": "刷二叉树（思路篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（思路篇）.md"
     }
   ],
   "omittedPaths": []

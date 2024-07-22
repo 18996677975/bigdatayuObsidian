@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md",
+                "file": "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47bcf364270347b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/分布式/RPC/RPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7994006dbe652fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/分布式/分布式面试总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b3acf0634a847dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md",
+                "file": "JavaGuide/分布式/分布式面试总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md",
+                "file": "JavaGuide/分布式/分布式面试总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/数据库/Redis/Redis 常见面试题.md"
+                "file": "JavaGuide/分布式/分布式面试总结.md"
               }
             }
           }
@@ -192,54 +229,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ee408bb4115b4d5",
+  "active": "7994006dbe652fea",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240722195818.png",
-    "ObsidianImages/Pasted image 20240722195715.png",
-    "ObsidianImages/Pasted image 20240722195533.png",
-    "database/redis/redis-common-blocking-problems-summary.html.md",
+    "JavaGuide/分布式/RPC/RPC.md",
+    "JavaGuide/分布式/分布式面试总结.md",
+    "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md",
+    "JavaGuide/分布式/分布式配置中心",
+    "ObsidianImages/Pasted image 20240723003436.png",
+    "ObsidianImages/Pasted image 20240723003425.png",
+    "ObsidianImages/Pasted image 20240723003321.png",
+    "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md",
+    "JavaGuide/分布式/RPC",
+    "JavaGuide/分布式/分布式事务",
+    "JavaGuide/分布式/API网关/API网关基础知识总结.md",
+    "ObsidianImages/Pasted image 20240723001210.png",
+    "ObsidianImages/Pasted image 20240723001129.png",
+    "ObsidianImages/Pasted image 20240723001052.png",
+    "ObsidianImages/Pasted image 20240723000948.png",
+    "ObsidianImages/Pasted image 20240723000905.png",
+    "ObsidianImages/Pasted image 20240723000812.png",
+    "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md",
+    "JavaGuide/分布式/API网关",
+    "ObsidianImages/Pasted image 20240723000157.png",
+    "JavaGuide/分布式/分布式锁/分布式锁介绍.md",
+    "JavaGuide/分布式/分布式ID/分布式ID介绍&实现方案总结.md",
+    "JavaGuide/分布式/分布式ID/分布式ID设计指南.md",
+    "JavaGuide/分布式/理论&算法&协议/Gossip 协议.md",
+    "JavaGuide/分布式/分布式锁",
+    "JavaGuide/分布式/分布式ID",
+    "JavaGuide/分布式/理论&算法&协议/Raft 算法.md",
+    "JavaGuide/分布式/理论&算法&协议/Paxos 算法.md",
+    "JavaGuide/分布式/理论&算法&协议/CAP & BASE 理论.md",
     "JavaGuide/数据库/Redis/Redis 常见面试题.md",
+    "JavaGuide/数据库/Mysql/Mysql 索引.md",
+    "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md",
+    "JavaGuide/分布式/理论&算法&协议",
+    "database/redis/redis-common-blocking-problems-summary.html.md",
     "database/redis",
     "database",
-    "ObsidianImages/Pasted image 20240722193556.png",
-    "ObsidianImages/Pasted image 20240722193530.png",
-    "ObsidianImages/Pasted image 20240722174205.png",
-    "ObsidianImages/Pasted image 20240722174154.png",
-    "ObsidianImages/Pasted image 20240722172143.png",
-    "ObsidianImages/Pasted image 20240722171841.png",
-    "ObsidianImages/Pasted image 20240722165328.png",
-    "ObsidianImages/Pasted image 20240722165156.png",
     "JavaGuide/数据库/Mysql/Mysql 常见面试题.md",
     "JavaGuide/数据库/Redis",
     "JavaGuide/数据库/Mysql/MySQL 三大日志(binlog、redo log和undo log)详解.md",
-    "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md",
     "JavaGuide/数据库/基础/数据库基础.md",
     "JavaGuide/数据库/基础/字符集.md",
     "JavaGuide/数据库/基础/NoSQL 基础知识.md",
-    "JavaGuide/数据库/Mysql/Mysql 索引.md",
-    "JavaGuide/数据库/Mysql",
-    "JavaGuide/数据库/基础",
     "个人面试总结/拼多多/拼多多 一面.md",
     "JavaGuide/系统设计/设计模式.md",
     "数据平台工程师面试汇总/Java.md",
     "数据平台工程师面试汇总/Yarn.md",
-    "数据平台工程师面试汇总/HDFS.md",
-    "数据平台工程师面试汇总/重要项目逐字稿.md",
-    "个人面试总结/拼多多/拼多多 二面.md",
-    "个人面试总结/柠檬微趣/柠檬微趣 二面.md",
-    "个人面试总结/得物/得物 一面.md",
-    "个人面试总结/得物/得物 二面.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（构造篇）.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（基操篇）.md",
-    "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（特性篇）.md",
-    "JavaGuide/高可用",
-    "JavaGuide/高性能",
-    "JavaGuide/系统设计",
-    "JavaGuide/重点总结.md",
-    "JavaGuide/分布式",
-    "JavaGuide/常用框架",
-    "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
     "数据平台工程师面试汇总/未命名.canvas"
   ]
 }
