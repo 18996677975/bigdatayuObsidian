@@ -5,6 +5,10 @@
       "path": "JavaGuide/数据库/Redis/Redis 常见面试题.md"
     },
     {
+      "basename": "redis-common-blocking-problems-summary.html",
+      "path": "database/redis/redis-common-blocking-problems-summary.html.md"
+    },
+    {
       "basename": "Mysql 常见面试题",
       "path": "JavaGuide/数据库/Mysql/Mysql 常见面试题.md"
     },

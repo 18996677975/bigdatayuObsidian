@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 264.5
   },
   "right": {
     "id": "7de087ada161705e",
@@ -194,21 +194,24 @@
   },
   "active": "7ee408bb4115b4d5",
   "lastOpenFiles": [
-    "ObsidianImages/Pasted image 20240722120321.png",
-    "ObsidianImages/Pasted image 20240722120006.png",
-    "ObsidianImages/Pasted image 20240722112550.png",
-    "ObsidianImages/Pasted image 20240722111706.png",
-    "ObsidianImages/Pasted image 20240722110534.png",
-    "ObsidianImages/Pasted image 20240722103013.png",
-    "JavaGuide/数据库/Mysql/Mysql 常见面试题.md",
+    "ObsidianImages/Pasted image 20240722195818.png",
+    "ObsidianImages/Pasted image 20240722195715.png",
+    "ObsidianImages/Pasted image 20240722195533.png",
+    "database/redis/redis-common-blocking-problems-summary.html.md",
     "JavaGuide/数据库/Redis/Redis 常见面试题.md",
+    "database/redis",
+    "database",
+    "ObsidianImages/Pasted image 20240722193556.png",
+    "ObsidianImages/Pasted image 20240722193530.png",
+    "ObsidianImages/Pasted image 20240722174205.png",
+    "ObsidianImages/Pasted image 20240722174154.png",
+    "ObsidianImages/Pasted image 20240722172143.png",
+    "ObsidianImages/Pasted image 20240722171841.png",
+    "ObsidianImages/Pasted image 20240722165328.png",
+    "ObsidianImages/Pasted image 20240722165156.png",
+    "JavaGuide/数据库/Mysql/Mysql 常见面试题.md",
     "JavaGuide/数据库/Redis",
-    "ObsidianImages/Pasted image 20240722011000.png",
-    "ObsidianImages/Pasted image 20240722010942.png",
     "JavaGuide/数据库/Mysql/MySQL 三大日志(binlog、redo log和undo log)详解.md",
-    "ObsidianImages/Pasted image 20240722002813.png",
-    "ObsidianImages/Pasted image 20240722001012.png",
-    "ObsidianImages/Pasted image 20240722000908.png",
     "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md",
     "JavaGuide/数据库/基础/数据库基础.md",
     "JavaGuide/数据库/基础/字符集.md",
@@ -236,10 +239,7 @@
     "JavaGuide/重点总结.md",
     "JavaGuide/分布式",
     "JavaGuide/常用框架",
-    "JavaGuide/数据库",
-    "JavaGuide/计算器基础",
     "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
-    "JavaGuide/Java/并发/Java并发场景面试题总结.md",
     "数据平台工程师面试汇总/未命名.canvas"
   ]
 }
