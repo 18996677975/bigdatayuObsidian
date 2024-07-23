@@ -4,107 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "0883e807e0797f6c",
+        "id": "5ee83c1c1c713087",
         "type": "tabs",
         "children": [
           {
-            "id": "faead7147cfa8c69",
+            "id": "8a5954933831ed78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/系统设计/设计模式.md",
+                "file": "JavaGuide/Java/IO/Java NIO 核心知识总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5b915cb0025dea09",
+            "id": "9fcbde8153dd809e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人面试总结/得物/得物 一面.md",
+                "file": "JavaGuide/Java/IO/Java IO 模型详解.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99ec392908047cb2",
+            "id": "564e656a356f4c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人面试总结/得物/得物 二面.md",
+                "file": "JavaGuide/Java/IO/Java IO 设计模式总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de1fd44247e188db",
+            "id": "08c873f40a9eac61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人面试总结/柠檬微趣/柠檬微趣 二面.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d68093291cca0324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33c00063abfc2d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据平台工程师面试汇总/重要项目逐字稿.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b4b5df412b5a610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/分布式/RPC/RPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36845a0f9e2636fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/分布式/分布式面试总结.md",
+                "file": "JavaGuide/Java/IO/Java IO 基础知识总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据平台工程师面试汇总/重要项目逐字稿.md",
+                "file": "JavaGuide/Java/IO/Java IO 基础知识总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据平台工程师面试汇总/重要项目逐字稿.md",
+                "file": "JavaGuide/Java/IO/Java IO 基础知识总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据平台工程师面试汇总/重要项目逐字稿.md"
+                "file": "JavaGuide/Java/IO/Java IO 基础知识总结.md"
               }
             }
           }
@@ -253,13 +205,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0bd798abd27b0687",
+  "active": "08c873f40a9eac61",
   "lastOpenFiles": [
+    "JavaGuide/Java/IO/Java IO 设计模式总结.md",
+    "JavaGuide/Java/IO/Java IO 模型详解.md",
+    "JavaGuide/Java/IO/Java NIO 核心知识总结.md",
+    "ObsidianImages/Pasted image 20240724012502.png",
+    "ObsidianImages/Pasted image 20240724012138.png",
+    "ObsidianImages/Pasted image 20240724012018.png",
+    "ObsidianImages/Pasted image 20240724011910.png",
+    "ObsidianImages/Pasted image 20240724011724.png",
+    "ObsidianImages/Pasted image 20240724011141.png",
+    "ObsidianImages/Pasted image 20240724011122.png",
+    "ObsidianImages/Pasted image 20240724010934.png",
+    "ObsidianImages/Pasted image 20240724010805.png",
+    "ObsidianImages/Pasted image 20240724010600.png",
+    "JavaGuide/Java/IO/Java IO 基础知识总结.md",
+    "JavaGuide/系统设计/设计模式.md",
     "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
     "个人面试总结/柠檬微趣/柠檬微趣 二面.md",
     "个人面试总结/得物/得物 二面.md",
     "个人面试总结/得物/得物 一面.md",
-    "JavaGuide/系统设计/设计模式.md",
     "JavaGuide/分布式/分布式面试总结.md",
     "JavaGuide/分布式/RPC/RPC.md",
     "JavaGuide/Java/个人总结篇.md",
@@ -276,31 +242,16 @@
     "JavaGuide/数据库/Mysql/Mysql 索引.md",
     "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md",
     "JavaGuide/分布式/分布式配置中心",
-    "ObsidianImages/Pasted image 20240723003436.png",
-    "ObsidianImages/Pasted image 20240723003425.png",
-    "ObsidianImages/Pasted image 20240723003321.png",
     "JavaGuide/分布式/RPC",
     "JavaGuide/分布式/分布式事务",
-    "ObsidianImages/Pasted image 20240723001210.png",
-    "ObsidianImages/Pasted image 20240723001129.png",
-    "ObsidianImages/Pasted image 20240723001052.png",
-    "ObsidianImages/Pasted image 20240723000948.png",
-    "ObsidianImages/Pasted image 20240723000905.png",
-    "ObsidianImages/Pasted image 20240723000812.png",
     "JavaGuide/分布式/API网关",
-    "ObsidianImages/Pasted image 20240723000157.png",
     "JavaGuide/分布式/分布式ID/分布式ID设计指南.md",
     "JavaGuide/分布式/分布式锁",
     "JavaGuide/分布式/分布式ID",
-    "JavaGuide/分布式/理论&算法&协议/Raft 算法.md",
-    "JavaGuide/分布式/理论&算法&协议/Paxos 算法.md",
     "JavaGuide/分布式/理论&算法&协议",
-    "database/redis/redis-common-blocking-problems-summary.html.md",
     "database/redis",
     "database",
     "JavaGuide/数据库/Redis",
-    "JavaGuide/数据库/Mysql/MySQL 三大日志(binlog、redo log和undo log)详解.md",
-    "JavaGuide/数据库/基础/数据库基础.md",
     "数据平台工程师面试汇总/未命名.canvas"
   ]
 }

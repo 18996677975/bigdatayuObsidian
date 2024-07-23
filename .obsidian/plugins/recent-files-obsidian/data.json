@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Java IO 基础知识总结",
+      "path": "JavaGuide/Java/IO/Java IO 基础知识总结.md"
+    },
+    {
+      "basename": "Java IO 设计模式总结",
+      "path": "JavaGuide/Java/IO/Java IO 设计模式总结.md"
+    },
+    {
+      "basename": "Java IO 模型详解",
+      "path": "JavaGuide/Java/IO/Java IO 模型详解.md"
+    },
+    {
+      "basename": "Java NIO 核心知识总结",
+      "path": "JavaGuide/Java/IO/Java NIO 核心知识总结.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "JavaGuide/系统设计/设计模式.md"
+    },
+    {
       "basename": "重要项目逐字稿",
       "path": "数据平台工程师面试汇总/重要项目逐字稿.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "得物 一面",
       "path": "个人面试总结/得物/得物 一面.md"
-    },
-    {
-      "basename": "设计模式",
-      "path": "JavaGuide/系统设计/设计模式.md"
     },
     {
       "basename": "分布式面试总结",
@@ -183,22 +199,6 @@
     {
       "basename": "6.4 哈希表小结",
       "path": "Hello Algo/No6. 哈希表/6.4 哈希表小结.md"
-    },
-    {
-      "basename": "6.2 哈希冲突",
-      "path": "Hello Algo/No6. 哈希表/6.2 哈希冲突.md"
-    },
-    {
-      "basename": "6.1 哈希表",
-      "path": "Hello Algo/No6. 哈希表/6.1 哈希表.md"
-    },
-    {
-      "basename": "泛型 & 通配符",
-      "path": "JavaGuide/Java/基础/重要知识点/泛型 & 通配符.md"
-    },
-    {
-      "basename": "JVM 线上问题排查和性能调优案例",
-      "path": "JavaGuide/Java/JVM/JVM 线上问题排查和性能调优案例.md"
     }
   ],
   "omittedPaths": []
