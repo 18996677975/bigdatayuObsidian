@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/IO/Java IO 基础知识总结.md",
+                "file": "JavaGuide/高性能/负载均衡.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/Java/IO/Java IO 基础知识总结.md",
+                "file": "JavaGuide/高性能/负载均衡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/Java/IO/Java IO 基础知识总结.md",
+                "file": "JavaGuide/高性能/负载均衡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/Java/IO/Java IO 基础知识总结.md"
+                "file": "JavaGuide/高性能/负载均衡.md"
               }
             }
           }
@@ -207,20 +207,22 @@
   },
   "active": "08c873f40a9eac61",
   "lastOpenFiles": [
+    "ObsidianImages/Pasted image 20240724104221.png",
+    "ObsidianImages/Pasted image 20240724103855.png",
+    "ObsidianImages/Pasted image 20240724103703.png",
+    "ObsidianImages/Pasted image 20240724103640.png",
+    "ObsidianImages/Pasted image 20240724103041.png",
+    "ObsidianImages/Pasted image 20240724102600.png",
+    "ObsidianImages/Pasted image 20240724101908.png",
+    "ObsidianImages/Pasted image 20240724101715.png",
+    "ObsidianImages/Pasted image 20240724101548.png",
+    "JavaGuide/Java/IO/Java IO 基础知识总结.md",
+    "JavaGuide/高性能/负载均衡.md",
     "JavaGuide/Java/IO/Java IO 设计模式总结.md",
     "JavaGuide/Java/IO/Java IO 模型详解.md",
     "JavaGuide/Java/IO/Java NIO 核心知识总结.md",
     "ObsidianImages/Pasted image 20240724012502.png",
     "ObsidianImages/Pasted image 20240724012138.png",
-    "ObsidianImages/Pasted image 20240724012018.png",
-    "ObsidianImages/Pasted image 20240724011910.png",
-    "ObsidianImages/Pasted image 20240724011724.png",
-    "ObsidianImages/Pasted image 20240724011141.png",
-    "ObsidianImages/Pasted image 20240724011122.png",
-    "ObsidianImages/Pasted image 20240724010934.png",
-    "ObsidianImages/Pasted image 20240724010805.png",
-    "ObsidianImages/Pasted image 20240724010600.png",
-    "JavaGuide/Java/IO/Java IO 基础知识总结.md",
     "JavaGuide/系统设计/设计模式.md",
     "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
     "个人面试总结/柠檬微趣/柠檬微趣 二面.md",
@@ -245,7 +247,6 @@
     "JavaGuide/分布式/RPC",
     "JavaGuide/分布式/分布式事务",
     "JavaGuide/分布式/API网关",
-    "JavaGuide/分布式/分布式ID/分布式ID设计指南.md",
     "JavaGuide/分布式/分布式锁",
     "JavaGuide/分布式/分布式ID",
     "JavaGuide/分布式/理论&算法&协议",

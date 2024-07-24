@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "负载均衡",
+      "path": "JavaGuide/高性能/负载均衡.md"
+    },
+    {
       "basename": "Java IO 基础知识总结",
       "path": "JavaGuide/Java/IO/Java IO 基础知识总结.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8.2 建堆操作",
       "path": "Hello Algo/No8. 堆/8.2 建堆操作.md"
-    },
-    {
-      "basename": "6.4 哈希表小结",
-      "path": "Hello Algo/No6. 哈希表/6.4 哈希表小结.md"
     }
   ],
   "omittedPaths": []
