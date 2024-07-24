@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Spring 常见面试题",
+      "path": "JavaGuide/常用框架/Spring 常见面试题.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道链表题目",
+      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md"
+    },
+    {
+      "basename": "双指针技巧秒杀七道链表题目",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md"
+    },
+    {
+      "basename": "【强化练习】链表双指针经典习题",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md"
+    },
+    {
       "basename": "Java NIO 核心知识总结",
       "path": "JavaGuide/Java/IO/Java NIO 核心知识总结.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "引入篇",
       "path": "Java 设计模式/引入篇.md"
-    },
-    {
-      "basename": "刷二叉树（序列化篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（序列化篇）.md"
-    },
-    {
-      "basename": "刷二叉树（后序篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（后序篇）.md"
-    },
-    {
-      "basename": "动态规划解题套路框架",
-      "path": "labuladong 的算法笔记/动态规划刷题/基本技巧/动态规划解题套路框架.md"
-    },
-    {
-      "basename": "8.4 堆小结",
-      "path": "Hello Algo/No8. 堆/8.4 堆小结.md"
     }
   ],
   "omittedPaths": []
