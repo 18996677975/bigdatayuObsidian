@@ -4,107 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee83c1c1c713087",
+        "id": "356c062c345858bb",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5954933831ed78",
+            "id": "90af184c6e1e492b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/Java/IO/Java NIO 核心知识总结.md",
-                "mode": "source",
+                "file": "数据平台工程师面试汇总/Flink.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "d3af12645626c069",
+            "id": "15e037e429d0f91f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
-                "mode": "source",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "0a8e5d8aa64f8f66",
+            "id": "344e528fd7c559aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91540ab65bac2455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/常用框架/Spring 常见面试题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fcbde8153dd809e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/IO/Java IO 模型详解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "564e656a356f4c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/IO/Java IO 设计模式总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08c873f40a9eac61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/高性能/负载均衡.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cc9d0526d4b30f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/Java/基础/Java 基础常见面试题总结.md",
+                "file": "数据平台工程师面试汇总/Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "7de087ada161705e",
@@ -186,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/常用框架/Spring 常见面试题.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/常用框架/Spring 常见面试题.md",
+                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/常用框架/Spring 常见面试题.md"
+                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
               }
             }
           }
@@ -235,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +195,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "91540ab65bac2455",
+  "active": "0bd798abd27b0687",
   "lastOpenFiles": [
+    "数据平台工程师面试汇总/Flink.md",
+    "数据平台工程师面试汇总/Java.md",
+    "个人面试总结/拼多多/拼多多 三面.md",
+    "个人面试总结/蚂蚁",
+    "个人面试总结/快手",
+    "个人面试总结/汉迪",
+    "个人面试总结/字节",
+    "JavaGuide/常用框架/Spring 常见面试题.md",
     "ObsidianImages/Pasted image 20240725012907.png",
     "ObsidianImages/Pasted image 20240725012641.png",
     "ObsidianImages/Pasted image 20240725012505.png",
@@ -265,9 +215,7 @@
     "ObsidianImages/Pasted image 20240725005655.png",
     "ObsidianImages/Pasted image 20240725005642.png",
     "ObsidianImages/Pasted image 20240725005635.png",
-    "ObsidianImages/Pasted image 20240725005539.png",
     "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
-    "JavaGuide/常用框架/Spring 常见面试题.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
     "JavaGuide/Java/IO/Java NIO 核心知识总结.md",
@@ -289,18 +237,12 @@
     "JavaGuide/分布式/API网关/API网关基础知识总结.md",
     "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md",
     "JavaGuide/分布式/分布式ID/分布式ID介绍&实现方案总结.md",
-    "JavaGuide/分布式/分布式锁/分布式锁介绍.md",
-    "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md",
     "JavaGuide/分布式/分布式配置中心",
     "JavaGuide/分布式/RPC",
     "JavaGuide/分布式/分布式事务",
     "JavaGuide/分布式/API网关",
     "JavaGuide/分布式/分布式锁",
     "JavaGuide/分布式/分布式ID",
-    "JavaGuide/分布式/理论&算法&协议",
-    "database/redis",
-    "database",
-    "JavaGuide/数据库/Redis",
     "数据平台工程师面试汇总/未命名.canvas"
   ]
 }
