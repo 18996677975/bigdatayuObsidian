@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "356c062c345858bb",
+        "id": "4c569d1d4b247a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "90af184c6e1e492b",
+            "id": "b7135a4f3f0e119f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据平台工程师面试汇总/Flink.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15e037e429d0f91f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "344e528fd7c559aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据平台工程师面试汇总/Java.md",
+                "file": "JavaGuide/常用框架/Spring Boot 常见面试题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "7de087ada161705e",
@@ -127,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
+                "file": "JavaGuide/常用框架/Spring Boot 常见面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md",
+                "file": "JavaGuide/常用框架/Spring Boot 常见面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
+                "file": "JavaGuide/常用框架/Spring Boot 常见面试题.md"
               }
             }
           }
@@ -176,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,16 +168,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0bd798abd27b0687",
+  "active": "b7135a4f3f0e119f",
   "lastOpenFiles": [
-    "数据平台工程师面试汇总/Flink.md",
-    "数据平台工程师面试汇总/Java.md",
+    "JavaGuide/常用框架/Spring Boot 核心源码解读.md",
+    "JavaGuide/常用框架/Spring Boot 常见面试题.md",
+    "ObsidianImages/Pasted image 20240726011844.png",
+    "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md",
+    "JavaGuide/常用框架/Spring 常见面试题.md",
     "个人面试总结/拼多多/拼多多 三面.md",
+    "个人面试总结/字节/字节 一面.md",
+    "个人面试总结/拼多多/拼多多 一面.md",
+    "个人面试总结/拼多多/拼多多 二面.md",
+    "个人面试总结/得物/得物 二面.md",
+    "个人面试总结/得物/得物 一面.md",
+    "个人面试总结/汉迪/汉迪 二面.md",
+    "个人面试总结/汉迪/汉迪 一面.md",
+    "个人面试总结/蚂蚁/蚂蚁 一面.md",
+    "个人面试总结/柠檬微趣/柠檬微趣 二面.md",
+    "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
+    "个人面试总结/字节",
+    "个人面试总结/汉迪",
+    "数据平台工程师面试汇总/Flink.md",
+    "个人面试总结/蚂蚁",
+    "数据平台工程师面试汇总/Java.md",
     "个人面试总结/蚂蚁",
     "个人面试总结/快手",
     "个人面试总结/汉迪",
     "个人面试总结/字节",
-    "JavaGuide/常用框架/Spring 常见面试题.md",
     "ObsidianImages/Pasted image 20240725012907.png",
     "ObsidianImages/Pasted image 20240725012641.png",
     "ObsidianImages/Pasted image 20240725012505.png",
@@ -214,7 +204,6 @@
     "ObsidianImages/Pasted image 20240725010140.png",
     "ObsidianImages/Pasted image 20240725005655.png",
     "ObsidianImages/Pasted image 20240725005642.png",
-    "ObsidianImages/Pasted image 20240725005635.png",
     "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
@@ -224,25 +213,9 @@
     "JavaGuide/Java/IO/Java IO 基础知识总结.md",
     "JavaGuide/Java/IO/Java IO 设计模式总结.md",
     "JavaGuide/Java/IO/Java IO 模型详解.md",
-    "JavaGuide/系统设计/设计模式.md",
-    "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
-    "个人面试总结/柠檬微趣/柠檬微趣 二面.md",
-    "个人面试总结/得物/得物 二面.md",
-    "个人面试总结/得物/得物 一面.md",
-    "JavaGuide/分布式/分布式面试总结.md",
-    "JavaGuide/分布式/RPC/RPC.md",
-    "JavaGuide/Java/个人总结篇.md",
-    "JavaGuide/分布式/理论&算法&协议/CAP & BASE 理论.md",
-    "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md",
-    "JavaGuide/分布式/API网关/API网关基础知识总结.md",
-    "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md",
-    "JavaGuide/分布式/分布式ID/分布式ID介绍&实现方案总结.md",
     "JavaGuide/分布式/分布式配置中心",
     "JavaGuide/分布式/RPC",
     "JavaGuide/分布式/分布式事务",
-    "JavaGuide/分布式/API网关",
-    "JavaGuide/分布式/分布式锁",
-    "JavaGuide/分布式/分布式ID",
     "数据平台工程师面试汇总/未命名.canvas"
   ]
 }

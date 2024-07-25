@@ -1,24 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "滑动窗口算法核心代码模板",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
+      "basename": "Spring Boot 常见面试题",
+      "path": "JavaGuide/常用框架/Spring Boot 常见面试题.md"
     },
     {
-      "basename": "Flink",
-      "path": "数据平台工程师面试汇总/Flink.md"
+      "basename": "Spring Boot 核心源码解读",
+      "path": "JavaGuide/常用框架/Spring Boot 核心源码解读.md"
     },
     {
-      "basename": "Java",
-      "path": "数据平台工程师面试汇总/Java.md"
+      "basename": "Spring & SpringBoot常用注解总结",
+      "path": "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md"
+    },
+    {
+      "basename": "Spring 常见面试题",
+      "path": "JavaGuide/常用框架/Spring 常见面试题.md"
     },
     {
       "basename": "拼多多 三面",
       "path": "个人面试总结/拼多多/拼多多 三面.md"
     },
     {
-      "basename": "Spring 常见面试题",
-      "path": "JavaGuide/常用框架/Spring 常见面试题.md"
+      "basename": "字节 一面",
+      "path": "个人面试总结/字节/字节 一面.md"
+    },
+    {
+      "basename": "拼多多 一面",
+      "path": "个人面试总结/拼多多/拼多多 一面.md"
+    },
+    {
+      "basename": "拼多多 二面",
+      "path": "个人面试总结/拼多多/拼多多 二面.md"
+    },
+    {
+      "basename": "得物 二面",
+      "path": "个人面试总结/得物/得物 二面.md"
+    },
+    {
+      "basename": "得物 一面",
+      "path": "个人面试总结/得物/得物 一面.md"
+    },
+    {
+      "basename": "汉迪 二面",
+      "path": "个人面试总结/汉迪/汉迪 二面.md"
+    },
+    {
+      "basename": "汉迪 一面",
+      "path": "个人面试总结/汉迪/汉迪 一面.md"
+    },
+    {
+      "basename": "蚂蚁 一面",
+      "path": "个人面试总结/蚂蚁/蚂蚁 一面.md"
+    },
+    {
+      "basename": "柠檬微趣 二面",
+      "path": "个人面试总结/柠檬微趣/柠檬微趣 二面.md"
+    },
+    {
+      "basename": "柠檬微趣 一面",
+      "path": "个人面试总结/柠檬微趣/柠檬微趣 一面.md"
+    },
+    {
+      "basename": "Flink",
+      "path": "数据平台工程师面试汇总/Flink.md"
+    },
+    {
+      "basename": "滑动窗口算法核心代码模板",
+      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
+    },
+    {
+      "basename": "Java",
+      "path": "数据平台工程师面试汇总/Java.md"
     },
     {
       "basename": "双指针技巧秒杀七道链表题目",
@@ -63,22 +115,6 @@
     {
       "basename": "重要项目逐字稿",
       "path": "数据平台工程师面试汇总/重要项目逐字稿.md"
-    },
-    {
-      "basename": "柠檬微趣 一面",
-      "path": "个人面试总结/柠檬微趣/柠檬微趣 一面.md"
-    },
-    {
-      "basename": "柠檬微趣 二面",
-      "path": "个人面试总结/柠檬微趣/柠檬微趣 二面.md"
-    },
-    {
-      "basename": "得物 二面",
-      "path": "个人面试总结/得物/得物 二面.md"
-    },
-    {
-      "basename": "得物 一面",
-      "path": "个人面试总结/得物/得物 一面.md"
     },
     {
       "basename": "分布式面试总结",
@@ -161,44 +197,8 @@
       "path": "JavaGuide/数据库/基础/NoSQL 基础知识.md"
     },
     {
-      "basename": "拼多多 一面",
-      "path": "个人面试总结/拼多多/拼多多 一面.md"
-    },
-    {
       "basename": "Yarn",
       "path": "数据平台工程师面试汇总/Yarn.md"
-    },
-    {
-      "basename": "HDFS",
-      "path": "数据平台工程师面试汇总/HDFS.md"
-    },
-    {
-      "basename": "拼多多 二面",
-      "path": "个人面试总结/拼多多/拼多多 二面.md"
-    },
-    {
-      "basename": "刷二叉搜索树（构造篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（构造篇）.md"
-    },
-    {
-      "basename": "刷二叉树（构造篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉树（构造篇）.md"
-    },
-    {
-      "basename": "刷二叉搜索树（基操篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（基操篇）.md"
-    },
-    {
-      "basename": "刷二叉搜索树（特性篇）",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷二叉树/刷二叉搜索树（特性篇）.md"
-    },
-    {
-      "basename": "重点总结",
-      "path": "JavaGuide/重点总结.md"
-    },
-    {
-      "basename": "Java并发场景面试题总结",
-      "path": "JavaGuide/Java/并发/Java并发场景面试题总结.md"
     }
   ],
   "omittedPaths": []
