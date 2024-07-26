@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91bcee0bd47ac440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/常用框架/Spring Boot 核心源码解读.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0b2c43770a43b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/常用框架/Spring 常见面试题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c030c674398ab340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 335.5
   },
   "right": {
     "id": "7de087ada161705e",
@@ -101,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaGuide/常用框架/Spring Boot 常见面试题.md",
+                "file": "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaGuide/常用框架/Spring Boot 常见面试题.md",
+                "file": "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaGuide/常用框架/Spring Boot 常见面试题.md"
+                "file": "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md"
               }
             }
           }
@@ -168,13 +205,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7135a4f3f0e119f",
+  "active": "c030c674398ab340",
   "lastOpenFiles": [
+    "JavaGuide/常用框架/Spring 常见面试题.md",
     "JavaGuide/常用框架/Spring Boot 核心源码解读.md",
     "JavaGuide/常用框架/Spring Boot 常见面试题.md",
-    "ObsidianImages/Pasted image 20240726011844.png",
     "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md",
-    "JavaGuide/常用框架/Spring 常见面试题.md",
+    "ObsidianImages/Pasted image 20240726235323.png",
+    "ObsidianImages/Pasted image 20240726235035.png",
+    "ObsidianImages/Pasted image 20240726230822.png",
+    "ObsidianImages/Pasted image 20240726230725.png",
+    "ObsidianImages/Pasted image 20240726230149.png",
+    "ObsidianImages/Pasted image 20240726224320.png",
+    "ObsidianImages/Pasted image 20240726223622.png",
+    "ObsidianImages/Pasted image 20240726223520.png",
+    "ObsidianImages/Pasted image 20240726011844.png",
     "个人面试总结/拼多多/拼多多 三面.md",
     "个人面试总结/字节/字节 一面.md",
     "个人面试总结/拼多多/拼多多 一面.md",
@@ -196,14 +241,6 @@
     "个人面试总结/汉迪",
     "个人面试总结/字节",
     "ObsidianImages/Pasted image 20240725012907.png",
-    "ObsidianImages/Pasted image 20240725012641.png",
-    "ObsidianImages/Pasted image 20240725012505.png",
-    "ObsidianImages/Pasted image 20240725010630.png",
-    "ObsidianImages/Pasted image 20240725010341.png",
-    "ObsidianImages/Pasted image 20240725010215.png",
-    "ObsidianImages/Pasted image 20240725010140.png",
-    "ObsidianImages/Pasted image 20240725005655.png",
-    "ObsidianImages/Pasted image 20240725005642.png",
     "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
@@ -212,7 +249,6 @@
     "JavaGuide/高性能/负载均衡.md",
     "JavaGuide/Java/IO/Java IO 基础知识总结.md",
     "JavaGuide/Java/IO/Java IO 设计模式总结.md",
-    "JavaGuide/Java/IO/Java IO 模型详解.md",
     "JavaGuide/分布式/分布式配置中心",
     "JavaGuide/分布式/RPC",
     "JavaGuide/分布式/分布式事务",

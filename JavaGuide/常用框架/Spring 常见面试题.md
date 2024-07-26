@@ -428,6 +428,98 @@ public class LoggingAspect implements Ordered {
 MVC 是模型(Model)、视图(View)、控制器(Controller)的简写，其核心思想是通过将业务逻辑、数据、显示分离来组织代码。
 ![[Pasted image 20240725012907.png]]
 
+想要真正理解 Spring MVC，我们先来看看 Model 1 和 Model 2 这两个没有 Spring MVC 的时代。
+### Model 1 时代
+很多学 Java 后端比较晚的朋友可能并没有接触过 Model 1 时代下的 JavaWeb 应用开发。在 Model1 模式下，整个 Web 应用几乎全部用 JSP 页面组成，只用少量的 JavaBean 来处理数据库连接、访问等操作。
+
+这个模式下 JSP 即是控制层（Controller）又是表现层（View）。显而易见，这种模式存在很多问题。比如控制逻辑和表现逻辑混杂在一起，导致代码重用率极低；再比如前端和后端相互依赖，难以进行测试维护并且开发效率极低。
+![[Pasted image 20240726223520.png]]
+
+### Model 2 时代
+学过 Servlet 并做过相关 Demo 的朋友应该了解 “Java Bean(Model)+ JSP（View）+Servlet（Controller） ” 这种开发模式，这就是早期的 JavaWeb MVC 开发模式。
+- Model：系统涉及的数据，也就是 dao 和 bean。
+- View：展示模型中的数据，只是用来展示。
+- Controller：接受用户请求，并将请求发送至 Model，最后返回数据给 JSP 并展示给用户
+
+![[Pasted image 20240726223622.png]]
+
+Model2 模式下还存在很多问题，Model2 的抽象和封装程度还远远不够，使用 Model2 进行开发时不可避免地会重复造轮子，这就大大降低了程序的可维护性和复用性。
+
+于是，很多 JavaWeb 开发相关的 MVC 框架应运而生比如 Struts2，但是 Struts2 比较笨重。
+
+### Spring MVC 时代
+随着 Spring 轻量级开发框架的流行，Spring 生态圈出现了 Spring MVC 框架， Spring MVC 是当前最优秀的 MVC 框架。相比于 Struts2 ， Spring MVC 使用更加简单和方便，开发效率更高，并且 Spring MVC 运行速度更快。
+
+MVC 是一种设计模式，Spring MVC 是一款很优秀的 MVC 框架。Spring MVC 可以帮助我们进行更简洁的 Web 层的开发，并且它天生与 Spring 框架集成。Spring MVC 下我们一般把后端项目分为 Service 层（处理业务）、Dao 层（数据库操作）、Entity 层（实体类）、Controller 层(控制层，返回数据给前台页面)。
+
+## Spring MVC 的核心组件有哪些？
+记住了下面这些组件，也就记住了 SpringMVC 的工作原理。
+
+- **`DispatcherServlet`**：**核心的中央处理器**，负责接收请求、分发，并给予客户端响应。
+- **`HandlerMapping`**：**处理器映射器**，根据 URL 去匹配查找能处理的 `Handler` ，并会将请求涉及到的拦截器和 `Handler` 一起封装。
+- **`HandlerAdapter`**：**处理器适配器**，根据 `HandlerMapping` 找到的 `Handler` ，适配执行对应的 `Handler`。
+- **`Handler`**：**请求处理器**，处理实际请求的处理器。
+- **`ViewResolver`**：**视图解析器**，根据 `Handler` 返回的逻辑视图 / 视图，解析并渲染真正的视图，并传递给 `DispatcherServlet` 响应客户端。
+
+## SpringMVC 工作原理了解吗?
+**Spring MVC 原理如下图所示：**
+![[Pasted image 20240726224320.png]]
+
+**流程说明（重要）：**
+1. 客户端（浏览器）发送请求， `DispatcherServlet`拦截请求。
+2. `DispatcherServlet` 根据请求信息调用 `HandlerMapping` 。`HandlerMapping` 根据 URL 去匹配查找能处理的 `Handler`（也就是我们平常说的 `Controller` 控制器） ，并会将请求涉及到的拦截器和 `Handler` 一起封装。
+3. `DispatcherServlet` 调用 `HandlerAdapter`适配器执行 `Handler` 。
+4. `Handler` 完成对用户请求的处理后，会返回一个 `ModelAndView` 对象给`DispatcherServlet`，`ModelAndView` 顾名思义，包含了数据模型以及相应的视图的信息。`Model` 是返回的数据对象，`View` 是个逻辑上的 `View`。
+5. `ViewResolver` 会根据逻辑 `View` 查找实际的 `View`。
+6. `DispaterServlet` 把返回的 `Model` 传给 `View`（视图渲染）。
+7. 把 `View` 返回给请求者（浏览器）。
+
+## 统一异常处理怎么做？
+推荐使用注解的方式统一异常处理，具体会使用到 `@ControllerAdvice` + `@ExceptionHandler` 这两个注解。
+```java
+@ControllerAdvice
+@ResponseBody
+public class GlobalExceptionHandler {
+
+    @ExceptionHandler(BaseException.class)
+    public ResponseEntity<?> handleAppException(BaseException ex, HttpServletRequest request) {
+      //......
+    }
+
+    @ExceptionHandler(value = ResourceNotFoundException.class)
+    public ResponseEntity<ErrorReponse> handleResourceNotFoundException(ResourceNotFoundException ex, HttpServletRequest request) {
+      //......
+    }
+}
+```
+
+这种异常处理方式下，会给所有或者指定的 `Controller` 织入异常处理的逻辑（AOP），当 `Controller` 中的方法抛出异常的时候，由被 `@ExceptionHandler` 注解修饰的方法进行处理。
+
+`ExceptionHandlerMethodResolver` 中 `getMappedMethod` 方法决定了异常具体被哪个被 `@ExceptionHandler` 注解修饰的方法处理异常。
+```java
+@Nullable
+private Method getMappedMethod(Class<? extends Throwable> exceptionType) {
+  List<Class<? extends Throwable>> matches = new ArrayList<>();
+  //找到可以处理的所有异常信息。mappedMethods 中存放了异常和处理异常的方法的对应关系
+  for (Class<? extends Throwable> mappedException : this.mappedMethods.keySet()) {
+    if (mappedException.isAssignableFrom(exceptionType)) {
+      matches.add(mappedException);
+    }
+  }
+  // 不为空说明有方法处理异常
+  if (!matches.isEmpty()) {
+    // 按照匹配程度从小到大排序
+    matches.sort(new ExceptionDepthComparator(exceptionType));
+    // 返回处理异常的方法
+    return this.mappedMethods.get(matches.get(0));
+  }
+  else {
+    return null;
+  }
+}
+```
+
+从源代码看出：**`getMappedMethod()`会首先找到可以匹配处理异常的所有方法信息，然后对其进行从小到大的排序，最后取最小的那一个匹配的方法(即匹配度最高的那个)。**
 
 # Spring 框架中用到了哪些设计模式？
 - **工厂设计模式** : Spring 使用工厂模式通过 `BeanFactory`、`ApplicationContext` 创建 bean 对象。
@@ -581,7 +673,191 @@ SpringBoot 2.6.x 以后，如果你不想重构循环依赖的代码的话，也
 - ……
 
 # Spring 事务
+## Spring 管理事务的方式有几种？
+- **编程式事务**：在代码中硬编码（在分布式系统中推荐使用）：通过 `TransactionTemplate` 或者 `TransactionManager` 手动管理事务，事务范围过大会出现事务未提交导致超时，因此事务要比锁的粒度更小。
+- **声明式事务**：在 XML 配置文件中配置或者直接基于注解（单体应用或者简单业务系统推荐使用）：实际是通过 AOP 实现（基于 `@Transactional` 的全注解方式使用最多）。
+
+## Spring 事务中哪几种事务传播行为?
+**事务传播行为是为了解决业务层方法之间互相调用的事务问题**。
+
+当事务方法被另一个事务方法调用时，必须指定事务应该如何传播。例如：方法可能继续在现有事务中运行，也可能开启一个新事务，并在自己的事务中运行。
+
+正确的事务传播行为可能的值如下:
+
+**1. `TransactionDefinition.PROPAGATION_REQUIRED`**
+
+使用的最多的一个事务传播行为，我们平时经常使用的 `@Transactional` 注解默认使用就是这个事务传播行为。如果当前存在事务，则加入该事务；如果当前没有事务，则创建一个新的事务。
+
+**`2.TransactionDefinition.PROPAGATION_REQUIRES_NEW`**
+
+创建一个新的事务，如果当前存在事务，则把当前事务挂起。也就是说不管外部方法是否开启事务，`Propagation.REQUIRES_NEW`修饰的内部方法会新开启自己的事务，且开启的事务相互独立，互不干扰。
+
+**3. `TransactionDefinition.PROPAGATION_NESTED`**
+
+如果当前存在事务，则创建一个事务作为当前事务的嵌套事务来运行；如果当前没有事务，则该取值等价于 `TransactionDefinition.PROPAGATION_REQUIRED`。
+
+**4. `TransactionDefinition.PROPAGATION_MANDATORY`**
+
+如果当前存在事务，则加入该事务；如果当前没有事务，则抛出异常（mandatory：强制性） 。这个使用的很少。
+
+若是错误的配置以下 3 种事务传播行为，事务将不会发生回滚：
+- **`TransactionDefinition.PROPAGATION_SUPPORTS`**：如果当前存在事务，则加入该事务；如果当前没有事务，则以非事务的方式继续运行。
+- **`TransactionDefinition.PROPAGATION_NOT_SUPPORTED`**：以非事务方式运行，如果当前存在事务，则把当前事务挂起。
+- **`TransactionDefinition.PROPAGATION_NEVER`**：以非事务方式运行，如果当前存在事务，则抛出异常。
+
+## Spring 事务中的隔离级别有哪几种?
+和事务传播行为这块一样，为了方便使用，Spring 也相应地定义了一个枚举类：`Isolation`
+
+```java
+public enum Isolation {
+
+    DEFAULT(TransactionDefinition.ISOLATION_DEFAULT),
+    READ_UNCOMMITTED(TransactionDefinition.ISOLATION_READ_UNCOMMITTED),
+    READ_COMMITTED(TransactionDefinition.ISOLATION_READ_COMMITTED),
+    REPEATABLE_READ(TransactionDefinition.ISOLATION_REPEATABLE_READ),
+    SERIALIZABLE(TransactionDefinition.ISOLATION_SERIALIZABLE);
+
+    private final int value;
+
+    Isolation(int value) {
+        this.value = value;
+    }
+
+    public int value() {
+        return this.value;
+    }
+}
+```
+
+下面我依次对每一种事务隔离级别进行介绍：
+
+- **`TransactionDefinition.ISOLATION_DEFAULT`**：使用后端数据库默认的隔离级别，MySQL 默认采用的 `REPEATABLE_READ` 隔离级别 Oracle 默认采用的 `READ_COMMITTED` 隔离级别。
+- **`TransactionDefinition.ISOLATION_READ_UNCOMMITTED`**：最低的隔离级别，使用这个隔离级别很少，因为它允许读取尚未提交的数据变更，**可能会导致脏读、幻读或不可重复读**。
+- **`TransactionDefinition.ISOLATION_READ_COMMITTED`**：允许读取并发事务已经提交的数据，**可以阻止脏读，但是幻读或不可重复读仍有可能发生**。
+- **`TransactionDefinition.ISOLATION_REPEATABLE_READ`**：对同一字段的多次读取结果都是一致的，除非数据是被本身事务自己所修改，**可以阻止脏读和不可重复读，但幻读仍有可能发生。**
+- **`TransactionDefinition.ISOLATION_SERIALIZABLE`**：最高的隔离级别，完全服从 ACID 的隔离级别。所有的事务依次逐个执行，这样事务之间就完全不可能产生干扰，也就是说，**该级别可以防止脏读、不可重复读以及幻读**。但是这将严重影响程序的性能。通常情况下也不会用到该级别。
+
+## @Transactional(rollbackFor = Exception.class) 注解了解吗？
+`Exception` 分为运行时异常 `RuntimeException` 和非运行时异常。事务管理对于企业应用来说是至关重要的，即使出现异常情况，它也可以保证数据的一致性。
+
+当 `@Transactional` 注解作用于类上时，该类的所有 public 方法将都具有该类型的事务属性，同时，我们也可以在方法级别使用该标注来覆盖类级别的定义。
+
+`@Transactional` 注解默认回滚策略是只有在遇到`RuntimeException`(运行时异常) 或者 `Error` 时才会回滚事务，而不会回滚 `Checked Exception`（受检查异常）。这是因为 Spring 认为`RuntimeException`和 `Error` 是不可预期的错误，而受检异常是可预期的错误，可以通过业务逻辑来处理。
+
+![[Pasted image 20240726230149.png]]
+
+如果想要修改默认的回滚策略，可以使用 `@Transactional` 注解的 `rollbackFor` 和 `noRollbackFor` 属性来指定哪些异常需要回滚，哪些异常不需要回滚。例如，如果想要让所有的异常都回滚事务，可以使用如下的注解：
+```java
+@Transactional(rollbackFor = Exception.class)
+public void someMethod() {
+// some business logic
+}
+```
+
+如果想要让某些特定的异常不回滚事务，可以使用如下的注解：
+```java
+@Transactional(noRollbackFor = CustomException.class)
+public void someMethod() {
+// some business logic
+}
+```
 
 # Spring Data JPA
+## 如何使用 JPA 在数据库中非持久化一个字段？
+如果我们想让 `secrect` 这个字段不被持久化，也就是不被数据库存储怎么办？我们可以采用下面几种方法：
+```java
+static String transient1; // not persistent because of static
+final String transient2 = "Satish"; // not persistent because of final
+transient String transient3; // not persistent because of transient
+@Transient
+String transient4; // not persistent because of @Transient
+```
+
+## JPA 的审计功能是做什么的？有什么用？
+审计功能主要是帮助我们记录数据库操作的具体行为比如某条记录是谁创建的、什么时间创建的、最后修改人是谁、最后修改时间是什么时候。
+```java
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@MappedSuperclass
+@EntityListeners(value = AuditingEntityListener.class)
+public abstract class AbstractAuditBase {
+
+    @CreatedDate
+    @Column(updatable = false)
+    @JsonIgnore
+    private Instant createdAt;
+
+    @LastModifiedDate
+    @JsonIgnore
+    private Instant updatedAt;
+
+    @CreatedBy
+    @Column(updatable = false)
+    @JsonIgnore
+    private String createdBy;
+
+    @LastModifiedBy
+    @JsonIgnore
+    private String updatedBy;
+}
+```
+- `@CreatedDate`：表示该字段为创建时间字段，在这个实体被 insert 的时候，会设置值。
+- `@CreatedBy`：表示该字段为创建人，在这个实体被 insert 的时候，会设置值。
+- `@LastModifiedDate`、`@LastModifiedBy`同理。
+
+## 实体之间的关联关系注解有哪些？
+- `@OneToOne` : 一对一。
+- `@ManyToMany`：多对多。
+- `@OneToMany` : 一对多。
+- `@ManyToOne`：多对一。
+
+利用 `@ManyToOne` 和 `@OneToMany` 也可以表达多对多的关联关系。
 
 # Spring Security
+## 有哪些控制请求访问权限的方法？
+![[Pasted image 20240726230725.png]]
+
+- `permitAll()`：无条件允许任何形式访问，不管你登录还是没有登录。
+- `anonymous()`：允许匿名访问，也就是没有登录才可以访问。
+- `denyAll()`：无条件决绝任何形式的访问。
+- `authenticated()`：只允许已认证的用户访问。
+- `fullyAuthenticated()`：只允许已经登录或者通过 remember-me 登录的用户访问。
+- `hasRole(String)` : 只允许指定的角色访问。
+- `hasAnyRole(String)` : 指定一个或者多个角色，满足其一的用户即可访问。
+- `hasAuthority(String)`：只允许具有指定权限的用户访问
+- `hasAnyAuthority(String)`：指定一个或者多个权限，满足其一的用户即可访问。
+- `hasIpAddress(String)` : 只允许指定 ip 的用户访问。
+
+## hasRole 和 hasAuthority 有区别吗？
+代码上来说，hasRole 和 hasAuthority 写代码时前缀不同，但是最终执行是一样的；设计上来说，role 和 authority 这是两个层面的权限设计思路，一个是角色，一个是权限，角色是权限的集合。
+
+## 如何对密码进行加密？
+如果我们需要保存密码这类敏感数据到数据库的话，需要先加密再保存。
+
+Spring Security 提供了多种加密算法的实现，开箱即用，非常方便。这些加密算法实现类的接口是 `PasswordEncoder` ，如果你想要自己实现一个加密算法的话，也需要实现 `PasswordEncoder` 接口。
+
+`PasswordEncoder` 接口一共也就 3 个必须实现的方法。
+```java
+public interface PasswordEncoder {
+    // 加密也就是对原始密码进行编码
+    String encode(CharSequence var1);
+    // 比对原始密码和数据库中保存的密码
+    boolean matches(CharSequence var1, String var2);
+    // 判断加密密码是否需要再次进行加密，默认返回 false
+    default boolean upgradeEncoding(String encodedPassword) {
+        return false;
+    }
+}
+```
+
+![[Pasted image 20240726230822.png]]
+
+官方推荐使用基于 bcrypt 强哈希函数的加密算法实现类。
+
+## 如何优雅更换系统使用的加密算法？
+如果我们在开发过程中，突然发现现有的加密算法无法满足我们的需求，需要更换成另外一个加密算法，这个时候应该怎么办呢？
+
+推荐的做法是通过 `DelegatingPasswordEncoder` 兼容多种不同的密码加密方案，以适应不同的业务需求。
+
+从名字也能看出来，`DelegatingPasswordEncoder` 其实就是一个代理类，并非是一种全新的加密算法，它做的事情就是代理上面提到的加密算法实现类。在 Spring Security 5.0 之后，默认就是基于 `DelegatingPasswordEncoder` 进行密码加密的。
