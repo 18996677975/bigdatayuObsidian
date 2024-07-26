@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Spark",
+      "path": "数据平台工程师面试汇总/Spark.md"
+    },
+    {
       "basename": "Spring & SpringBoot常用注解总结",
       "path": "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "NoSQL 基础知识",
       "path": "JavaGuide/数据库/基础/NoSQL 基础知识.md"
-    },
-    {
-      "basename": "Yarn",
-      "path": "数据平台工程师面试汇总/Yarn.md"
     }
   ],
   "omittedPaths": []
