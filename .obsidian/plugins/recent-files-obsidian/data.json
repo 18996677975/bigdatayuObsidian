@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Soul 一面",
+      "path": "个人面试总结/Soul/Soul 一面.md"
+    },
+    {
       "basename": "字节 三面",
       "path": "个人面试总结/字节/字节 三面.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Raft 算法",
       "path": "JavaGuide/分布式/理论&算法&协议/Raft 算法.md"
-    },
-    {
-      "basename": "Paxos 算法",
-      "path": "JavaGuide/分布式/理论&算法&协议/Paxos 算法.md"
     }
   ],
   "omittedPaths": []

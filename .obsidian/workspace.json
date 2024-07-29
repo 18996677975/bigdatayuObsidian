@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人面试总结/字节/字节 三面.md",
+                "file": "个人面试总结/Soul/Soul 一面.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人面试总结/字节/字节 三面.md",
+                "file": "个人面试总结/Soul/Soul 一面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人面试总结/字节/字节 三面.md",
+                "file": "个人面试总结/Soul/Soul 一面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人面试总结/字节/字节 三面.md"
+                "file": "个人面试总结/Soul/Soul 一面.md"
               }
             }
           }
@@ -194,8 +194,10 @@
   },
   "active": "406e527eef68d9f3",
   "lastOpenFiles": [
-    "个人面试总结/字节/字节 二面.md",
     "个人面试总结/字节/字节 三面.md",
+    "个人面试总结/Soul/Soul 一面.md",
+    "个人面试总结/Soul",
+    "个人面试总结/字节/字节 二面.md",
     "个人面试总结/字节/字节 一面.md",
     "个人面试总结/拼多多/拼多多 三面.md",
     "个人面试总结/蚂蚁/蚂蚁 一面.md",
@@ -236,10 +238,8 @@
     "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
     "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
-    "JavaGuide/Java/IO/Java NIO 核心知识总结.md",
     "JavaGuide/分布式/分布式配置中心",
     "JavaGuide/分布式/RPC",
-    "JavaGuide/分布式/分布式事务",
     "数据平台工程师面试汇总/未命名.canvas"
   ]
 }
