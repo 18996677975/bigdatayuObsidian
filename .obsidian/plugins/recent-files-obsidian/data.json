@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "Flink",
+      "path": "数据平台工程师面试汇总/Flink.md"
+    },
+    {
+      "basename": "分布式事务常见解决方案",
+      "path": "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md"
+    },
+    {
+      "basename": "个人总结篇",
+      "path": "JavaGuide/分布式/个人总结篇.md"
+    },
+    {
+      "basename": "分布式锁常见实现方案总结",
+      "path": "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md"
+    },
+    {
+      "basename": "分布式配置中心常见问题",
+      "path": "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md"
+    },
+    {
+      "basename": "分布式ID介绍&实现方案总结",
+      "path": "JavaGuide/分布式/分布式ID/分布式ID介绍&实现方案总结.md"
+    },
+    {
+      "basename": "API网关基础知识总结",
+      "path": "JavaGuide/分布式/API网关/API网关基础知识总结.md"
+    },
+    {
+      "basename": "RPC",
+      "path": "JavaGuide/分布式/RPC/RPC.md"
+    },
+    {
+      "basename": "分布式面试总结",
+      "path": "JavaGuide/分布式/分布式面试总结.md"
+    },
+    {
+      "basename": "分布式锁介绍",
+      "path": "JavaGuide/分布式/分布式锁/分布式锁介绍.md"
+    },
+    {
+      "basename": "个人总结篇",
+      "path": "JavaGuide/数据库/个人总结篇.md"
+    },
+    {
+      "basename": "重点总结",
+      "path": "JavaGuide/重点总结.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "JavaGuide/系统设计/设计模式.md"
+    },
+    {
+      "basename": "负载均衡",
+      "path": "JavaGuide/高性能/负载均衡.md"
+    },
+    {
+      "basename": "Redis 常见面试题",
+      "path": "JavaGuide/数据库/Redis/Redis 常见面试题.md"
+    },
+    {
+      "basename": "Mysql 索引",
+      "path": "JavaGuide/数据库/Mysql/Mysql 索引.md"
+    },
+    {
+      "basename": "Mysql 常见面试题",
+      "path": "JavaGuide/数据库/Mysql/Mysql 常见面试题.md"
+    },
+    {
+      "basename": "MySQL高性能优化规范建议总结",
+      "path": "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md"
+    },
+    {
+      "basename": "NoSQL 基础知识",
+      "path": "JavaGuide/数据库/基础/NoSQL 基础知识.md"
+    },
+    {
+      "basename": "字符集",
+      "path": "JavaGuide/数据库/基础/字符集.md"
+    },
+    {
+      "basename": "数据库基础",
+      "path": "JavaGuide/数据库/基础/数据库基础.md"
+    },
+    {
+      "basename": "个人总结篇",
+      "path": "JavaGuide/Java/个人总结篇.md"
+    },
+    {
+      "basename": "Java NIO 核心知识总结",
+      "path": "JavaGuide/Java/IO/Java NIO 核心知识总结.md"
+    },
+    {
+      "basename": "Java IO 模型详解",
+      "path": "JavaGuide/Java/IO/Java IO 模型详解.md"
+    },
+    {
+      "basename": "Java IO 基础知识总结",
+      "path": "JavaGuide/Java/IO/Java IO 基础知识总结.md"
+    },
+    {
+      "basename": "汉迪 三面",
+      "path": "个人面试总结/汉迪/汉迪 三面.md"
+    },
+    {
       "basename": "谈薪资本",
       "path": "数据平台工程师面试汇总/谈薪资本.md"
     },
@@ -57,10 +161,6 @@
       "path": "个人面试总结/拼多多/拼多多 一面.md"
     },
     {
-      "basename": "Redis 常见面试题",
-      "path": "JavaGuide/数据库/Redis/Redis 常见面试题.md"
-    },
-    {
       "basename": "Spring 常见面试题",
       "path": "JavaGuide/常用框架/Spring 常见面试题.md"
     },
@@ -85,10 +185,6 @@
       "path": "个人面试总结/得物/得物 一面.md"
     },
     {
-      "basename": "Flink",
-      "path": "数据平台工程师面试汇总/Flink.md"
-    },
-    {
       "basename": "滑动窗口算法核心代码模板",
       "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
     },
@@ -103,102 +199,6 @@
     {
       "basename": "双指针技巧秒杀七道链表题目",
       "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md"
-    },
-    {
-      "basename": "【强化练习】链表双指针经典习题",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md"
-    },
-    {
-      "basename": "Java NIO 核心知识总结",
-      "path": "JavaGuide/Java/IO/Java NIO 核心知识总结.md"
-    },
-    {
-      "basename": "Java 基础常见面试题总结",
-      "path": "JavaGuide/Java/基础/Java 基础常见面试题总结.md"
-    },
-    {
-      "basename": "负载均衡",
-      "path": "JavaGuide/高性能/负载均衡.md"
-    },
-    {
-      "basename": "Java IO 基础知识总结",
-      "path": "JavaGuide/Java/IO/Java IO 基础知识总结.md"
-    },
-    {
-      "basename": "Java IO 设计模式总结",
-      "path": "JavaGuide/Java/IO/Java IO 设计模式总结.md"
-    },
-    {
-      "basename": "Java IO 模型详解",
-      "path": "JavaGuide/Java/IO/Java IO 模型详解.md"
-    },
-    {
-      "basename": "设计模式",
-      "path": "JavaGuide/系统设计/设计模式.md"
-    },
-    {
-      "basename": "重要项目逐字稿",
-      "path": "数据平台工程师面试汇总/重要项目逐字稿.md"
-    },
-    {
-      "basename": "分布式面试总结",
-      "path": "JavaGuide/分布式/分布式面试总结.md"
-    },
-    {
-      "basename": "RPC",
-      "path": "JavaGuide/分布式/RPC/RPC.md"
-    },
-    {
-      "basename": "个人总结篇",
-      "path": "JavaGuide/Java/个人总结篇.md"
-    },
-    {
-      "basename": "CAP & BASE 理论",
-      "path": "JavaGuide/分布式/理论&算法&协议/CAP & BASE 理论.md"
-    },
-    {
-      "basename": "分布式事务常见解决方案",
-      "path": "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md"
-    },
-    {
-      "basename": "API网关基础知识总结",
-      "path": "JavaGuide/分布式/API网关/API网关基础知识总结.md"
-    },
-    {
-      "basename": "分布式配置中心常见问题",
-      "path": "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md"
-    },
-    {
-      "basename": "分布式ID介绍&实现方案总结",
-      "path": "JavaGuide/分布式/分布式ID/分布式ID介绍&实现方案总结.md"
-    },
-    {
-      "basename": "分布式锁介绍",
-      "path": "JavaGuide/分布式/分布式锁/分布式锁介绍.md"
-    },
-    {
-      "basename": "分布式锁常见实现方案总结",
-      "path": "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md"
-    },
-    {
-      "basename": "Gossip 协议",
-      "path": "JavaGuide/分布式/理论&算法&协议/Gossip 协议.md"
-    },
-    {
-      "basename": "Mysql 常见面试题",
-      "path": "JavaGuide/数据库/Mysql/Mysql 常见面试题.md"
-    },
-    {
-      "basename": "Mysql 索引",
-      "path": "JavaGuide/数据库/Mysql/Mysql 索引.md"
-    },
-    {
-      "basename": "MySQL高性能优化规范建议总结",
-      "path": "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md"
-    },
-    {
-      "basename": "Raft 算法",
-      "path": "JavaGuide/分布式/理论&算法&协议/Raft 算法.md"
     }
   ],
   "omittedPaths": []

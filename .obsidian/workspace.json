@@ -4,31 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "8248aeeaa2716943",
+        "id": "f451720ce30678d2",
         "type": "tabs",
         "children": [
           {
-            "id": "2e154fd5aed69f87",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "39cc2451b0d395c6",
+            "id": "018ea0c259a9550d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据平台工程师面试汇总/谈薪资本.md",
+                "file": "JavaGuide/分布式/个人总结篇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbb121b5f1d6288a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "448ec77ae2cbbcac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据平台工程师面试汇总/Flink.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf0b3ddcbdff38d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据平台工程师面试汇总/谈薪资本.md",
+                "file": "数据平台工程师面试汇总/Flink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据平台工程师面试汇总/谈薪资本.md",
+                "file": "数据平台工程师面试汇总/Flink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据平台工程师面试汇总/谈薪资本.md"
+                "file": "数据平台工程师面试汇总/Flink.md"
               }
             }
           }
@@ -177,29 +205,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39cc2451b0d395c6",
+  "active": "448ec77ae2cbbcac",
   "lastOpenFiles": [
-    "个人面试总结/字节/字节 一面.md",
-    "个人面试总结/字节/字节 二面.md",
-    "个人面试总结/Soul/Soul 一面.md",
-    "个人面试总结/字节/字节 三面.md",
-    "个人面试总结/Soul",
-    "个人面试总结/拼多多/拼多多 三面.md",
-    "个人面试总结/蚂蚁/蚂蚁 一面.md",
-    "数据平台工程师面试汇总/Spark.md",
-    "个人面试总结/汉迪/汉迪 二面.md",
-    "个人面试总结/汉迪/汉迪 一面.md",
-    "个人面试总结/柠檬微趣/柠檬微趣 一面.md",
-    "个人面试总结/柠檬微趣/柠檬微趣 二面.md",
-    "个人面试总结/拼多多/拼多多 二面.md",
-    "个人面试总结/拼多多/拼多多 一面.md",
-    "数据平台工程师面试汇总/谈薪资本.md",
-    "ObsidianImages/Pasted image 20240727233352.png",
+    "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md",
+    "JavaGuide/分布式/个人总结篇.md",
+    "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md",
+    "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md",
+    "JavaGuide/分布式/分布式ID/分布式ID介绍&实现方案总结.md",
+    "JavaGuide/分布式/API网关/API网关基础知识总结.md",
+    "JavaGuide/分布式/RPC/RPC.md",
+    "JavaGuide/分布式/分布式面试总结.md",
+    "JavaGuide/分布式/分布式锁/分布式锁介绍.md",
+    "JavaGuide/数据库/个人总结篇.md",
+    "JavaGuide/重点总结.md",
+    "JavaGuide/系统设计/设计模式.md",
+    "JavaGuide/高性能/负载均衡.md",
     "JavaGuide/数据库/Redis/Redis 常见面试题.md",
-    "JavaGuide/常用框架/Spring 常见面试题.md",
-    "JavaGuide/常用框架/Spring Boot 常见面试题.md",
-    "JavaGuide/常用框架/Spring & SpringBoot常用注解总结.md",
-    "JavaGuide/常用框架/Spring Boot 核心源码解读.md",
+    "JavaGuide/数据库/Mysql/Mysql 索引.md",
+    "JavaGuide/数据库/Mysql/Mysql 常见面试题.md",
+    "JavaGuide/数据库/Mysql/MySQL高性能优化规范建议总结.md",
+    "JavaGuide/数据库/基础/NoSQL 基础知识.md",
+    "JavaGuide/数据库/基础/字符集.md",
+    "JavaGuide/数据库/基础/数据库基础.md",
+    "JavaGuide/Java/个人总结篇.md",
+    "JavaGuide/Java/IO/Java NIO 核心知识总结.md",
+    "JavaGuide/Java/IO/Java IO 模型详解.md",
+    "JavaGuide/Java/IO/Java IO 基础知识总结.md",
+    "个人面试总结/汉迪/汉迪 三面.md",
+    "数据平台工程师面试汇总/谈薪资本.md",
+    "个人面试总结/Soul",
+    "ObsidianImages/Pasted image 20240727233352.png",
     "ObsidianImages/Pasted image 20240726235323.png",
     "ObsidianImages/Pasted image 20240726235035.png",
     "ObsidianImages/Pasted image 20240726230822.png",
@@ -209,20 +244,13 @@
     "ObsidianImages/Pasted image 20240726223622.png",
     "ObsidianImages/Pasted image 20240726223520.png",
     "ObsidianImages/Pasted image 20240726011844.png",
-    "个人面试总结/得物/得物 二面.md",
-    "个人面试总结/得物/得物 一面.md",
     "个人面试总结/字节",
     "个人面试总结/汉迪",
-    "数据平台工程师面试汇总/Flink.md",
     "个人面试总结/蚂蚁",
-    "数据平台工程师面试汇总/Java.md",
     "个人面试总结/蚂蚁",
     "个人面试总结/快手",
     "个人面试总结/汉迪",
     "个人面试总结/字节",
-    "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md",
-    "labuladong 的算法笔记/数据结构刷题/刷链表算法/【强化练习】链表双指针经典习题.md",
     "JavaGuide/分布式/分布式配置中心",
     "JavaGuide/分布式/RPC",
     "数据平台工程师面试汇总/未命名.canvas"
