@@ -13,19 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/分布式/个人总结篇.md",
+                "file": "数据平台工程师面试汇总/数据仓库常见知识点.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cbb121b5f1d6288a",
+            "id": "ac90adc1edb62cd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md",
+                "file": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5753d4f81699399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "510d51d46d488c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据平台工程师面试汇总/重要项目逐字稿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86746b4e09384b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据平台工程师面试汇总/谈薪资本.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +78,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cf0b3ddcbdff38d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据平台工程师面试汇总/Flink.md",
+                "file": "数据平台工程师面试汇总/数据仓库常见知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据平台工程师面试汇总/Flink.md",
+                "file": "数据平台工程师面试汇总/数据仓库常见知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据平台工程师面试汇总/Flink.md"
+                "file": "数据平台工程师面试汇总/数据仓库常见知识点.md"
               }
             }
           }
@@ -205,10 +228,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "448ec77ae2cbbcac",
+  "active": "018ea0c259a9550d",
   "lastOpenFiles": [
-    "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md",
+    "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md",
+    "数据平台工程师面试汇总/谈薪资本.md",
+    "数据平台工程师面试汇总/重要项目逐字稿.md",
+    "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md",
+    "数据平台工程师面试汇总/数据仓库常见知识点.md",
     "JavaGuide/分布式/个人总结篇.md",
+    "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md",
+    "数据平台工程师面试汇总/Flink.md",
     "JavaGuide/分布式/分布式锁/分布式锁常见实现方案总结.md",
     "JavaGuide/分布式/分布式配置中心/分布式配置中心常见问题.md",
     "JavaGuide/分布式/分布式ID/分布式ID介绍&实现方案总结.md",
@@ -227,12 +256,6 @@
     "JavaGuide/数据库/基础/NoSQL 基础知识.md",
     "JavaGuide/数据库/基础/字符集.md",
     "JavaGuide/数据库/基础/数据库基础.md",
-    "JavaGuide/Java/个人总结篇.md",
-    "JavaGuide/Java/IO/Java NIO 核心知识总结.md",
-    "JavaGuide/Java/IO/Java IO 模型详解.md",
-    "JavaGuide/Java/IO/Java IO 基础知识总结.md",
-    "个人面试总结/汉迪/汉迪 三面.md",
-    "数据平台工程师面试汇总/谈薪资本.md",
     "个人面试总结/Soul",
     "ObsidianImages/Pasted image 20240727233352.png",
     "ObsidianImages/Pasted image 20240726235323.png",

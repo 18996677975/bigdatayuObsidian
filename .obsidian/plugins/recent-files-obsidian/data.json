@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Flink",
-      "path": "数据平台工程师面试汇总/Flink.md"
+      "basename": "数据仓库常见知识点",
+      "path": "数据平台工程师面试汇总/数据仓库常见知识点.md"
+    },
+    {
+      "basename": "CompletableFuture 详解",
+      "path": "JavaGuide/Java/并发/重要知识点/CompletableFuture 详解.md"
+    },
+    {
+      "basename": "谈薪资本",
+      "path": "数据平台工程师面试汇总/谈薪资本.md"
+    },
+    {
+      "basename": "重要项目逐字稿",
+      "path": "数据平台工程师面试汇总/重要项目逐字稿.md"
+    },
+    {
+      "basename": "Java 线程池详解",
+      "path": "JavaGuide/Java/并发/重要知识点/Java 线程池详解.md"
+    },
+    {
+      "basename": "个人总结篇",
+      "path": "JavaGuide/分布式/个人总结篇.md"
     },
     {
       "basename": "分布式事务常见解决方案",
       "path": "JavaGuide/分布式/分布式事务/分布式事务常见解决方案.md"
     },
     {
-      "basename": "个人总结篇",
-      "path": "JavaGuide/分布式/个人总结篇.md"
+      "basename": "Flink",
+      "path": "数据平台工程师面试汇总/Flink.md"
     },
     {
       "basename": "分布式锁常见实现方案总结",
@@ -105,10 +125,6 @@
       "path": "个人面试总结/汉迪/汉迪 三面.md"
     },
     {
-      "basename": "谈薪资本",
-      "path": "数据平台工程师面试汇总/谈薪资本.md"
-    },
-    {
       "basename": "字节 一面",
       "path": "个人面试总结/字节/字节 一面.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "得物 一面",
       "path": "个人面试总结/得物/得物 一面.md"
-    },
-    {
-      "basename": "滑动窗口算法核心代码模板",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷数组算法/滑动窗口算法核心代码模板.md"
-    },
-    {
-      "basename": "Java",
-      "path": "数据平台工程师面试汇总/Java.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道链表题目",
-      "path": "labuladong 的算法笔记/核心架构汇总/双指针技巧秒杀七道链表题目.md"
-    },
-    {
-      "basename": "双指针技巧秒杀七道链表题目",
-      "path": "labuladong 的算法笔记/数据结构刷题/刷链表算法/双指针技巧秒杀七道链表题目.md"
     }
   ],
   "omittedPaths": []
